@@ -1,0 +1,83 @@
+--------------------------------------------------
+unsupported
+; ignoring unsupported logic QF_SLIA line: 2 position: 0
+(error "line 18 column 41: unknown function/constant str.to_re")
+(error "line 19 column 26: unknown function/constant str.to_int")
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-017-graft-fuzz-graft.smt2 : 37 ms.
+--------------------------------------------------
+unsupported
+; ignoring unsupported logic QF_SLIA line: 2 position: 0
+(error "line 18 column 54: unknown function/constant str.to_re")
+(error "line 19 column 24: unknown function/constant str.to_int")
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-017-graft-fuzz-multiply.smt2 : 16 ms.
+--------------------------------------------------
+unsupported
+; ignoring unsupported logic QF_SLIA line: 2 position: 0
+(error "line 18 column 52: unknown function/constant str.to_re")
+(error "line 19 column 24: unknown function/constant str.to_int")
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-017-graft-fuzz-reverse.smt2 : 22 ms.
+--------------------------------------------------
+unsupported
+; ignoring unsupported logic QF_SLIA line: 2 position: 0
+(error "line 18 column 52: unknown function/constant str.to_re")
+(error "line 19 column 24: unknown function/constant str.to_int")
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-017-graft-fuzz-rotate.smt2 : 19 ms.
+--------------------------------------------------
+unsupported
+; ignoring unsupported logic QF_SLIA line: 2 position: 0
+(error "line 18 column 52: unknown function/constant str.to_re")
+(error "line 19 column 24: unknown function/constant str.to_int")
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-017-graft-fuzz-translate.smt2 : 16 ms.
+--------------------------------------------------
+unsupported
+; ignoring unsupported logic QF_SLIA line: 2 position: 0
+(error "line 18 column 58: unknown function/constant str.to_re")
+(error "line 19 column 26: unknown function/constant str.to_int")
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-017-reverse-fuzz-multiply.smt2 : 42 ms.
+--------------------------------------------------
+unsupported
+; ignoring unsupported logic QF_SLIA line: 2 position: 0
+(error "line 18 column 54: unknown function/constant str.to_re")
+(error "line 19 column 26: unknown function/constant str.to_int")
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-017-reverse-fuzz-reverse.smt2 : 25 ms.
+--------------------------------------------------
+unsupported
+; ignoring unsupported logic QF_SLIA line: 2 position: 0
+(error "line 18 column 54: unknown function/constant str.to_re")
+(error "line 19 column 26: unknown function/constant str.to_int")
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-017-reverse-fuzz-rotate.smt2 : 20 ms.
+--------------------------------------------------
+unsupported
+; ignoring unsupported logic QF_SLIA line: 2 position: 0
+(error "line 18 column 58: unknown function/constant str.to_re")
+(error "line 19 column 26: unknown function/constant str.to_int")
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-017-reverse-fuzz-translate.smt2 : 19 ms.
+--------------------------------------------------
+unsupported
+; ignoring unsupported logic QF_SLIA line: 2 position: 0
+(error "line 13 column 240: unknown function/constant str.from_code")
+(error "line 14 column 568: unknown function/constant str.replace_all")
+(error "line 28 column 23: unknown function/constant htmlEscape")
+(error "line 29 column 20: unknown function/constant toLower")
+(error "line 30 column 178: unknown function/constant str.to_re")
+sat
+QF_SLIA/20230331-transducer-plus/Equivalence/htmlEscape-toLower.smt2 : 32 ms.
+--------------------------------------------------
+unsupported
+; ignoring unsupported logic QF_SLIA line: 2 position: 0
+(error "line 13 column 251: unknown function/constant str.from_code")
+(error "line 14 column 568: unknown function/constant str.replace_all")
+(error "line 28 column 25: unknown function/constant htmlUnescape")
+(error "line 29 column 20: unknown function/constant toLower")
+(error "line 30 column 118: unknown function/constant str.to_re")
+sat
+QF_SLIA/20230331-transducer-plus/Equivalence/htmlUnescape-toLower.smt2 : 28 ms.

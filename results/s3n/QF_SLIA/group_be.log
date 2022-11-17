@@ -1,0 +1,104 @@
+--------------------------------------------------
+unsupported
+; ignoring unsupported logic QF_SLIA line: 2 position: 0
+(error "line 29 column 82: unknown function/constant str.to_re")
+(error "line 30 column 50: unknown function/constant str.in_re")
+(error "line 31 column 64: unknown function/constant str.in_re")
+(error "line 32 column 50: unknown function/constant str.in_re")
+(error "line 33 column 91: unknown function/constant str.to_re")
+sat
+QF_SLIA/2015-Norn/HammingDistance/norn-benchmark-107.smt2 : 65 ms.
+--------------------------------------------------
+unsupported
+; ignoring unsupported logic QF_SLIA line: 2 position: 0
+(error "line 29 column 92: unknown function/constant str.to_re")
+(error "line 30 column 82: unknown function/constant str.to_re")
+(error "line 31 column 82: unknown function/constant str.to_re")
+(error "line 32 column 82: unknown function/constant str.to_re")
+(error "line 33 column 50: unknown function/constant str.in_re")
+(error "line 34 column 50: unknown function/constant str.in_re")
+(error "line 35 column 95: unknown function/constant str.to_re")
+sat
+QF_SLIA/2015-Norn/HammingDistance/norn-benchmark-1074.smt2 : 21 ms.
+--------------------------------------------------
+unsupported
+; ignoring unsupported logic QF_SLIA line: 2 position: 0
+(error "line 29 column 92: unknown function/constant str.to_re")
+(error "line 30 column 50: unknown function/constant str.in_re")
+(error "line 31 column 50: unknown function/constant str.in_re")
+(error "line 32 column 101: unknown function/constant str.to_re")
+sat
+QF_SLIA/2015-Norn/HammingDistance/norn-benchmark-1089.smt2 : 40 ms.
+--------------------------------------------------
+unsupported
+; ignoring unsupported logic QF_SLIA line: 2 position: 0
+(error "line 29 column 92: unknown function/constant str.to_re")
+(error "line 30 column 50: unknown function/constant str.in_re")
+(error "line 31 column 50: unknown function/constant str.in_re")
+(error "line 32 column 84: unknown function/constant str.to_re")
+sat
+QF_SLIA/2015-Norn/HammingDistance/norn-benchmark-1094.smt2 : 20 ms.
+--------------------------------------------------
+unsupported
+; ignoring unsupported logic QF_SLIA line: 2 position: 0
+(error "line 29 column 92: unknown function/constant str.to_re")
+(error "line 30 column 50: unknown function/constant str.in_re")
+(error "line 31 column 50: unknown function/constant str.in_re")
+(error "line 32 column 101: unknown function/constant str.to_re")
+sat
+QF_SLIA/2015-Norn/HammingDistance/norn-benchmark-1109.smt2 : 27 ms.
+--------------------------------------------------
+unsupported
+; ignoring unsupported logic QF_SLIA line: 2 position: 0
+(error "line 29 column 92: unknown function/constant str.to_re")
+(error "line 30 column 50: unknown function/constant str.in_re")
+(error "line 31 column 50: unknown function/constant str.in_re")
+(error "line 32 column 105: unknown function/constant str.to_re")
+sat
+QF_SLIA/2015-Norn/HammingDistance/norn-benchmark-1130.smt2 : 31 ms.
+--------------------------------------------------
+unsupported
+; ignoring unsupported logic QF_SLIA line: 2 position: 0
+(error "line 29 column 92: unknown function/constant str.to_re")
+(error "line 30 column 50: unknown function/constant str.in_re")
+(error "line 31 column 50: unknown function/constant str.in_re")
+(error "line 32 column 95: unknown function/constant str.to_re")
+sat
+QF_SLIA/2015-Norn/HammingDistance/norn-benchmark-1141.smt2 : 23 ms.
+--------------------------------------------------
+unsupported
+; ignoring unsupported logic QF_SLIA line: 2 position: 0
+(error "line 29 column 92: unknown function/constant str.to_re")
+(error "line 30 column 50: unknown function/constant str.in_re")
+(error "line 31 column 50: unknown function/constant str.in_re")
+(error "line 32 column 92: unknown function/constant str.to_re")
+sat
+QF_SLIA/2015-Norn/HammingDistance/norn-benchmark-1152.smt2 : 25 ms.
+--------------------------------------------------
+unsupported
+; ignoring unsupported logic QF_SLIA line: 2 position: 0
+(error "line 29 column 92: unknown function/constant str.to_re")
+(error "line 30 column 50: unknown function/constant str.in_re")
+(error "line 31 column 50: unknown function/constant str.in_re")
+(error "line 32 column 105: unknown function/constant str.to_re")
+sat
+QF_SLIA/2015-Norn/HammingDistance/norn-benchmark-1156.smt2 : 21 ms.
+--------------------------------------------------
+unsupported
+; ignoring unsupported logic QF_SLIA line: 2 position: 0
+(error "line 29 column 75: unknown function/constant str.to_re")
+(error "line 30 column 50: unknown function/constant str.in_re")
+(error "line 31 column 50: unknown function/constant str.in_re")
+(error "line 32 column 101: unknown function/constant str.to_re")
+sat
+QF_SLIA/2015-Norn/HammingDistance/norn-benchmark-1179.smt2 : 25 ms.
+--------------------------------------------------
+unsupported
+; ignoring unsupported logic QF_SLIA line: 2 position: 0
+(error "line 29 column 92: unknown function/constant str.to_re")
+(error "line 30 column 82: unknown function/constant str.to_re")
+(error "line 31 column 50: unknown function/constant str.in_re")
+(error "line 32 column 50: unknown function/constant str.in_re")
+(error "line 33 column 91: unknown function/constant str.to_re")
+sat
+QF_SLIA/2015-Norn/HammingDistance/norn-benchmark-118.smt2 : 20 ms.

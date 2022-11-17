@@ -1,0 +1,104 @@
+--------------------------------------------------
+unsupported
+; ignoring unsupported logic QF_SLIA line: 2 position: 0
+(error "line 17 column 61: unknown function/constant str.to_re")
+(error "line 18 column 58: unknown function/constant str.to_re")
+(error "line 19 column 63: unknown function/constant str.to_re")
+(error "line 20 column 62: unknown function/constant str.to_re")
+sat
+QF_SLIA/20230327-stringfuzz-lu/generated/manyregexes/many-regexes-00004-23.smt2 : 71 ms.
+--------------------------------------------------
+unsupported
+; ignoring unsupported logic QF_SLIA line: 2 position: 0
+(error "line 17 column 63: unknown function/constant str.to_re")
+(error "line 18 column 63: unknown function/constant str.to_re")
+(error "line 19 column 57: unknown function/constant str.to_re")
+(error "line 20 column 61: unknown function/constant str.to_re")
+sat
+QF_SLIA/20230327-stringfuzz-lu/generated/manyregexes/many-regexes-00004-25.smt2 : 29 ms.
+--------------------------------------------------
+unsupported
+; ignoring unsupported logic QF_SLIA line: 2 position: 0
+(error "line 17 column 62: unknown function/constant str.to_re")
+(error "line 18 column 58: unknown function/constant str.to_re")
+(error "line 19 column 61: unknown function/constant str.to_re")
+(error "line 20 column 62: unknown function/constant str.to_re")
+sat
+QF_SLIA/20230327-stringfuzz-lu/generated/manyregexes/many-regexes-00004-27.smt2 : 15 ms.
+--------------------------------------------------
+unsupported
+; ignoring unsupported logic QF_SLIA line: 2 position: 0
+(error "line 17 column 62: unknown function/constant str.to_re")
+(error "line 18 column 63: unknown function/constant str.to_re")
+(error "line 19 column 59: unknown function/constant str.to_re")
+(error "line 20 column 58: unknown function/constant str.to_re")
+sat
+QF_SLIA/20230327-stringfuzz-lu/generated/manyregexes/many-regexes-00004-3.smt2 : 34 ms.
+--------------------------------------------------
+unsupported
+; ignoring unsupported logic QF_SLIA line: 2 position: 0
+(error "line 17 column 62: unknown function/constant str.to_re")
+(error "line 18 column 62: unknown function/constant str.to_re")
+(error "line 19 column 62: unknown function/constant str.to_re")
+(error "line 20 column 61: unknown function/constant str.to_re")
+sat
+QF_SLIA/20230327-stringfuzz-lu/generated/manyregexes/many-regexes-00004-8.smt2 : 16 ms.
+--------------------------------------------------
+unsupported
+; ignoring unsupported logic QF_SLIA line: 2 position: 0
+(error "line 17 column 59: unknown function/constant str.to_re")
+(error "line 18 column 63: unknown function/constant str.to_re")
+(error "line 19 column 66: unknown function/constant str.to_re")
+(error "line 20 column 58: unknown function/constant str.to_re")
+(error "line 21 column 63: unknown function/constant str.to_re")
+(error "line 22 column 57: unknown function/constant str.to_re")
+(error "line 23 column 66: unknown function/constant str.to_re")
+sat
+QF_SLIA/20230327-stringfuzz-lu/generated/manyregexes/many-regexes-00007-0.smt2 : 16 ms.
+--------------------------------------------------
+unsupported
+; ignoring unsupported logic QF_SLIA line: 2 position: 0
+(error "line 29 column 47: unknown function/constant str.in_re")
+(error "line 30 column 50: unknown function/constant str.in_re")
+(error "line 31 column 55: unknown function/constant str.to_re")
+(error "line 32 column 74: unknown function/constant str.to_re")
+sat
+QF_SLIA/2015-Norn/ChunkSplit/norn-benchmark-19.smt2 : 27 ms.
+--------------------------------------------------
+unsupported
+; ignoring unsupported logic QF_SLIA line: 2 position: 0
+(error "line 29 column 55: unknown function/constant str.to_re")
+(error "line 30 column 74: unknown function/constant str.to_re")
+sat
+QF_SLIA/2015-Norn/ChunkSplit/norn-benchmark-21.smt2 : 22 ms.
+--------------------------------------------------
+unsupported
+; ignoring unsupported logic QF_SLIA line: 2 position: 0
+(error "line 29 column 47: unknown function/constant str.in_re")
+(error "line 30 column 55: unknown function/constant str.to_re")
+(error "line 31 column 55: unknown function/constant str.in_re")
+sat
+QF_SLIA/2015-Norn/ChunkSplit/norn-benchmark-23.smt2 : 28 ms.
+--------------------------------------------------
+unsupported
+; ignoring unsupported logic QF_SLIA line: 2 position: 0
+(error "line 29 column 93: unknown function/constant str.to_re")
+(error "line 30 column 93: unknown function/constant str.to_re")
+(error "line 31 column 76: unknown function/constant str.to_re")
+(error "line 32 column 51: unknown function/constant str.in_re")
+(error "line 33 column 50: unknown function/constant str.in_re")
+(error "line 34 column 89: unknown function/constant str.to_re")
+sat
+QF_SLIA/2015-Norn/HammingDistance/norn-benchmark-1018.smt2 : 37 ms.
+--------------------------------------------------
+unsupported
+; ignoring unsupported logic QF_SLIA line: 2 position: 0
+(error "line 29 column 82: unknown function/constant str.to_re")
+(error "line 30 column 82: unknown function/constant str.to_re")
+(error "line 31 column 82: unknown function/constant str.to_re")
+(error "line 32 column 92: unknown function/constant str.to_re")
+(error "line 33 column 50: unknown function/constant str.in_re")
+(error "line 34 column 50: unknown function/constant str.in_re")
+(error "line 35 column 105: unknown function/constant str.to_re")
+sat
+QF_SLIA/2015-Norn/HammingDistance/norn-benchmark-1063.smt2 : 29 ms.

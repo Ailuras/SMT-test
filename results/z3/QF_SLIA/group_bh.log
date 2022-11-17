@@ -1,0 +1,33 @@
+--------------------------------------------------
+timeout
+QF_SLIA/2018-Kepler/quad-length-115-4-3-sat.smt2 : 1200544 ms.
+--------------------------------------------------
+timeout
+QF_SLIA/2018-Kepler/quad-length-117-4-4-sat.smt2 : 1200268 ms.
+--------------------------------------------------
+timeout
+QF_SLIA/2018-Kepler/quad-length-119-4-4-sat.smt2 : 1202364 ms.
+--------------------------------------------------
+timeout
+QF_SLIA/2015-Norn/HammingDistance/norn-benchmark-840.smt2 : 1200279 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/2015-Norn/HammingDistance/norn-benchmark-867.smt2 : 329 ms.
+--------------------------------------------------
+timeout
+QF_SLIA/2015-Norn/HammingDistance/norn-benchmark-930.smt2 : 1200046 ms.
+--------------------------------------------------
+timeout
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-050-fuzz.smt2 : 1200107 ms.
+--------------------------------------------------
+(error "failed to open file '/home/hanrui/QF_SLIA/home/hanrui/(error'")
+QF_SLIA/home/hanrui/(error "expecting a single constant string term in regexp range") : 9 ms.
+--------------------------------------------------
+timeout
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-017-translate-reverse-fuzz.smt2 : 1200068 ms.
+--------------------------------------------------
+timeout
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-018-reverse-translate-fuzz.smt2 : 1200082 ms.
+--------------------------------------------------
+timeout
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-018-translate-translate-fuzz.smt2 : 1200165 ms.

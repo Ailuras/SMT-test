@@ -1,0 +1,33 @@
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/generated/variants/cd57d91f.smt2 : 88 ms.
+--------------------------------------------------
+timeout
+QF_SLIA/20230327-stringfuzz-lu/generated/variants/cefc6fe1.smt2 : 1200233 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/generated/variants/cf505d93.smt2 : 342332 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/generated/variants/cf6a19d3.smt2 : 103 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/generated/variants/cf7a5d58.smt2 : 84 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/generated/variants/d0f49193.smt2 : 399337 ms.
+--------------------------------------------------
+timeout
+QF_SLIA/20230327-stringfuzz-lu/generated/variants/d2d3beaa.smt2 : 1226207 ms.
+--------------------------------------------------
+timeout
+QF_SLIA/20230327-stringfuzz-lu/generated/variants/d3fd828a.smt2 : 1201672 ms.
+--------------------------------------------------
+timeout
+QF_SLIA/20230327-stringfuzz-lu/generated/variants/d479fdda.smt2 : 1200060 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/generated/variants/d4ab9855.smt2 : 51014 ms.
+--------------------------------------------------
+timeout
+QF_SLIA/20230327-stringfuzz-lu/generated/variants/d53a27e4.smt2 : 1200081 ms.

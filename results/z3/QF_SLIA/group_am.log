@@ -1,0 +1,33 @@
+--------------------------------------------------
+timeout
+QF_SLIA/2018-Kepler/quad-209-4-5-sat.smt2 : 1201264 ms.
+--------------------------------------------------
+timeout
+QF_SLIA/2015-Norn/StringReplace/norn-benchmark-103.smt2 : 1200076 ms.
+--------------------------------------------------
+timeout
+QF_SLIA/2015-Norn/StringReplace/norn-benchmark-106.smt2 : 1204035 ms.
+--------------------------------------------------
+timeout
+QF_SLIA/2015-Norn/StringReplace/norn-benchmark-112.smt2 : 1200164 ms.
+--------------------------------------------------
+timeout
+QF_SLIA/20230327-stringfuzz-lu/generated/manyregexes/many-regexes-00007-1.smt2 : 1200149 ms.
+--------------------------------------------------
+timeout
+QF_SLIA/20230327-stringfuzz-lu/generated/manyregexes/many-regexes-00007-16.smt2 : 1200092 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/generated/manyregexes/many-regexes-00007-17.smt2 : 66 ms.
+--------------------------------------------------
+timeout
+QF_SLIA/20230327-stringfuzz-lu/generated/manyregexes/many-regexes-00007-22.smt2 : 1200100 ms.
+--------------------------------------------------
+timeout
+QF_SLIA/20230327-stringfuzz-lu/generated/manyregexes/many-regexes-00007-23.smt2 : 1200102 ms.
+--------------------------------------------------
+timeout
+QF_SLIA/20230327-stringfuzz-lu/generated/manyregexes/many-regexes-00007-29.smt2 : 1200577 ms.
+--------------------------------------------------
+timeout
+QF_SLIA/20230327-stringfuzz-lu/generated/manyregexes/many-regexes-00007-5.smt2 : 1200064 ms.

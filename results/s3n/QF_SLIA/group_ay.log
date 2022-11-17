@@ -1,0 +1,65 @@
+--------------------------------------------------
+unsupported
+; ignoring unsupported logic QF_SLIA line: 2 position: 0
+(error "line 55 column 145: unknown function/constant str.in_re")
+(error "line 56 column 145: unknown function/constant str.in_re")
+(error "line 61 column 57: unknown function/constant str.to_re")
+sat
+QF_SLIA/20230403-webapp/str-rep/str_replace130.smt2 : 62 ms.
+--------------------------------------------------
+unsupported
+; ignoring unsupported logic QF_SLIA line: 2 position: 0
+(error "line 153 column 145: unknown function/constant str.in_re")
+(error "line 154 column 145: unknown function/constant str.in_re")
+(error "line 180 column 59: unknown function/constant str.to_re")
+sat
+QF_SLIA/20230403-webapp/str-rep/str_replace131.smt2 : 64 ms.
+--------------------------------------------------
+unsupported
+; ignoring unsupported logic QF_SLIA line: 2 position: 0
+(error "line 18 column 69: unknown function/constant str.to_re")
+(error "line 19 column 26: unknown function/constant str.to_int")
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-012-unsat-fuzz-translate-fuzz.smt2 : 36 ms.
+--------------------------------------------------
+unsupported
+; ignoring unsupported logic QF_SLIA line: 2 position: 0
+(error "line 18 column 41: unknown function/constant str.to_re")
+(error "line 19 column 24: unknown function/constant str.to_int")
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-012-unsat-rotate-graft-fuzz.smt2 : 31 ms.
+--------------------------------------------------
+unsupported
+; ignoring unsupported logic QF_SLIA line: 2 position: 0
+(error "line 18 column 59: unknown function/constant str.to_re")
+(error "line 19 column 26: unknown function/constant str.to_int")
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-012-unsat-translate-translate-fuzz.smt2 : 23 ms.
+--------------------------------------------------
+unsupported
+; ignoring unsupported logic QF_SLIA line: 2 position: 0
+unsat
+QF_SLIA/20180523-Reynolds/pyex/peterc-pyex-doc-cav17-td/pymongo/pymongo-mongoclient/a5cb68fb778b9b0c711d814f1930d0e0fe0fb48370bb8de33d2f6802.smt2 : 215 ms.
+--------------------------------------------------
+unsupported
+; ignoring unsupported logic QF_SLIA line: 2 position: 0
+QF_SLIA/20190311-str-small-rw-Noetzli/str-pred-small-rw/str-pred-small-rw_142.smt2 : 1200703 ms.
+--------------------------------------------------
+unsupported
+; ignoring unsupported logic QF_SLIA line: 2 position: 0
+QF_SLIA/20190311-str-small-rw-Noetzli/str-pred-small-rw/str-pred-small-rw_144.smt2 : 1200583 ms.
+--------------------------------------------------
+unsupported
+; ignoring unsupported logic QF_SLIA line: 2 position: 0
+QF_SLIA/20190311-str-small-rw-Noetzli/str-pred-small-rw/str-pred-small-rw_186.smt2 : 1200058 ms.
+--------------------------------------------------
+unsupported
+; ignoring unsupported logic QF_SLIA line: 2 position: 0
+QF_SLIA/20190311-str-small-rw-Noetzli/str-pred-small-rw/str-pred-small-rw_187.smt2 : 1200135 ms.
+--------------------------------------------------
+unsupported
+; ignoring unsupported logic QF_SLIA line: 2 position: 0
+(error "line 18 column 109: unknown function/constant str.to_re")
+(error "line 19 column 27: unknown function/constant str.to_int")
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-016-fuzz-multiply-fuzz.smt2 : 126 ms.

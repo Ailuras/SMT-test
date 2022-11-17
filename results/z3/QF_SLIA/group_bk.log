@@ -1,0 +1,33 @@
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/generated/variants/2eecb5c9.smt2 : 67113 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/generated/variants/319b1c41.smt2 : 195774 ms.
+--------------------------------------------------
+timeout
+QF_SLIA/20230327-stringfuzz-lu/generated/variants/33801167.smt2 : 1200156 ms.
+--------------------------------------------------
+timeout
+QF_SLIA/20230327-stringfuzz-lu/generated/variants/3498fb50.smt2 : 1200218 ms.
+--------------------------------------------------
+timeout
+QF_SLIA/2018-Kepler/quad-length-029-3-1-sat.smt2 : 1202062 ms.
+--------------------------------------------------
+timeout
+QF_SLIA/2018-Kepler/quad-length-031-3-1-sat.smt2 : 1200346 ms.
+--------------------------------------------------
+timeout
+QF_SLIA/2018-Kepler/quad-length-033-3-2-sat.smt2 : 1200665 ms.
+--------------------------------------------------
+timeout
+QF_SLIA/2018-Kepler/quad-length-035-3-2-sat.smt2 : 1200069 ms.
+--------------------------------------------------
+timeout
+QF_SLIA/2018-Kepler/quad-length-037-3-2-sat.smt2 : 1200451 ms.
+--------------------------------------------------
+timeout
+QF_SLIA/2018-Kepler/quad-length-039-3-3-sat.smt2 : 1200759 ms.
+--------------------------------------------------
+timeout
+QF_SLIA/2018-Kepler/quad-length-041-3-4-sat.smt2 : 1201514 ms.

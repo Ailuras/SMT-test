@@ -1,0 +1,262 @@
+--------------------------------------------------
+unsupported
+; ignoring unsupported logic QF_SLIA line: 2 position: 0
+(error "line 17 column 59: unknown function/constant str.to_re")
+(error "line 18 column 61: unknown function/constant str.to_re")
+(error "line 19 column 58: unknown function/constant str.to_re")
+(error "line 20 column 59: unknown function/constant str.to_re")
+(error "line 21 column 57: unknown function/constant str.to_re")
+(error "line 22 column 59: unknown function/constant str.to_re")
+(error "line 23 column 61: unknown function/constant str.to_re")
+(error "line 24 column 57: unknown function/constant str.to_re")
+(error "line 25 column 63: unknown function/constant str.to_re")
+(error "line 26 column 67: unknown function/constant str.to_re")
+(error "line 27 column 62: unknown function/constant str.to_re")
+(error "line 28 column 59: unknown function/constant str.to_re")
+(error "line 29 column 59: unknown function/constant str.to_re")
+(error "line 30 column 63: unknown function/constant str.to_re")
+(error "line 31 column 57: unknown function/constant str.to_re")
+(error "line 32 column 59: unknown function/constant str.to_re")
+(error "line 33 column 61: unknown function/constant str.to_re")
+(error "line 34 column 57: unknown function/constant str.to_re")
+(error "line 35 column 58: unknown function/constant str.to_re")
+(error "line 36 column 59: unknown function/constant str.to_re")
+(error "line 37 column 61: unknown function/constant str.to_re")
+(error "line 38 column 62: unknown function/constant str.to_re")
+(error "line 39 column 65: unknown function/constant str.to_re")
+(error "line 40 column 63: unknown function/constant str.to_re")
+(error "line 41 column 58: unknown function/constant str.to_re")
+(error "line 42 column 58: unknown function/constant str.to_re")
+(error "line 43 column 58: unknown function/constant str.to_re")
+(error "line 44 column 63: unknown function/constant str.to_re")
+(error "line 45 column 63: unknown function/constant str.to_re")
+(error "line 46 column 63: unknown function/constant str.to_re")
+(error "line 47 column 62: unknown function/constant str.to_re")
+sat
+QF_SLIA/20230327-stringfuzz-lu/generated/manyregexes/many-regexes-00031-12.smt2 : 78 ms.
+--------------------------------------------------
+unsupported
+; ignoring unsupported logic QF_SLIA line: 2 position: 0
+(error "line 17 column 58: unknown function/constant str.to_re")
+(error "line 18 column 57: unknown function/constant str.to_re")
+(error "line 19 column 57: unknown function/constant str.to_re")
+(error "line 20 column 63: unknown function/constant str.to_re")
+(error "line 21 column 62: unknown function/constant str.to_re")
+(error "line 22 column 63: unknown function/constant str.to_re")
+(error "line 23 column 61: unknown function/constant str.to_re")
+(error "line 24 column 63: unknown function/constant str.to_re")
+(error "line 25 column 61: unknown function/constant str.to_re")
+(error "line 26 column 63: unknown function/constant str.to_re")
+(error "line 27 column 58: unknown function/constant str.to_re")
+(error "line 28 column 58: unknown function/constant str.to_re")
+(error "line 29 column 63: unknown function/constant str.to_re")
+(error "line 30 column 59: unknown function/constant str.to_re")
+(error "line 31 column 61: unknown function/constant str.to_re")
+(error "line 32 column 63: unknown function/constant str.to_re")
+(error "line 33 column 59: unknown function/constant str.to_re")
+(error "line 34 column 57: unknown function/constant str.to_re")
+(error "line 35 column 57: unknown function/constant str.to_re")
+(error "line 36 column 58: unknown function/constant str.to_re")
+(error "line 37 column 63: unknown function/constant str.to_re")
+(error "line 38 column 58: unknown function/constant str.to_re")
+(error "line 39 column 61: unknown function/constant str.to_re")
+(error "line 40 column 62: unknown function/constant str.to_re")
+(error "line 41 column 63: unknown function/constant str.to_re")
+(error "line 42 column 63: unknown function/constant str.to_re")
+(error "line 43 column 57: unknown function/constant str.to_re")
+(error "line 44 column 59: unknown function/constant str.to_re")
+(error "line 45 column 67: unknown function/constant str.to_re")
+(error "line 46 column 67: unknown function/constant str.to_re")
+(error "line 47 column 62: unknown function/constant str.to_re")
+sat
+QF_SLIA/20230327-stringfuzz-lu/generated/manyregexes/many-regexes-00031-15.smt2 : 30 ms.
+--------------------------------------------------
+unsupported
+; ignoring unsupported logic QF_SLIA line: 2 position: 0
+(error "line 17 column 63: unknown function/constant str.to_re")
+(error "line 18 column 62: unknown function/constant str.to_re")
+(error "line 19 column 58: unknown function/constant str.to_re")
+(error "line 20 column 61: unknown function/constant str.to_re")
+(error "line 21 column 63: unknown function/constant str.to_re")
+(error "line 22 column 59: unknown function/constant str.to_re")
+(error "line 23 column 62: unknown function/constant str.to_re")
+(error "line 24 column 62: unknown function/constant str.to_re")
+(error "line 25 column 57: unknown function/constant str.to_re")
+(error "line 26 column 67: unknown function/constant str.to_re")
+(error "line 27 column 58: unknown function/constant str.to_re")
+(error "line 28 column 59: unknown function/constant str.to_re")
+(error "line 29 column 58: unknown function/constant str.to_re")
+(error "line 30 column 57: unknown function/constant str.to_re")
+(error "line 31 column 59: unknown function/constant str.to_re")
+(error "line 32 column 61: unknown function/constant str.to_re")
+(error "line 33 column 63: unknown function/constant str.to_re")
+(error "line 34 column 59: unknown function/constant str.to_re")
+(error "line 35 column 59: unknown function/constant str.to_re")
+(error "line 36 column 63: unknown function/constant str.to_re")
+(error "line 37 column 62: unknown function/constant str.to_re")
+(error "line 38 column 61: unknown function/constant str.to_re")
+(error "line 39 column 62: unknown function/constant str.to_re")
+(error "line 40 column 61: unknown function/constant str.to_re")
+(error "line 41 column 61: unknown function/constant str.to_re")
+(error "line 42 column 57: unknown function/constant str.to_re")
+(error "line 43 column 59: unknown function/constant str.to_re")
+(error "line 44 column 58: unknown function/constant str.to_re")
+(error "line 45 column 59: unknown function/constant str.to_re")
+(error "line 46 column 61: unknown function/constant str.to_re")
+(error "line 47 column 58: unknown function/constant str.to_re")
+(error "line 48 column 57: unknown function/constant str.to_re")
+(error "line 49 column 57: unknown function/constant str.to_re")
+(error "line 50 column 62: unknown function/constant str.to_re")
+(error "line 51 column 67: unknown function/constant str.to_re")
+(error "line 52 column 67: unknown function/constant str.to_re")
+(error "line 53 column 67: unknown function/constant str.to_re")
+sat
+QF_SLIA/20230327-stringfuzz-lu/generated/manyregexes/many-regexes-00037-19.smt2 : 26 ms.
+--------------------------------------------------
+unsupported
+; ignoring unsupported logic QF_SLIA line: 2 position: 0
+(error "line 17 column 62: unknown function/constant str.to_re")
+(error "line 18 column 61: unknown function/constant str.to_re")
+(error "line 19 column 59: unknown function/constant str.to_re")
+(error "line 20 column 57: unknown function/constant str.to_re")
+(error "line 21 column 57: unknown function/constant str.to_re")
+(error "line 22 column 59: unknown function/constant str.to_re")
+(error "line 23 column 59: unknown function/constant str.to_re")
+(error "line 24 column 61: unknown function/constant str.to_re")
+(error "line 25 column 65: unknown function/constant str.to_re")
+(error "line 26 column 67: unknown function/constant str.to_re")
+(error "line 27 column 61: unknown function/constant str.to_re")
+(error "line 28 column 61: unknown function/constant str.to_re")
+(error "line 29 column 57: unknown function/constant str.to_re")
+(error "line 30 column 61: unknown function/constant str.to_re")
+(error "line 31 column 57: unknown function/constant str.to_re")
+(error "line 32 column 58: unknown function/constant str.to_re")
+(error "line 33 column 61: unknown function/constant str.to_re")
+(error "line 34 column 57: unknown function/constant str.to_re")
+(error "line 35 column 59: unknown function/constant str.to_re")
+(error "line 36 column 61: unknown function/constant str.to_re")
+(error "line 37 column 59: unknown function/constant str.to_re")
+(error "line 38 column 57: unknown function/constant str.to_re")
+(error "line 39 column 59: unknown function/constant str.to_re")
+(error "line 40 column 63: unknown function/constant str.to_re")
+(error "line 41 column 63: unknown function/constant str.to_re")
+(error "line 42 column 61: unknown function/constant str.to_re")
+(error "line 43 column 62: unknown function/constant str.to_re")
+(error "line 44 column 58: unknown function/constant str.to_re")
+(error "line 45 column 58: unknown function/constant str.to_re")
+(error "line 46 column 59: unknown function/constant str.to_re")
+(error "line 47 column 57: unknown function/constant str.to_re")
+(error "line 48 column 59: unknown function/constant str.to_re")
+(error "line 49 column 61: unknown function/constant str.to_re")
+(error "line 50 column 63: unknown function/constant str.to_re")
+(error "line 51 column 59: unknown function/constant str.to_re")
+(error "line 52 column 57: unknown function/constant str.to_re")
+(error "line 53 column 58: unknown function/constant str.to_re")
+(error "line 54 column 61: unknown function/constant str.to_re")
+(error "line 55 column 62: unknown function/constant str.to_re")
+(error "line 56 column 62: unknown function/constant str.to_re")
+sat
+QF_SLIA/20230327-stringfuzz-lu/generated/manyregexes/many-regexes-00040-11.smt2 : 31 ms.
+--------------------------------------------------
+unsupported
+; ignoring unsupported logic QF_SLIA line: 2 position: 0
+(error "line 17 column 63: unknown function/constant str.to_re")
+(error "line 18 column 57: unknown function/constant str.to_re")
+(error "line 19 column 61: unknown function/constant str.to_re")
+(error "line 20 column 57: unknown function/constant str.to_re")
+(error "line 21 column 59: unknown function/constant str.to_re")
+(error "line 22 column 61: unknown function/constant str.to_re")
+(error "line 23 column 59: unknown function/constant str.to_re")
+(error "line 24 column 65: unknown function/constant str.to_re")
+(error "line 25 column 63: unknown function/constant str.to_re")
+(error "line 26 column 63: unknown function/constant str.to_re")
+(error "line 27 column 62: unknown function/constant str.to_re")
+(error "line 28 column 57: unknown function/constant str.to_re")
+(error "line 29 column 57: unknown function/constant str.to_re")
+(error "line 30 column 59: unknown function/constant str.to_re")
+(error "line 31 column 57: unknown function/constant str.to_re")
+(error "line 32 column 58: unknown function/constant str.to_re")
+(error "line 33 column 62: unknown function/constant str.to_re")
+(error "line 34 column 58: unknown function/constant str.to_re")
+(error "line 35 column 62: unknown function/constant str.to_re")
+(error "line 36 column 63: unknown function/constant str.to_re")
+(error "line 37 column 66: unknown function/constant str.to_re")
+(error "line 38 column 61: unknown function/constant str.to_re")
+(error "line 39 column 67: unknown function/constant str.to_re")
+(error "line 40 column 62: unknown function/constant str.to_re")
+(error "line 41 column 61: unknown function/constant str.to_re")
+(error "line 42 column 66: unknown function/constant str.to_re")
+(error "line 43 column 63: unknown function/constant str.to_re")
+(error "line 44 column 59: unknown function/constant str.to_re")
+(error "line 45 column 58: unknown function/constant str.to_re")
+(error "line 46 column 59: unknown function/constant str.to_re")
+(error "line 47 column 63: unknown function/constant str.to_re")
+(error "line 48 column 61: unknown function/constant str.to_re")
+(error "line 49 column 61: unknown function/constant str.to_re")
+(error "line 50 column 59: unknown function/constant str.to_re")
+(error "line 51 column 61: unknown function/constant str.to_re")
+(error "line 52 column 61: unknown function/constant str.to_re")
+(error "line 53 column 61: unknown function/constant str.to_re")
+(error "line 54 column 59: unknown function/constant str.to_re")
+(error "line 55 column 62: unknown function/constant str.to_re")
+(error "line 56 column 61: unknown function/constant str.to_re")
+(error "line 57 column 63: unknown function/constant str.to_re")
+(error "line 58 column 61: unknown function/constant str.to_re")
+(error "line 59 column 63: unknown function/constant str.to_re")
+sat
+QF_SLIA/20230327-stringfuzz-lu/generated/manyregexes/many-regexes-00043-3.smt2 : 31 ms.
+--------------------------------------------------
+unsupported
+; ignoring unsupported logic QF_SLIA line: 2 position: 0
+(error "line 18 column 48: unknown function/constant str.to_re")
+(error "line 20 column 70: unknown function/constant str.to_re")
+sat
+QF_SLIA/20230329-denghang/instance46589.smt2 : 29 ms.
+--------------------------------------------------
+unsupported
+; ignoring unsupported logic QF_SLIA line: 2 position: 0
+QF_SLIA/2018-Kepler/quad-105-4-2-sat.smt2 : 1201032 ms.
+--------------------------------------------------
+unsupported
+; ignoring unsupported logic QF_SLIA line: 2 position: 0
+QF_SLIA/2018-Kepler/quad-139-4-2-sat.smt2 : 1200849 ms.
+--------------------------------------------------
+unsupported
+; ignoring unsupported logic QF_SLIA line: 2 position: 0
+QF_SLIA/2018-Kepler/quad-174-4-2-unsat.smt2 : 1200155 ms.
+--------------------------------------------------
+unsupported
+; ignoring unsupported logic QF_SLIA line: 2 position: 0
+(error "line 17 column 63: unknown function/constant str.to_re")
+(error "line 18 column 58: unknown function/constant str.to_re")
+(error "line 19 column 66: unknown function/constant str.to_re")
+(error "line 20 column 61: unknown function/constant str.to_re")
+(error "line 21 column 61: unknown function/constant str.to_re")
+(error "line 22 column 66: unknown function/constant str.to_re")
+(error "line 23 column 63: unknown function/constant str.to_re")
+(error "line 24 column 61: unknown function/constant str.to_re")
+(error "line 25 column 59: unknown function/constant str.to_re")
+(error "line 26 column 63: unknown function/constant str.to_re")
+(error "line 27 column 63: unknown function/constant str.to_re")
+(error "line 28 column 59: unknown function/constant str.to_re")
+(error "line 29 column 63: unknown function/constant str.to_re")
+(error "line 30 column 61: unknown function/constant str.to_re")
+(error "line 31 column 61: unknown function/constant str.to_re")
+(error "line 32 column 63: unknown function/constant str.to_re")
+(error "line 33 column 61: unknown function/constant str.to_re")
+(error "line 34 column 63: unknown function/constant str.to_re")
+(error "line 35 column 58: unknown function/constant str.to_re")
+(error "line 36 column 62: unknown function/constant str.to_re")
+(error "line 37 column 59: unknown function/constant str.to_re")
+(error "line 38 column 61: unknown function/constant str.to_re")
+(error "line 39 column 62: unknown function/constant str.to_re")
+(error "line 40 column 59: unknown function/constant str.to_re")
+(error "line 41 column 62: unknown function/constant str.to_re")
+sat
+QF_SLIA/20230327-stringfuzz-lu/generated/variants/e0b5c914.smt2 : 41 ms.
+--------------------------------------------------
+unsupported
+; ignoring unsupported logic QF_SLIA line: 2 position: 0
+(error "line 17 column 66: unknown function/constant str.to_re")
+sat
+QF_SLIA/20230327-stringfuzz-lu/generated/variants/e1024989.smt2 : 66 ms.

@@ -1,0 +1,33 @@
+--------------------------------------------------
+timeout
+QF_SLIA/2015-Norn/StringReplace/norn-benchmark-70.smt2 : 1200685 ms.
+--------------------------------------------------
+timeout
+QF_SLIA/2015-Norn/StringReplace/norn-benchmark-79.smt2 : 1200093 ms.
+--------------------------------------------------
+timeout
+QF_SLIA/2015-Norn/StringReplace/norn-benchmark-89.smt2 : 1200451 ms.
+--------------------------------------------------
+timeout
+QF_SLIA/2015-Norn/StringReplace/norn-benchmark-90.smt2 : 1200077 ms.
+--------------------------------------------------
+timeout
+QF_SLIA/2015-Norn/ab/norn-benchmark-120.smt2 : 1200115 ms.
+--------------------------------------------------
+timeout
+QF_SLIA/2015-Norn/ab/norn-benchmark-131.smt2 : 1200126 ms.
+--------------------------------------------------
+timeout
+QF_SLIA/2015-Norn/ab/norn-benchmark-149.smt2 : 1200118 ms.
+--------------------------------------------------
+timeout
+QF_SLIA/2018-Kepler/quad-018-2-4-unsat.smt2 : 1200019 ms.
+--------------------------------------------------
+timeout
+QF_SLIA/2018-Kepler/quad-021-3-sat.smt2 : 1202755 ms.
+--------------------------------------------------
+timeout
+QF_SLIA/2018-Kepler/quad-024-3-unsat.smt2 : 1200060 ms.
+--------------------------------------------------
+timeout
+QF_SLIA/2018-Kepler/quad-035-3-2-sat.smt2 : 1200557 ms.
