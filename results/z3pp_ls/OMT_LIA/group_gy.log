@@ -1,0 +1,21 @@
+--------------------------------------------------
+./solvers/z3pp_ls/run.sh: line 1: 343942 Segmentation fault      (core dumped) solvers/z3pp_ls/bin/z3 -smt2 $1 -T:$2
+OMT_LIA/20210219-Dartagnan/ReachSafety-Loops/for_bounded_loop1-O0.smt2 : 210 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/20210219-Dartagnan/ReachSafety-Loops/nested_1b-O0.smt2 : 1200023 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/arctic-matrix/constraint-1472027.smt2 : 1200043 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/arctic-matrix/constraint-449698.smt2 : 1200028 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/arctic-matrix/constraint-408585.smt2 : 1201804 ms.
+--------------------------------------------------
+sat
+(objectives
+ (l3719c (* (- 1) oo))
+)
+OMT_LIA/arctic-matrix/constraint-916576.smt2 : 614974 ms.

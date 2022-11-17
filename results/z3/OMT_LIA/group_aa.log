@@ -1,0 +1,30 @@
+--------------------------------------------------
+sat
+(objectives
+ (x2567 0)
+)
+OMT_LIA/miplib2003/mzzv11.sat.smt2 : 24909 ms.
+--------------------------------------------------
+sat
+(objectives
+ (x173 0)
+)
+OMT_LIA/miplib2003/manna81.sat.smt2 : 8424 ms.
+--------------------------------------------------
+sat
+(objectives
+ (x57008 0)
+)
+OMT_LIA/miplib2003/fast0507.sat.smt2 : 21334 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/miplib2003/p2756.sat.smt2 : 1201948 ms.
+--------------------------------------------------
+sat
+(objectives
+ (x1163 0)
+)
+OMT_LIA/miplib2003/seymour.sat.smt2 : 932 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/miplib2003/air04.sat.smt2 : 1200066 ms.

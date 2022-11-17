@@ -1,0 +1,21 @@
+--------------------------------------------------
+timeout
+OMT_LIA/convert/convert-jpg2gif-query-1580.smt2 : 1200042 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/convert/convert-jpg2gif-query-1575.smt2 : 1200249 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/convert/convert-jpg2gif-query-1519.smt2 : 1200044 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/convert/convert-jpg2gif-query-1522.smt2 : 1201992 ms.
+--------------------------------------------------
+sat
+(objectives
+ (z844_31_8_ 0)
+)
+OMT_LIA/convert/convert-jpg2gif-query-1468.smt2 : 637328 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/convert/convert-jpg2gif-query-1526.smt2 : 1200118 ms.

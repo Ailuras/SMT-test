@@ -1,0 +1,15 @@
+--------------------------------------------------
+./solvers/z3/run.sh: line 1: 67818 Segmentation fault      (core dumped) solvers/z3/bin/z3 -smt2 $1 -T:$2
+QF_NRA/20161105-Sturm-MBO/mbo_E9E25.smt2 : 679238 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E9E26.smt2 : 21258 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E9E27.smt2 : 16777 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E9E28.smt2 : 23531 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E9.smt2 : 60 ms.

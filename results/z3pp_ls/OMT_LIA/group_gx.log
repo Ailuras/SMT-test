@@ -1,0 +1,18 @@
+--------------------------------------------------
+timeout
+OMT_LIA/20210219-Dartagnan/ReachSafety-Loops/terminator_02-1-O0.smt2 : 1200031 ms.
+--------------------------------------------------
+./solvers/z3pp_ls/run.sh: line 1: 348864 Segmentation fault      (core dumped) solvers/z3pp_ls/bin/z3 -smt2 $1 -T:$2
+OMT_LIA/20210219-Dartagnan/ReachSafety-Loops/sum01_bug02_sum01_bug02_base.case-O0.smt2 : 261 ms.
+--------------------------------------------------
+./solvers/z3pp_ls/run.sh: line 1: 348926 Segmentation fault      (core dumped) solvers/z3pp_ls/bin/z3 -smt2 $1 -T:$2
+OMT_LIA/20210219-Dartagnan/ReachSafety-Loops/terminator_03-1-O0.smt2 : 108 ms.
+--------------------------------------------------
+./solvers/z3pp_ls/run.sh: line 1: 348934 Segmentation fault      (core dumped) solvers/z3pp_ls/bin/z3 -smt2 $1 -T:$2
+OMT_LIA/20210219-Dartagnan/ReachSafety-Loops/trex01-1-O0.smt2 : 137 ms.
+--------------------------------------------------
+./solvers/z3pp_ls/run.sh: line 1: 348954 Segmentation fault      (core dumped) solvers/z3pp_ls/bin/z3 -smt2 $1 -T:$2
+OMT_LIA/20210219-Dartagnan/ReachSafety-Loops/trex02-2-O0.smt2 : 109 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/20210219-Dartagnan/ReachSafety-Loops/underapprox_1-1-O0.smt2 : 1200055 ms.

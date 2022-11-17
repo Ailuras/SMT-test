@@ -1,0 +1,2436 @@
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-fuzz-graft-rotate.smt2 : 26 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-fuzz-graft-translate.smt2 : 26 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-fuzz-graft.smt2 : 25 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-fuzz-multiply-fuzz.smt2 : 23 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-fuzz-multiply-graft.smt2 : 26 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-fuzz-multiply-multiply.smt2 : 28 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-fuzz-multiply-rotate.smt2 : 29 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-fuzz-multiply-translate.smt2 : 31 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-fuzz-multiply.smt2 : 24 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-fuzz-reverse-fuzz.smt2 : 32 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-fuzz-reverse-graft.smt2 : 27 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-fuzz-reverse-multiply.smt2 : 32 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-fuzz-reverse-reverse.smt2 : 29 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-fuzz-reverse-rotate.smt2 : 28 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-fuzz-reverse-translate.smt2 : 33 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-fuzz-reverse.smt2 : 30 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-fuzz-rotate-fuzz.smt2 : 30 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-fuzz-rotate-graft.smt2 : 28 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-fuzz-rotate-reverse.smt2 : 28 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-fuzz-rotate-rotate.smt2 : 34 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-fuzz-rotate-translate.smt2 : 26 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-fuzz-rotate.smt2 : 25 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-fuzz-translate-fuzz.smt2 : 22 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-fuzz-translate-graft.smt2 : 29 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-fuzz-translate-multiply.smt2 : 28 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-fuzz-translate-reverse.smt2 : 28 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-fuzz-translate-rotate.smt2 : 28 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-fuzz-translate-translate.smt2 : 26 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-fuzz-translate.smt2 : 30 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-fuzz.smt2 : 23 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-graft-fuzz-fuzz.smt2 : 21 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-graft-fuzz-graft.smt2 : 26 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-graft-fuzz-multiply.smt2 : 40 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-graft-fuzz-rotate.smt2 : 31 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-graft-fuzz-translate.smt2 : 27 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-graft-fuzz.smt2 : 25 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-graft-graft-fuzz.smt2 : 27 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-graft-graft-graft.smt2 : 27 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-graft-graft-multiply.smt2 : 26 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-graft-graft-reverse.smt2 : 23 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-graft-graft-rotate.smt2 : 26 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-graft-graft-translate.smt2 : 28 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-graft-graft.smt2 : 31 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-graft-multiply-fuzz.smt2 : 23 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-graft-multiply-graft.smt2 : 32 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-graft-multiply-multiply.smt2 : 28 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-graft-multiply-reverse.smt2 : 25 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-graft-multiply-rotate.smt2 : 26 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-graft-multiply-translate.smt2 : 21 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-graft-multiply.smt2 : 34 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-graft-reverse-fuzz.smt2 : 22 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-graft-reverse-graft.smt2 : 24 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-graft-reverse-reverse.smt2 : 25 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-graft-reverse-rotate.smt2 : 25 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-graft-reverse-translate.smt2 : 29 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-graft-reverse.smt2 : 30 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-graft-rotate-fuzz.smt2 : 33 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-graft-rotate-graft.smt2 : 29 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-graft-rotate-reverse.smt2 : 26 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-graft-rotate-rotate.smt2 : 24 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-graft-rotate-translate.smt2 : 25 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-graft-rotate.smt2 : 24 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-graft-translate-fuzz.smt2 : 26 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-graft-translate-graft.smt2 : 23 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-graft-translate-multiply.smt2 : 30 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-graft-translate-reverse.smt2 : 34 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-graft-translate-rotate.smt2 : 28 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-graft-translate-translate.smt2 : 32 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-graft-translate.smt2 : 24 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-graft.smt2 : 25 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-multiply-fuzz-fuzz.smt2 : 33 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-multiply-fuzz-graft.smt2 : 26 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-multiply-fuzz-multiply.smt2 : 30 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-multiply-fuzz-reverse.smt2 : 30 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-multiply-fuzz-rotate.smt2 : 26 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-multiply-fuzz-translate.smt2 : 32 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-multiply-fuzz.smt2 : 33 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-multiply-graft-fuzz.smt2 : 32 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-multiply-graft-graft.smt2 : 32 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-multiply-graft-multiply.smt2 : 27 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-multiply-graft-reverse.smt2 : 23 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-multiply-graft-rotate.smt2 : 24 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-multiply-graft-translate.smt2 : 26 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-multiply-graft.smt2 : 26 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-multiply-multiply-fuzz.smt2 : 26 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-multiply-multiply-graft.smt2 : 32 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-multiply-multiply-multiply.smt2 : 26 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-multiply-multiply-translate.smt2 : 25 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-multiply-multiply.smt2 : 26 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-multiply-reverse-fuzz.smt2 : 27 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-multiply-reverse-graft.smt2 : 29 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-multiply-reverse-translate.smt2 : 29 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-multiply-reverse.smt2 : 32 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-multiply-rotate-fuzz.smt2 : 26 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-multiply-rotate-graft.smt2 : 29 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-multiply-rotate-translate.smt2 : 30 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-multiply-rotate.smt2 : 23 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-multiply-translate-fuzz.smt2 : 26 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-multiply-translate-graft.smt2 : 26 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-multiply-translate-multiply.smt2 : 23 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-multiply-translate-reverse.smt2 : 30 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-multiply-translate-rotate.smt2 : 28 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-multiply-translate-translate.smt2 : 30 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-multiply-translate.smt2 : 24 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-reverse-fuzz-fuzz.smt2 : 29 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-reverse-fuzz-graft.smt2 : 28 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-reverse-fuzz-multiply.smt2 : 23 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-reverse-fuzz-reverse.smt2 : 24 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-reverse-fuzz-rotate.smt2 : 25 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-reverse-fuzz-translate.smt2 : 24 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-reverse-fuzz.smt2 : 26 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-reverse-graft-fuzz.smt2 : 32 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-reverse-graft-graft.smt2 : 24 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-reverse-graft-multiply.smt2 : 27 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-reverse-graft-reverse.smt2 : 28 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-reverse-graft-rotate.smt2 : 35 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-reverse-graft-translate.smt2 : 28 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-reverse-graft.smt2 : 26 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-reverse-multiply-fuzz.smt2 : 29 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-reverse-multiply-graft.smt2 : 30 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-reverse-multiply-multiply.smt2 : 33 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-reverse-multiply-translate.smt2 : 31 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-reverse-reverse-fuzz.smt2 : 26 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-reverse-reverse-graft.smt2 : 32 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-reverse-reverse-multiply.smt2 : 30 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-reverse-reverse-reverse.smt2 : 45 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-reverse-reverse-translate.smt2 : 38 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-reverse-reverse.smt2 : 27 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-reverse-rotate-fuzz.smt2 : 41 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-reverse-rotate-graft.smt2 : 38 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-reverse-rotate-multiply.smt2 : 33 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-reverse-rotate-reverse.smt2 : 42 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-reverse-rotate-rotate.smt2 : 36 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-reverse-rotate-translate.smt2 : 38 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-reverse-rotate.smt2 : 33 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-reverse-translate-fuzz.smt2 : 25 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-reverse-translate-graft.smt2 : 34 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-reverse-translate-multiply.smt2 : 33 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-reverse-translate-reverse.smt2 : 57 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-reverse-translate-rotate.smt2 : 36 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-reverse-translate-translate.smt2 : 29 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-reverse-translate.smt2 : 29 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-rotate-fuzz-fuzz.smt2 : 24 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-rotate-fuzz-graft.smt2 : 24 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-rotate-fuzz-multiply.smt2 : 28 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-rotate-fuzz-reverse.smt2 : 32 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-rotate-fuzz-rotate.smt2 : 33 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-rotate-fuzz-translate.smt2 : 23 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-rotate-fuzz.smt2 : 21 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-rotate-graft-fuzz.smt2 : 26 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-rotate-graft-graft.smt2 : 26 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-rotate-graft-multiply.smt2 : 27 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-rotate-graft-reverse.smt2 : 22 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-rotate-graft-rotate.smt2 : 27 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-rotate-graft-translate.smt2 : 29 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-rotate-graft.smt2 : 34 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-rotate-multiply-fuzz.smt2 : 34 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-rotate-multiply-multiply.smt2 : 38 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-rotate-multiply-rotate.smt2 : 24 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-rotate-multiply-translate.smt2 : 27 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-rotate-reverse-fuzz.smt2 : 24 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-rotate-reverse-graft.smt2 : 27 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-rotate-reverse-multiply.smt2 : 29 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-rotate-reverse-reverse.smt2 : 27 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-rotate-reverse-rotate.smt2 : 30 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-rotate-reverse-translate.smt2 : 25 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-rotate-reverse.smt2 : 33 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-rotate-rotate-fuzz.smt2 : 26 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-rotate-rotate-graft.smt2 : 28 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-rotate-rotate-reverse.smt2 : 24 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-rotate-rotate-rotate.smt2 : 27 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-rotate-rotate-translate.smt2 : 31 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-rotate-rotate.smt2 : 28 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-rotate-translate-fuzz.smt2 : 23 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-rotate-translate-graft.smt2 : 24 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-rotate-translate-multiply.smt2 : 32 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-rotate-translate-reverse.smt2 : 24 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-rotate-translate-rotate.smt2 : 24 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-rotate-translate-translate.smt2 : 30 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-rotate-translate.smt2 : 26 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-translate-fuzz-fuzz.smt2 : 28 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-translate-fuzz-graft.smt2 : 27 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-translate-fuzz-multiply.smt2 : 29 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-translate-fuzz-reverse.smt2 : 21 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-translate-fuzz-rotate.smt2 : 26 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-translate-fuzz-translate.smt2 : 22 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-translate-fuzz.smt2 : 29 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-translate-graft-fuzz.smt2 : 23 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-translate-graft-graft.smt2 : 24 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-translate-graft-multiply.smt2 : 25 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-translate-graft-reverse.smt2 : 26 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-translate-graft-rotate.smt2 : 33 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-translate-graft-translate.smt2 : 24 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-translate-graft.smt2 : 28 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-translate-multiply-fuzz.smt2 : 28 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-translate-multiply-graft.smt2 : 22 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-translate-multiply-multiply.smt2 : 25 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-translate-multiply-reverse.smt2 : 29 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-translate-multiply-rotate.smt2 : 26 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-translate-multiply-translate.smt2 : 22 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-translate-multiply.smt2 : 26 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-translate-reverse-fuzz.smt2 : 26 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-translate-reverse-graft.smt2 : 29 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-translate-reverse-multiply.smt2 : 29 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-translate-reverse-reverse.smt2 : 29 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-translate-reverse-rotate.smt2 : 29 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-translate-reverse-translate.smt2 : 34 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-translate-reverse.smt2 : 26 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-translate-rotate-fuzz.smt2 : 25 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-translate-rotate-graft.smt2 : 29 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-translate-rotate-multiply.smt2 : 26 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-translate-rotate-reverse.smt2 : 23 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-translate-rotate-rotate.smt2 : 29 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-translate-rotate-translate.smt2 : 24 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-translate-rotate.smt2 : 23 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-translate-translate-fuzz.smt2 : 30 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-translate-translate-graft.smt2 : 25 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-translate-translate-multiply.smt2 : 23 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-translate-translate-reverse.smt2 : 30 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-translate-translate-rotate.smt2 : 32 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-translate-translate-translate.smt2 : 28 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-translate-translate.smt2 : 26 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat-translate.smt2 : 35 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-041-unsat.smt2 : 32 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-fuzz-fuzz-fuzz.smt2 : 39 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-fuzz-fuzz-graft.smt2 : 27 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-fuzz-fuzz-multiply.smt2 : 35 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-fuzz-fuzz-reverse.smt2 : 35 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-fuzz-fuzz-rotate.smt2 : 65 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-fuzz-fuzz-translate.smt2 : 36 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-fuzz-fuzz.smt2 : 35 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-fuzz-graft-fuzz.smt2 : 45 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-fuzz-graft-graft.smt2 : 31 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-fuzz-graft-multiply.smt2 : 45 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-fuzz-graft-reverse.smt2 : 37 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-fuzz-graft-rotate.smt2 : 35 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-fuzz-graft-translate.smt2 : 42 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-fuzz-graft.smt2 : 29 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-fuzz-multiply-fuzz.smt2 : 45 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-fuzz-multiply-graft.smt2 : 45 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-fuzz-multiply-multiply.smt2 : 39 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-fuzz-multiply-rotate.smt2 : 33 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-fuzz-multiply-translate.smt2 : 41 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-fuzz-multiply.smt2 : 117 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-fuzz-reverse-fuzz.smt2 : 29 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-fuzz-reverse-graft.smt2 : 26 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-fuzz-reverse-multiply.smt2 : 35 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-fuzz-reverse-reverse.smt2 : 40 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-fuzz-reverse-rotate.smt2 : 27 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-fuzz-reverse-translate.smt2 : 38 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-fuzz-reverse.smt2 : 25 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-fuzz-rotate-fuzz.smt2 : 27 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-fuzz-rotate-graft.smt2 : 30 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-fuzz-rotate-reverse.smt2 : 26 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-fuzz-rotate-rotate.smt2 : 29 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-fuzz-rotate-translate.smt2 : 30 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-fuzz-rotate.smt2 : 23 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-fuzz-translate-fuzz.smt2 : 37 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-fuzz-translate-graft.smt2 : 26 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-fuzz-translate-multiply.smt2 : 28 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-fuzz-translate-reverse.smt2 : 27 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-fuzz-translate-rotate.smt2 : 28 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-fuzz-translate-translate.smt2 : 27 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-fuzz-translate.smt2 : 26 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-fuzz.smt2 : 39 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-graft-fuzz-fuzz.smt2 : 31 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-graft-fuzz-graft.smt2 : 23 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-graft-fuzz-multiply.smt2 : 25 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-graft-fuzz-reverse.smt2 : 26 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-graft-fuzz-rotate.smt2 : 27 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-graft-fuzz-translate.smt2 : 25 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-graft-fuzz.smt2 : 25 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-graft-graft-fuzz.smt2 : 22 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-graft-graft-graft.smt2 : 29 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-graft-graft-multiply.smt2 : 21 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-graft-graft-reverse.smt2 : 24 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-graft-graft-rotate.smt2 : 22 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-graft-graft-translate.smt2 : 23 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-graft-graft.smt2 : 23 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-graft-multiply-fuzz.smt2 : 29 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-graft-multiply-graft.smt2 : 38 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-graft-multiply-multiply.smt2 : 29 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-graft-multiply-reverse.smt2 : 30 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-graft-multiply-rotate.smt2 : 27 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-graft-multiply-translate.smt2 : 29 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-graft-multiply.smt2 : 32 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-graft-reverse-fuzz.smt2 : 26 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-graft-reverse-graft.smt2 : 23 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-graft-reverse-reverse.smt2 : 21 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-graft-reverse-rotate.smt2 : 30 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-graft-reverse-translate.smt2 : 24 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-graft-reverse.smt2 : 38 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-graft-rotate-fuzz.smt2 : 23 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-graft-rotate-graft.smt2 : 26 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-graft-rotate-reverse.smt2 : 23 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-graft-rotate-rotate.smt2 : 29 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-graft-rotate-translate.smt2 : 30 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-graft-rotate.smt2 : 28 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-graft-translate-fuzz.smt2 : 25 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-graft-translate-graft.smt2 : 22 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-graft-translate-multiply.smt2 : 28 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-graft-translate-reverse.smt2 : 27 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-graft-translate-rotate.smt2 : 28 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-graft-translate-translate.smt2 : 30 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-graft-translate.smt2 : 36 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-graft.smt2 : 27 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-multiply-fuzz-fuzz.smt2 : 28 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-multiply-fuzz-graft.smt2 : 32 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-multiply-fuzz-multiply.smt2 : 32 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-multiply-fuzz-reverse.smt2 : 25 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-multiply-fuzz-rotate.smt2 : 24 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-multiply-fuzz-translate.smt2 : 30 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-multiply-fuzz.smt2 : 25 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-multiply-graft-fuzz.smt2 : 26 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-multiply-graft-graft.smt2 : 23 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-multiply-graft-multiply.smt2 : 26 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-multiply-graft-reverse.smt2 : 31 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-multiply-graft-rotate.smt2 : 31 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-multiply-graft-translate.smt2 : 33 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-multiply-graft.smt2 : 24 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-multiply-multiply-fuzz.smt2 : 25 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-multiply-multiply-graft.smt2 : 29 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-multiply-multiply-multiply.smt2 : 36 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-multiply-multiply-rotate.smt2 : 34 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-multiply-multiply-translate.smt2 : 42 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-multiply-multiply.smt2 : 33 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-multiply-reverse-fuzz.smt2 : 34 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-multiply-reverse-graft.smt2 : 24 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-multiply-reverse-multiply.smt2 : 45 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-multiply-reverse-translate.smt2 : 37 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-multiply-reverse.smt2 : 41 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-multiply-rotate-fuzz.smt2 : 36 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-multiply-rotate-reverse.smt2 : 38 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-multiply-rotate-translate.smt2 : 30 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-multiply-translate-fuzz.smt2 : 29 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-multiply-translate-graft.smt2 : 38 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-multiply-translate-multiply.smt2 : 38 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-multiply-translate-reverse.smt2 : 43 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-multiply-translate-rotate.smt2 : 30 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-multiply-translate-translate.smt2 : 44 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-multiply-translate.smt2 : 41 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-reverse-fuzz-fuzz.smt2 : 31 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-reverse-fuzz-graft.smt2 : 36 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-reverse-fuzz-multiply.smt2 : 37 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-reverse-fuzz-reverse.smt2 : 35 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-reverse-fuzz-rotate.smt2 : 22 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-reverse-fuzz-translate.smt2 : 36 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-reverse-fuzz.smt2 : 40 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-reverse-graft-fuzz.smt2 : 25 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-reverse-graft-graft.smt2 : 32 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-reverse-graft-multiply.smt2 : 26 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-reverse-graft-reverse.smt2 : 37 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-reverse-graft-translate.smt2 : 27 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-reverse-graft.smt2 : 24 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-reverse-multiply-fuzz.smt2 : 30 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-reverse-multiply-graft.smt2 : 29 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-reverse-multiply-reverse.smt2 : 42 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-reverse-multiply-rotate.smt2 : 29 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-reverse-multiply-translate.smt2 : 39 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-reverse-reverse-fuzz.smt2 : 35 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-reverse-reverse-graft.smt2 : 25 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-reverse-reverse-translate.smt2 : 35 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-reverse-reverse.smt2 : 38 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-reverse-rotate-fuzz.smt2 : 28 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-reverse-rotate-graft.smt2 : 26 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-reverse-rotate-reverse.smt2 : 36 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-reverse-rotate-rotate.smt2 : 26 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-reverse-rotate-translate.smt2 : 39 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-reverse-rotate.smt2 : 26 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-reverse-translate-fuzz.smt2 : 29 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-reverse-translate-graft.smt2 : 25 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-reverse-translate-multiply.smt2 : 41 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-reverse-translate-reverse.smt2 : 34 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-reverse-translate-rotate.smt2 : 26 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-reverse-translate-translate.smt2 : 37 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-reverse-translate.smt2 : 41 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-reverse.smt2 : 38 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-rotate-fuzz-fuzz.smt2 : 32 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-rotate-fuzz-graft.smt2 : 24 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-rotate-fuzz-multiply.smt2 : 34 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-rotate-fuzz-reverse.smt2 : 24 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-rotate-fuzz-rotate.smt2 : 29 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-rotate-fuzz-translate.smt2 : 22 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-rotate-fuzz.smt2 : 27 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-rotate-graft-fuzz.smt2 : 33 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-rotate-graft-graft.smt2 : 28 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-rotate-graft-multiply.smt2 : 31 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-rotate-graft-reverse.smt2 : 25 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-rotate-graft-rotate.smt2 : 28 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-rotate-graft-translate.smt2 : 24 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-rotate-graft.smt2 : 30 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-rotate-multiply-fuzz.smt2 : 39 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-rotate-multiply-translate.smt2 : 32 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-rotate-multiply.smt2 : 27 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-rotate-reverse-fuzz.smt2 : 27 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-rotate-reverse-graft.smt2 : 24 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-rotate-reverse-reverse.smt2 : 30 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-rotate-reverse-rotate.smt2 : 31 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-rotate-reverse-translate.smt2 : 25 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-rotate-reverse.smt2 : 29 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-rotate-rotate-fuzz.smt2 : 31 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-rotate-rotate-graft.smt2 : 27 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-rotate-rotate-multiply.smt2 : 25 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-rotate-rotate-reverse.smt2 : 30 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-rotate-rotate-rotate.smt2 : 35 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-rotate-rotate-translate.smt2 : 37 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-rotate-rotate.smt2 : 25 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-rotate-translate-fuzz.smt2 : 37 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-rotate-translate-graft.smt2 : 31 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-rotate-translate-multiply.smt2 : 28 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-rotate-translate-reverse.smt2 : 28 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-rotate-translate-rotate.smt2 : 25 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-rotate-translate-translate.smt2 : 26 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-rotate-translate.smt2 : 27 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-translate-fuzz-fuzz.smt2 : 23 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-translate-fuzz-graft.smt2 : 26 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-translate-fuzz-multiply.smt2 : 37 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-translate-fuzz-reverse.smt2 : 38 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-translate-fuzz-rotate.smt2 : 31 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-translate-fuzz-translate.smt2 : 39 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-translate-fuzz.smt2 : 45 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-translate-graft-fuzz.smt2 : 27 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-translate-graft-graft.smt2 : 24 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-translate-graft-multiply.smt2 : 29 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-translate-graft-reverse.smt2 : 35 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-translate-graft-rotate.smt2 : 39 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-translate-graft-translate.smt2 : 30 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-translate-graft.smt2 : 39 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-translate-multiply-fuzz.smt2 : 32 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-translate-multiply-graft.smt2 : 58 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-translate-multiply-multiply.smt2 : 44 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-translate-multiply-reverse.smt2 : 45 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-translate-multiply-rotate.smt2 : 31 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-translate-multiply-translate.smt2 : 39 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-translate-multiply.smt2 : 42 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-translate-reverse-fuzz.smt2 : 42 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-translate.smt2 : 38 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-translate-reverse-graft.smt2 : 31 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-translate-reverse-reverse.smt2 : 43 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-translate-reverse-rotate.smt2 : 29 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-translate-reverse-translate.smt2 : 43 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-translate-reverse.smt2 : 79 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-translate-rotate-fuzz.smt2 : 36 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-translate-rotate-graft.smt2 : 28 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-translate-rotate-reverse.smt2 : 36 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-translate-rotate-rotate.smt2 : 32 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-translate-rotate-translate.smt2 : 36 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-translate-rotate.smt2 : 40 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-translate-translate-fuzz.smt2 : 43 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-translate-translate-graft.smt2 : 38 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-translate-translate-multiply.smt2 : 45 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-translate-translate-reverse.smt2 : 48 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-translate-translate-rotate.smt2 : 40 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-translate-translate-translate.smt2 : 41 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-042-translate-translate.smt2 : 43 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-fuzz-fuzz-fuzz.smt2 : 35 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-fuzz-fuzz-graft.smt2 : 29 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-fuzz-fuzz-multiply.smt2 : 26 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-fuzz-fuzz-reverse.smt2 : 30 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-fuzz-fuzz-rotate.smt2 : 34 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-fuzz-fuzz-translate.smt2 : 33 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-fuzz-fuzz.smt2 : 81 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-fuzz-graft-fuzz.smt2 : 46 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-fuzz-graft-graft.smt2 : 26 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-fuzz-graft-multiply.smt2 : 35 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-fuzz-graft-reverse.smt2 : 28 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-fuzz-graft-rotate.smt2 : 25 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-fuzz-graft-translate.smt2 : 28 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-fuzz-graft.smt2 : 29 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-fuzz-multiply-fuzz.smt2 : 65 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-fuzz-multiply-graft.smt2 : 46 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-fuzz-multiply-multiply.smt2 : 52 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-fuzz-multiply-translate.smt2 : 44 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-fuzz-multiply.smt2 : 48 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-fuzz-reverse-fuzz.smt2 : 27 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-fuzz-reverse-graft.smt2 : 42 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-fuzz-reverse-multiply.smt2 : 45 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-fuzz-reverse-rotate.smt2 : 46 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-fuzz-reverse-translate.smt2 : 43 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-fuzz-reverse.smt2 : 44 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-fuzz-rotate-fuzz.smt2 : 31 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-fuzz-rotate-graft.smt2 : 25 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-fuzz-rotate-multiply.smt2 : 43 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-fuzz-rotate-rotate.smt2 : 46 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-fuzz-rotate-translate.smt2 : 42 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-fuzz-rotate.smt2 : 49 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-fuzz-translate-fuzz.smt2 : 35 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-fuzz-translate-graft.smt2 : 46 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-fuzz-translate-multiply.smt2 : 49 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-fuzz-translate-reverse.smt2 : 43 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-fuzz-translate-rotate.smt2 : 47 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-fuzz-translate-translate.smt2 : 48 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-fuzz-translate.smt2 : 47 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-fuzz.smt2 : 56 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-graft-fuzz-fuzz.smt2 : 25 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-graft-fuzz-graft.smt2 : 23 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-graft-fuzz-multiply.smt2 : 27 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-graft-fuzz-reverse.smt2 : 26 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-graft-fuzz-rotate.smt2 : 21 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-graft-fuzz-translate.smt2 : 26 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-graft-fuzz.smt2 : 23 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-graft-graft-fuzz.smt2 : 25 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-graft-graft-reverse.smt2 : 25 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-graft-graft-translate.smt2 : 29 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-graft-multiply-fuzz.smt2 : 28 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-graft-multiply-graft.smt2 : 26 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-graft-multiply-multiply.smt2 : 29 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-graft-multiply-translate.smt2 : 29 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-graft-reverse-fuzz.smt2 : 20 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-graft-reverse-reverse.smt2 : 22 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-graft-reverse-translate.smt2 : 21 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-graft-rotate-fuzz.smt2 : 18 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-graft-rotate-graft.smt2 : 27 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-graft-rotate-multiply.smt2 : 25 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-graft-rotate-translate.smt2 : 30 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-graft-translate-fuzz.smt2 : 21 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-graft-translate-graft.smt2 : 29 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-graft-translate-multiply.smt2 : 26 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-graft-translate-reverse.smt2 : 23 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-graft-translate-translate.smt2 : 31 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-graft-translate.smt2 : 22 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-graft.smt2 : 30 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-multiply-fuzz-fuzz.smt2 : 49 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-multiply-fuzz-graft.smt2 : 47 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-multiply-fuzz-multiply.smt2 : 48 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-multiply-fuzz-reverse.smt2 : 53 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-multiply-fuzz-rotate.smt2 : 44 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-multiply-fuzz-translate.smt2 : 45 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-multiply-fuzz.smt2 : 30 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-multiply-graft-fuzz.smt2 : 38 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-multiply-graft-multiply.smt2 : 45 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-multiply-graft-translate.smt2 : 36 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-multiply-graft.smt2 : 40 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-multiply-multiply-fuzz.smt2 : 37 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-multiply-multiply-multiply.smt2 : 68 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-multiply-multiply-translate.smt2 : 62 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-multiply-reverse-fuzz.smt2 : 32 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-multiply-reverse-graft.smt2 : 40 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-multiply-reverse-multiply.smt2 : 66 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-multiply-reverse-translate.smt2 : 43 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-multiply-rotate-fuzz.smt2 : 41 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-multiply-rotate-graft.smt2 : 27 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-multiply-rotate-multiply.smt2 : 55 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-multiply-rotate-translate.smt2 : 47 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-multiply-translate-fuzz.smt2 : 42 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-multiply-translate-graft.smt2 : 25 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-multiply-translate-multiply.smt2 : 56 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-multiply-translate-reverse.smt2 : 51 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-multiply-translate-rotate.smt2 : 48 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-multiply-translate-translate.smt2 : 48 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-reverse-fuzz-fuzz.smt2 : 47 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-reverse-fuzz-graft.smt2 : 36 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-reverse-fuzz-multiply.smt2 : 53 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-reverse-fuzz-reverse.smt2 : 35 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-reverse-fuzz-rotate.smt2 : 29 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-reverse-fuzz-translate.smt2 : 33 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-reverse-fuzz.smt2 : 50 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-reverse-graft-fuzz.smt2 : 26 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-reverse-graft-translate.smt2 : 26 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-reverse-graft.smt2 : 40 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-reverse-multiply-fuzz.smt2 : 46 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-reverse-multiply-graft.smt2 : 30 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-reverse-multiply-reverse.smt2 : 51 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-reverse-multiply-translate.smt2 : 47 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-reverse-reverse-fuzz.smt2 : 37 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-reverse-reverse-graft.smt2 : 40 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-reverse-reverse-reverse.smt2 : 42 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-reverse-reverse-translate.smt2 : 41 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-reverse-rotate-fuzz.smt2 : 48 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-reverse-rotate-translate.smt2 : 41 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-reverse-translate-fuzz.smt2 : 28 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-reverse-translate-graft.smt2 : 34 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-reverse-translate-multiply.smt2 : 52 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-reverse-translate-reverse.smt2 : 37 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-reverse-translate-translate.smt2 : 43 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-reverse-translate.smt2 : 42 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-rotate-fuzz-fuzz.smt2 : 31 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-rotate-fuzz-graft.smt2 : 33 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-rotate-fuzz-multiply.smt2 : 32 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-rotate-fuzz-reverse.smt2 : 26 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-rotate-fuzz-rotate.smt2 : 23 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-rotate-fuzz-translate.smt2 : 28 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-rotate-fuzz.smt2 : 43 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-rotate-graft-fuzz.smt2 : 23 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-rotate-graft-reverse.smt2 : 21 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-rotate-graft-translate.smt2 : 28 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-rotate-multiply-fuzz.smt2 : 26 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-rotate-multiply-graft.smt2 : 38 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-rotate-multiply-translate.smt2 : 50 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-rotate-reverse-fuzz.smt2 : 44 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-rotate-reverse-graft.smt2 : 26 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-rotate-reverse-multiply.smt2 : 49 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-rotate-reverse-translate.smt2 : 43 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-rotate-rotate-fuzz.smt2 : 50 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-rotate-rotate-translate.smt2 : 48 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-rotate-rotate.smt2 : 42 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-fuzz-fuzz.smt2 : 62 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-rotate-translate-fuzz.smt2 : 47 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-rotate-translate-graft.smt2 : 39 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-rotate-translate-multiply.smt2 : 52 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-rotate-translate-reverse.smt2 : 41 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-rotate-translate-rotate.smt2 : 45 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-rotate-translate-translate.smt2 : 43 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-translate-fuzz-fuzz.smt2 : 38 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-translate-fuzz-graft.smt2 : 39 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-translate-fuzz-multiply.smt2 : 51 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-translate-fuzz-reverse.smt2 : 44 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-translate-fuzz-rotate.smt2 : 45 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-translate-fuzz-translate.smt2 : 47 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-translate-fuzz.smt2 : 52 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-translate-graft-fuzz.smt2 : 26 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-translate-graft-graft.smt2 : 29 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-translate-graft-multiply.smt2 : 24 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-translate-graft-reverse.smt2 : 26 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-translate-graft-rotate.smt2 : 26 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-translate-graft-translate.smt2 : 24 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-translate-graft.smt2 : 42 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-translate-multiply-fuzz.smt2 : 49 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-translate-multiply-graft.smt2 : 39 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-translate-multiply-multiply.smt2 : 60 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-translate-multiply-translate.smt2 : 55 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-translate-multiply.smt2 : 53 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-translate-reverse-fuzz.smt2 : 50 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-translate-reverse-graft.smt2 : 30 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-translate-reverse-multiply.smt2 : 50 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-translate-reverse-rotate.smt2 : 42 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-translate-reverse-translate.smt2 : 36 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-translate-reverse.smt2 : 39 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-translate-rotate-fuzz.smt2 : 46 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-translate-rotate-graft.smt2 : 27 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-translate-rotate-multiply.smt2 : 53 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-translate-rotate-rotate.smt2 : 43 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-translate-rotate-translate.smt2 : 36 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-translate-rotate.smt2 : 38 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-translate-translate-fuzz.smt2 : 56 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-translate-translate-graft.smt2 : 25 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-translate-translate-multiply.smt2 : 52 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-translate-translate-reverse.smt2 : 41 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-translate-translate-rotate.smt2 : 46 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-043-translate-translate-translate.smt2 : 40 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-fuzz-fuzz-fuzz.smt2 : 26 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-fuzz-fuzz-graft.smt2 : 25 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-fuzz-fuzz-multiply.smt2 : 27 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-fuzz-fuzz-reverse.smt2 : 30 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-fuzz-fuzz-translate.smt2 : 29 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-fuzz-graft-fuzz.smt2 : 44 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-fuzz-graft-translate.smt2 : 92 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-fuzz-graft.smt2 : 51 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-fuzz-multiply-fuzz.smt2 : 25 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-fuzz-multiply-graft.smt2 : 56 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-fuzz-multiply-multiply.smt2 : 51 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-fuzz-multiply-translate.smt2 : 55 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-fuzz-multiply.smt2 : 48 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-fuzz-reverse-fuzz.smt2 : 26 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-fuzz-reverse-graft.smt2 : 84 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-fuzz-reverse-multiply.smt2 : 55 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-fuzz-reverse-translate.smt2 : 91 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-fuzz-reverse.smt2 : 49 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-fuzz-rotate-fuzz.smt2 : 70 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-fuzz-rotate-rotate.smt2 : 91 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-fuzz-rotate-translate.smt2 : 96 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-fuzz-translate-fuzz.smt2 : 61 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-fuzz-translate-graft.smt2 : 53 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-fuzz-translate-multiply.smt2 : 55 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-fuzz-translate-reverse.smt2 : 49 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-fuzz-translate-translate.smt2 : 50 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-fuzz.smt2 : 51 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-graft-fuzz-fuzz.smt2 : 57 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-graft-fuzz-graft.smt2 : 44 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-graft-fuzz-multiply.smt2 : 52 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-graft-fuzz-reverse.smt2 : 47 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-graft-fuzz-translate.smt2 : 45 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-graft-fuzz.smt2 : 95 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-graft-graft-fuzz.smt2 : 47 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-graft-multiply-fuzz.smt2 : 63 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-graft-rotate.smt2 : 51 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-graft-reverse-fuzz.smt2 : 45 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-graft-rotate-fuzz.smt2 : 35 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-graft-translate-fuzz.smt2 : 80 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-multiply-fuzz-fuzz.smt2 : 39 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-multiply-fuzz-graft.smt2 : 63 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-multiply-fuzz-multiply.smt2 : 54 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-multiply-fuzz-reverse.smt2 : 63 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-multiply-fuzz-rotate.smt2 : 59 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-multiply-fuzz-translate.smt2 : 63 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-multiply-fuzz.smt2 : 75 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-multiply-graft-fuzz.smt2 : 60 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-multiply-graft.smt2 : 58 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-multiply-multiply-fuzz.smt2 : 64 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-multiply-multiply-graft.smt2 : 78 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-multiply-multiply-multiply.smt2 : 111 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-multiply-reverse-fuzz.smt2 : 115 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-multiply-rotate-fuzz.smt2 : 53 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-multiply-rotate-multiply.smt2 : 74 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-multiply-translate-fuzz.smt2 : 45 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-multiply-translate-rotate.smt2 : 63 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-reverse-fuzz-fuzz.smt2 : 35 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-reverse-fuzz-graft.smt2 : 55 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-reverse-fuzz-multiply.smt2 : 54 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-reverse-fuzz-reverse.smt2 : 60 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-reverse-fuzz-translate.smt2 : 57 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-reverse-fuzz.smt2 : 100 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-reverse-graft-fuzz.smt2 : 65 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-reverse-multiply-fuzz.smt2 : 58 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-reverse-reverse-fuzz.smt2 : 66 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-reverse-rotate-fuzz.smt2 : 46 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-reverse-translate-fuzz.smt2 : 57 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-rotate-fuzz-fuzz.smt2 : 47 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-rotate-fuzz-graft.smt2 : 53 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-rotate-fuzz-multiply.smt2 : 59 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-rotate-fuzz-reverse.smt2 : 53 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-rotate-fuzz-rotate.smt2 : 56 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-rotate-fuzz-translate.smt2 : 52 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-rotate-fuzz.smt2 : 37 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-rotate-graft-fuzz.smt2 : 43 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-rotate-multiply-fuzz.smt2 : 46 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-rotate-reverse-fuzz.smt2 : 35 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-rotate-reverse-rotate.smt2 : 46 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-rotate-rotate-fuzz.smt2 : 127 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-rotate-translate-fuzz.smt2 : 33 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-translate-fuzz-fuzz.smt2 : 30 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-translate-fuzz-graft.smt2 : 33 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-translate-fuzz-multiply.smt2 : 32 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-translate-fuzz-reverse.smt2 : 25 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-translate-fuzz-rotate.smt2 : 36 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-translate-fuzz-translate.smt2 : 38 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-translate-fuzz.smt2 : 32 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-translate-graft-fuzz.smt2 : 34 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-translate-multiply-fuzz.smt2 : 101 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-translate-reverse-fuzz.smt2 : 32 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-translate-rotate-fuzz.smt2 : 47 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-044-translate-translate-fuzz.smt2 : 59 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-045-unsat-fuzz-fuzz-fuzz.smt2 : 32 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-045-unsat-fuzz-fuzz-graft.smt2 : 27 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-045-unsat-fuzz-fuzz-multiply.smt2 : 25 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-045-unsat-fuzz-fuzz-reverse.smt2 : 26 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-045-unsat-fuzz-fuzz-translate.smt2 : 24 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-045-unsat-fuzz-fuzz.smt2 : 32 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-045-unsat-fuzz-graft-fuzz.smt2 : 34 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-045-unsat-fuzz-graft-translate.smt2 : 25 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-045-unsat-fuzz-graft.smt2 : 25 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-045-unsat-fuzz-multiply-fuzz.smt2 : 38 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-045-unsat-fuzz-multiply-graft.smt2 : 33 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-045-unsat-fuzz-multiply-multiply.smt2 : 34 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-045-unsat-fuzz-multiply-translate.smt2 : 31 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-045-unsat-fuzz-multiply.smt2 : 28 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-045-unsat-fuzz-reverse-fuzz.smt2 : 30 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-045-unsat-fuzz-reverse-graft.smt2 : 33 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-045-unsat-fuzz-reverse-multiply.smt2 : 32 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-045-unsat-fuzz-reverse-translate.smt2 : 29 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-045-unsat-fuzz-reverse.smt2 : 32 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-045-unsat-fuzz-rotate-fuzz.smt2 : 31 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-045-unsat-fuzz-rotate-graft.smt2 : 30 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-045-unsat-fuzz-rotate-multiply.smt2 : 29 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-045-unsat-fuzz-rotate-reverse.smt2 : 31 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-045-unsat-fuzz-rotate-rotate.smt2 : 31 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-045-unsat-fuzz-rotate-translate.smt2 : 31 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-045-unsat-fuzz-rotate.smt2 : 26 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-045-unsat-fuzz-translate-fuzz.smt2 : 29 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-045-unsat-fuzz-translate-graft.smt2 : 33 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-045-unsat-fuzz-translate-multiply.smt2 : 29 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-045-unsat-fuzz-translate-reverse.smt2 : 28 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-045-unsat-fuzz-translate-rotate.smt2 : 24 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-045-unsat-fuzz-translate-translate.smt2 : 26 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-045-unsat-fuzz.smt2 : 28 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-045-unsat-graft-fuzz-fuzz.smt2 : 28 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-045-unsat-graft-fuzz-graft.smt2 : 30 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-045-unsat-graft-fuzz-multiply.smt2 : 33 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-045-unsat-graft-fuzz-reverse.smt2 : 31 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-045-unsat-graft-fuzz-translate.smt2 : 32 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-045-unsat-graft-fuzz.smt2 : 30 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-045-unsat-graft-graft-fuzz.smt2 : 33 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-045-unsat-graft-graft-translate.smt2 : 29 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-045-unsat-graft-multiply-fuzz.smt2 : 30 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-045-unsat-graft-multiply-translate.smt2 : 30 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-045-unsat-graft-reverse-fuzz.smt2 : 27 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-045-unsat-graft-reverse-translate.smt2 : 30 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-045-unsat-graft-rotate-fuzz.smt2 : 31 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-045-unsat-graft-rotate-rotate.smt2 : 29 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-045-unsat-graft-rotate-translate.smt2 : 29 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-045-unsat-graft-translate-fuzz.smt2 : 33 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-045-unsat-graft-translate-multiply.smt2 : 24 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-045-unsat-graft-translate-reverse.smt2 : 29 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-045-unsat-graft-translate-rotate.smt2 : 31 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-045-unsat-graft-translate-translate.smt2 : 32 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-045-unsat-multiply-fuzz-fuzz.smt2 : 32 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-045-unsat-multiply-fuzz-graft.smt2 : 34 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-045-unsat-multiply-fuzz-multiply.smt2 : 31 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-045-unsat-multiply-fuzz-reverse.smt2 : 31 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-045-unsat-multiply-fuzz-rotate.smt2 : 28 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-045-unsat-multiply-fuzz-translate.smt2 : 30 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-045-unsat-multiply-fuzz.smt2 : 31 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-045-unsat-multiply-graft-fuzz.smt2 : 29 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-045-unsat-multiply-graft-translate.smt2 : 30 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-045-unsat-multiply-multiply-fuzz.smt2 : 30 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-045-unsat-multiply-multiply-graft.smt2 : 29 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-045-unsat-multiply-multiply-multiply.smt2 : 29 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-045-unsat-multiply-multiply-translate.smt2 : 31 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-045-unsat-multiply-multiply.smt2 : 27 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-045-unsat-multiply-reverse-fuzz.smt2 : 31 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-045-unsat-multiply-reverse-multiply.smt2 : 28 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-045-unsat-multiply-reverse-translate.smt2 : 32 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-045-unsat-multiply-reverse.smt2 : 32 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-045-unsat-multiply-rotate-fuzz.smt2 : 29 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-045-unsat-multiply-rotate-translate.smt2 : 26 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-045-unsat-multiply-rotate.smt2 : 26 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-045-unsat-multiply-translate-fuzz.smt2 : 31 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-045-unsat-multiply-translate-graft.smt2 : 32 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-045-unsat-multiply-translate-multiply.smt2 : 31 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-045-unsat-multiply-translate-reverse.smt2 : 31 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-045-unsat-multiply-translate-rotate.smt2 : 24 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-045-unsat-multiply-translate-translate.smt2 : 33 ms.

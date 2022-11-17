@@ -1,0 +1,30 @@
+--------------------------------------------------
+timeout
+OMT_LIA/20210219-Dartagnan/ReachSafety-Loops/terminator_02-1-O0.smt2 : 1200195 ms.
+--------------------------------------------------
+sat
+(objectives
+ (last_val_at_memory_93 0)
+)
+OMT_LIA/20210219-Dartagnan/ReachSafety-Loops/sum01_bug02_sum01_bug02_base.case-O0.smt2 : 2609 ms.
+--------------------------------------------------
+sat
+(objectives
+ (memory_15 15)
+)
+OMT_LIA/20210219-Dartagnan/ReachSafety-Loops/terminator_03-1-O0.smt2 : 2530 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/20210219-Dartagnan/ReachSafety-Loops/trex01-1-O0.smt2 : 1201599 ms.
+--------------------------------------------------
+sat
+(objectives
+ (|0:$i1(E6)| (- 2147483648))
+)
+OMT_LIA/20210219-Dartagnan/ReachSafety-Loops/trex02-2-O0.smt2 : 2260 ms.
+--------------------------------------------------
+sat
+(objectives
+ (memory_109 37)
+)
+OMT_LIA/20210219-Dartagnan/ReachSafety-Loops/underapprox_1-1-O0.smt2 : 167 ms.

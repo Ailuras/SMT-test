@@ -1,0 +1,18 @@
+--------------------------------------------------
+timeout
+OMT_LIA/convert/convert-jpg2gif-query-1605.smt2 : 1200026 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/convert/convert-jpg2gif-query-1502.smt2 : 1200142 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/convert/convert-jpg2gif-query-1604.smt2 : 1200037 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/convert/convert-jpg2gif-query-1541.smt2 : 1201997 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/convert/convert-jpg2gif-query-1578.smt2 : 1200359 ms.
+--------------------------------------------------
+./solvers/z3pp_ls/run.sh: line 1: 351437 Segmentation fault      (core dumped) solvers/z3pp_ls/bin/z3 -smt2 $1 -T:$2
+OMT_LIA/20210219-Dartagnan/ConcurrencySafety-Main/race-1_3-join-O0.smt2 : 356 ms.

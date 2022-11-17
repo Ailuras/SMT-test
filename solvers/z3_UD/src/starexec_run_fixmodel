@@ -1,0 +1,8 @@
+#!/bin/bash
+
+if [ "$#" -eq 0 ]; then
+	# incremental track
+	./z3 -smt2 -in
+else
+	./z3 -smt2 "$1" 2>"$2"/error.log | perl ./z3-fix-model.pl
+fi

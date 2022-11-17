@@ -1,0 +1,18 @@
+--------------------------------------------------
+timeout
+OMT_LIA/20210219-Dartagnan/ConcurrencySafety-Main/qrcu-2-O0.smt2 : 1200062 ms.
+--------------------------------------------------
+./solvers/z3pp_ls/run.sh: line 1: 348873 Segmentation fault      (core dumped) solvers/z3pp_ls/bin/z3 -smt2 $1 -T:$2
+OMT_LIA/20210219-Dartagnan/ConcurrencySafety-Main/race-1_2-join-O0.smt2 : 210 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/20210219-Dartagnan/ConcurrencySafety-Main/stack-2-O0.smt2 : 1200041 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/20210219-Dartagnan/ReachSafety-Loops/underapprox_2-1-O0.smt2 : 1200029 ms.
+--------------------------------------------------
+./solvers/z3pp_ls/run.sh: line 1: 350395 Segmentation fault      (core dumped) solvers/z3pp_ls/bin/z3 -smt2 $1 -T:$2
+OMT_LIA/20210219-Dartagnan/ReachSafety-Loops/sum01_bug02-O0.smt2 : 258 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/20210219-Dartagnan/ReachSafety-Loops/gcnr2008-O0.smt2 : 1201533 ms.

@@ -1,0 +1,84 @@
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all143.smt2 : 1200029 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all165.smt2 : 383695 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all167.smt2 : 1200214 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all172.smt2 : 1200219 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all176.smt2 : 1200218 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all183.smt2 : 1200039 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all187.smt2 : 705669 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all196.smt2 : 1190795 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all199.smt2 : 932160 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all203.smt2 : 1200079 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all205.smt2 : 26391 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all223.smt2 : 122674 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all230.smt2 : 1200027 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all65.smt2 : 1200029 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all66.smt2 : 1200029 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all68.smt2 : 1200020 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all80.smt2 : 1200019 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all87.smt2 : 1200024 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all88.smt2 : 1200021 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all90.smt2 : 1200024 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all95.smt2 : 1200028 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all97.smt2 : 1200024 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230403-webapp/str-rep/str_replace130.smt2 : 1200013 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230403-webapp/str-rep/str_replace131.smt2 : 1200040 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230403-webapp/str-rep/str_replace143.smt2 : 51227 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/str-rep/str_replace165.smt2 : 329485 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/str-rep/str_replace167.smt2 : 1075039 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/str-rep/str_replace172.smt2 : 1086744 ms.

@@ -1,0 +1,207 @@
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 212044 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/afnp2014.c.i_3_5_3.bpl_5.smt2 : 1800286 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 279095 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/array1.i_3_2_2.bpl_9.smt2 : 1800169 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 286897 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/array_monotonic.i_3_2_2.bpl_9.smt2 : 1800073 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 291943 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/array_ptr_single_elem_init.i_4_2_2.bpl_5.smt2 : 1800038 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 295948 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/array_single_elem_init.i_4_2_2.bpl_5.smt2 : 1800027 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 298622 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/avg60.i_5_5_4.bpl_3.smt2 : 1800032 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 300581 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/cggmp2005_variant.c.i_3_3_2.bpl_5.smt2 : 1800197 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 325118 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/check_removal_from_set_after_insertion.i_8_6_6.bpl_3.smt2 : 1800141 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 330534 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/const1.i_3_6_2.bpl_5.smt2 : 1800077 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 334654 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/count_by_2.i_3_2_2.bpl_11.smt2 : 1800154 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 337547 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/count_by_k.i_3_3_2.bpl_5.smt2 : 1800196 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 340332 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/count_up_down.i_3_11_2.bpl_9.smt2 : 1800223 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 343017 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/ddlm2013.i_3_4_2.bpl_3.smt2 : 1800092 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 345783 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/ddlm2013.i_3_6_2.bpl_3.smt2 : 1800084 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 348034 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/down.i_4_5_5.bpl_3.smt2 : 1800043 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 350823 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/fragtest_simple.i_4_5_4.bpl_3.smt2 : 1800068 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 353316 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/functions1.i_3_5_2.bpl_9.smt2 : 1800139 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 355174 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/gj2007.c.i_4_3_3.bpl_5.smt2 : 1800139 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 357106 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/gr2006.c.i_4_4_3.bpl_5.smt2 : 1800092 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 359060 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/half_2.i_3_6_2.bpl_3.smt2 : 1801116 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 362468 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/hhk2008.c.i_3_3_2.bpl_5.smt2 : 1800135 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 364238 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/jain_4.i_2_3_3.bpl_3.smt2 : 1800093 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 387910 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/jain_5.i_2_4_3.bpl_3.smt2 : 1800208 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 392519 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/linear_search.i_6_21_3.bpl_3.smt2 : 1800108 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 395308 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/linear_search.i_6_24_3.bpl_3.smt2 : 1800080 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 398024 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/linear_search.i_7_19_3.bpl_3.smt2 : 1800074 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 400333 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/linear_search.i_7_23_3.bpl_3.smt2 : 1800052 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 402738 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/MADWiFi-encode_ie_ok.i_3_4_3.bpl_3.smt2 : 1800066 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 404803 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/nested9.i_5_6_6.bpl_3.smt2 : 1800047 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 406907 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/nested.c_4_2_2.bpl_3.smt2 : 1800030 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 408739 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/nested.i_4_5_3.bpl_3.smt2 : 1800042 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 410696 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/overflow1.i_3_8_2.bpl_9.smt2 : 1800055 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 412190 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/relax.i_11_7_4.bpl_3.smt2 : 1800044 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 413831 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/sanfoundry_10_ground.i_6_3_3.bpl_5.smt2 : 1800187 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 415603 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/seq.i_4_5_4.bpl_3.smt2 : 1800457 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 417234 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/seq.i_5_5_5.bpl_3.smt2 : 1800073 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 418701 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/simple1.i_3_6_2.bpl_9.smt2 : 1800059 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 420442 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/simple4.i_3_4_2.bpl_9.smt2 : 1800055 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 421812 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/sorting_bubblesort_ground.i_4_3_3.bpl_5.smt2 : 1800048 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 422877 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_allDiff2_ground.i_4_4_3.bpl_3.smt2 : 1800061 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 424245 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_compareModified_ground.i_4_2_2.bpl_5.smt2 : 1800069 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 426121 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_copy1_ground.i_3_2_2.bpl_9.smt2 : 1800056 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 427275 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_copy3_ground.i_3_2_2.bpl_5.smt2 : 1800173 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 428307 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_copy4_ground.i_3_2_2.bpl_3.smt2 : 1801461 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 429577 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_copy4_ground.i_3_2_2.bpl_5.smt2 : 1800069 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 430927 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_copy5_ground.i_3_2_2.bpl_3.smt2 : 1800314 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 432126 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_copy7_ground.i_3_2_2.bpl_3.smt2 : 1800103 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 433339 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_copyInit_ground.i_3_2_2.bpl_9.smt2 : 1800153 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 434273 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_copyInitSum2_ground.i_3_2_2.bpl_5.smt2 : 1800102 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 435319 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_copyInitSum3_ground.i_3_2_2.bpl_3.smt2 : 1801307 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 436227 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_copyInitSum3_ground.i_3_2_2.bpl_5.smt2 : 1800073 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 437183 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_init1_ground.i_3_2_2.bpl_9.smt2 : 1800108 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 438267 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_init5_ground.i_3_2_2.bpl_3.smt2 : 1801088 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 439080 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_init6_ground.i_3_2_2.bpl_3.smt2 : 1800136 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 439887 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_init7_ground.i_3_2_2.bpl_3.smt2 : 1800054 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 440717 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_init9_ground.i_3_2_2.bpl_1.smt2 : 1800420 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 441771 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_init9_ground.i_3_2_2.bpl_3.smt2 : 1800079 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 442443 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_maxInArray_ground.i_3_2_2.bpl_5.smt2 : 1800075 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 443500 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_partial_init_ground.i_3_2_2.bpl_5.smt2 : 1800055 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 444318 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_password_ground.i_4_2_2.bpl_5.smt2 : 1800045 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 445118 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_running.i_4_2_2.bpl_5.smt2 : 1800240 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 445784 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_strcmp_ground.i_4_2_2.bpl_5.smt2 : 1800179 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 446668 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_strcpy_original.i_3_3_2.bpl_9.smt2 : 1800988 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 447197 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_two_index_01.i_3_2_2.bpl_5.smt2 : 1800677 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 447928 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_two_index_04.i_3_2_2.bpl_5.smt2 : 1801450 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 448490 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_two_index_05.i_3_2_2.bpl_5.smt2 : 1801395 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 449169 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_two_index_06.i_3_2_2.bpl_5.smt2 : 1802288 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 450015 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/sum60.i_5_6_5.bpl_3.smt2 : 1800044 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 450733 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/up.i_4_4_5.bpl_3.smt2 : 1800062 ms.

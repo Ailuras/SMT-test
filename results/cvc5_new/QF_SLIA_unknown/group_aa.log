@@ -1,0 +1,84 @@
+--------------------------------------------------
+sat
+QF_SLIA/2019-full_str_int/py-conbyte_z3seq/leetcode_int-validWordAbbreviation/141.smt2 : 9528 ms.
+--------------------------------------------------
+sat
+QF_SLIA/2019-full_str_int/py-conbyte_z3seq/leetcode_int-validWordAbbreviation/65.smt2 : 5950 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/2019-full_str_int/py-conbyte_z3seq/leetcode_int-validWordAbbreviation/73.smt2 : 2640 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-012-unsat-fuzz-translate-fuzz.smt2 : 1200058 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-012-unsat-rotate-graft-fuzz.smt2 : 1200301 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-012-unsat-translate-translate-fuzz.smt2 : 1200073 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/2019-full_str_int/py-conbyte_z3seq/leetcode_int-add_binary/1002.smt2 : 2573 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/2019-full_str_int/py-conbyte_z3seq/leetcode_int-add_binary/1008.smt2 : 1876 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/2019-full_str_int/py-conbyte_z3seq/leetcode_int-add_binary/1020.smt2 : 2533 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/2019-full_str_int/py-conbyte_z3seq/leetcode_int-add_binary/1026.smt2 : 2556 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/2019-full_str_int/py-conbyte_z3seq/leetcode_int-add_binary/1032.smt2 : 2094 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/2019-full_str_int/py-conbyte_z3seq/leetcode_int-add_binary/1038.smt2 : 2123 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/2019-full_str_int/py-conbyte_z3seq/leetcode_int-add_binary/1084.smt2 : 2294 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/2019-full_str_int/py-conbyte_z3seq/leetcode_int-add_binary/1090.smt2 : 1703 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/2019-full_str_int/py-conbyte_z3seq/leetcode_int-add_binary/1106.smt2 : 1662 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/2019-full_str_int/py-conbyte_z3seq/leetcode_int-add_binary/316.smt2 : 2577 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/2019-full_str_int/py-conbyte_z3seq/leetcode_int-add_binary/338.smt2 : 2166 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/2019-full_str_int/py-conbyte_z3seq/leetcode_int-add_binary/344.smt2 : 2164 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/2019-full_str_int/py-conbyte_z3seq/leetcode_int-add_binary/542.smt2 : 3784 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/2019-full_str_int/py-conbyte_z3seq/leetcode_int-add_binary/548.smt2 : 2583 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/2019-full_str_int/py-conbyte_z3seq/leetcode_int-add_binary/560.smt2 : 2546 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/2019-full_str_int/py-conbyte_z3seq/leetcode_int-add_binary/566.smt2 : 2908 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/2019-full_str_int/py-conbyte_z3seq/leetcode_int-add_binary/572.smt2 : 3013 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/2019-full_str_int/py-conbyte_z3seq/leetcode_int-add_binary/578.smt2 : 2480 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/2019-full_str_int/py-conbyte_z3seq/leetcode_int-add_binary/584.smt2 : 2543 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/2019-full_str_int/py-conbyte_z3seq/leetcode_int-add_binary/646.smt2 : 1847 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/2019-full_str_int/py-conbyte_z3seq/leetcode_int-add_binary/662.smt2 : 1841 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/2019-full_str_int/py-conbyte_z3seq/leetcode_int-add_binary/668.smt2 : 1896 ms.

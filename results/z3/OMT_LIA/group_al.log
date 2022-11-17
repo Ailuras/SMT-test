@@ -1,0 +1,30 @@
+--------------------------------------------------
+sat
+(objectives
+ (l574c oo)
+)
+OMT_LIA/tropical-matrix/constraint-651478.smt2 : 58046 ms.
+--------------------------------------------------
+sat
+(objectives
+ (l148c (* (- 1) oo))
+)
+OMT_LIA/tropical-matrix/constraint-413904.smt2 : 52643 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/tropical-matrix/constraint-496324.smt2 : 1200057 ms.
+--------------------------------------------------
+sat
+(objectives
+ (l438c oo)
+)
+OMT_LIA/tropical-matrix/constraint-206132.smt2 : 54978 ms.
+--------------------------------------------------
+sat
+(objectives
+ (l636c oo)
+)
+OMT_LIA/tropical-matrix/constraint-523123.smt2 : 9284 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/tropical-matrix/constraint-269353.smt2 : 1200081 ms.

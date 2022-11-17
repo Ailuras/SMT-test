@@ -1,0 +1,33 @@
+--------------------------------------------------
+sat
+(objectives
+ (memory_3 3)
+)
+OMT_LIA/20210219-Dartagnan/ReachSafety-Loops/for_bounded_loop1-O0.smt2 : 4176 ms.
+--------------------------------------------------
+sat
+(objectives
+ (last_val_at_memory_100 0)
+)
+OMT_LIA/20210219-Dartagnan/ReachSafety-Loops/nested_1b-O0.smt2 : 2227 ms.
+--------------------------------------------------
+sat
+(objectives
+ (l974c (* (- 1) oo))
+)
+OMT_LIA/arctic-matrix/constraint-1472027.smt2 : 368736 ms.
+--------------------------------------------------
+sat
+(objectives
+ (l1530c (* (- 1) oo))
+)
+OMT_LIA/arctic-matrix/constraint-449698.smt2 : 12193 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/arctic-matrix/constraint-408585.smt2 : 1200107 ms.
+--------------------------------------------------
+sat
+(objectives
+ (l3719c (* (- 1) oo))
+)
+OMT_LIA/arctic-matrix/constraint-916576.smt2 : 150058 ms.

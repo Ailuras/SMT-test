@@ -1,0 +1,24 @@
+--------------------------------------------------
+(error "line 2230 column 120: logic does not support reals")
+sat
+bench-symba/bench_0xa8ed540.smt2 : 208 ms.
+--------------------------------------------------
+(error "line 2508 column 107: logic does not support reals")
+sat
+bench-symba/bench_0x63b8f20.smt2 : 130 ms.
+--------------------------------------------------
+(error "line 1896 column 111: logic does not support reals")
+sat
+bench-symba/bench_0x5d66110.smt2 : 156 ms.
+--------------------------------------------------
+(error "line 1730 column 129: logic does not support reals")
+sat
+bench-symba/bench_0x7fd31d0.smt2 : 187 ms.
+--------------------------------------------------
+(error "line 1949 column 42: logic does not support reals")
+sat
+bench-symba/bench_0x360b170.smt2 : 83 ms.
+--------------------------------------------------
+(error "line 4115 column 117: logic does not support reals")
+sat
+bench-symba/bench_0x6b96700.smt2 : 122 ms.

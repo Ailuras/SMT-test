@@ -1,0 +1,1 @@
+solvers/z3pp_ls/bin/z3 -smt2 $1 -T:$2

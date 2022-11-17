@@ -1,0 +1,405 @@
+--------------------------------------------------
+sat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0001a.smt2 : 100 ms.
+--------------------------------------------------
+sat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0001c.smt2 : 60 ms.
+--------------------------------------------------
+sat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0001e.smt2 : 27 ms.
+--------------------------------------------------
+sat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0004a.smt2 : 31 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0004c.smt2 : 44 ms.
+--------------------------------------------------
+sat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0004e.smt2 : 78 ms.
+--------------------------------------------------
+sat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0006a.smt2 : 104 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0006c.smt2 : 564 ms.
+--------------------------------------------------
+sat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0006e.smt2 : 31 ms.
+--------------------------------------------------
+sat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0009a.smt2 : 28 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0009c.smt2 : 28 ms.
+--------------------------------------------------
+sat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0009e.smt2 : 37 ms.
+--------------------------------------------------
+sat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0012a.smt2 : 33 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0012c.smt2 : 261 ms.
+--------------------------------------------------
+sat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0012e.smt2 : 46 ms.
+--------------------------------------------------
+sat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0013a.smt2 : 28 ms.
+--------------------------------------------------
+sat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0013c.smt2 : 35 ms.
+--------------------------------------------------
+sat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0013e.smt2 : 31 ms.
+--------------------------------------------------
+sat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0015a.smt2 : 34 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0015c.smt2 : 38 ms.
+--------------------------------------------------
+sat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0015e.smt2 : 41 ms.
+--------------------------------------------------
+sat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0016a.smt2 : 41 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0016c.smt2 : 46 ms.
+--------------------------------------------------
+sat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0016e.smt2 : 37 ms.
+--------------------------------------------------
+sat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0018a.smt2 : 38 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0018c.smt2 : 28 ms.
+--------------------------------------------------
+sat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0018e.smt2 : 27 ms.
+--------------------------------------------------
+sat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0021a.smt2 : 4916 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 246242 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0021c.smt2 : 1800366 ms.
+--------------------------------------------------
+sat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0021e.smt2 : 142 ms.
+--------------------------------------------------
+sat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0022a.smt2 : 686 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 282305 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0022c.smt2 : 1800527 ms.
+--------------------------------------------------
+sat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0022e.smt2 : 676 ms.
+--------------------------------------------------
+sat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0023a.smt2 : 804 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 288357 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0023c.smt2 : 1800029 ms.
+--------------------------------------------------
+sat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0023e.smt2 : 732 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 293283 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0024a.smt2 : 1808750 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 296587 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0024c.smt2 : 1800031 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 298960 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0024e.smt2 : 1800813 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 301098 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0025a.smt2 : 1811840 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 325808 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0025c.smt2 : 1800043 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 331021 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0025e.smt2 : 1800199 ms.
+--------------------------------------------------
+sat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0026a.smt2 : 186 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0026c.smt2 : 274 ms.
+--------------------------------------------------
+sat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0026e.smt2 : 191 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 334912 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0027a.smt2 : 1800336 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 337764 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0027c.smt2 : 1800314 ms.
+--------------------------------------------------
+sat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0027e.smt2 : 4911 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 340564 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0028a.smt2 : 1800960 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 343143 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0028c.smt2 : 1801065 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 346025 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0028e.smt2 : 1807480 ms.
+--------------------------------------------------
+sat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0029a.smt2 : 1036 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 348387 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0029c.smt2 : 1803526 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 351061 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0029e.smt2 : 1800231 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 353740 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0030a.smt2 : 1801167 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 355404 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0030c.smt2 : 1800955 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 357479 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0030e.smt2 : 1801062 ms.
+--------------------------------------------------
+sat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0051a.smt2 : 633 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 359501 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0051c.smt2 : 1800642 ms.
+--------------------------------------------------
+sat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0051e.smt2 : 597 ms.
+--------------------------------------------------
+sat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0052a.smt2 : 123 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0052c.smt2 : 117 ms.
+--------------------------------------------------
+sat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0052e.smt2 : 93 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 362852 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0053a.smt2 : 1800304 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 364410 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0053c.smt2 : 1800710 ms.
+--------------------------------------------------
+sat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0053e.smt2 : 111 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 388343 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0054a.smt2 : 1800819 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 392622 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0054c.smt2 : 1801029 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 395480 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0054e.smt2 : 1806598 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 398176 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0055a.smt2 : 1800157 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 400486 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0055c.smt2 : 1800271 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 402837 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0055e.smt2 : 1800347 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 404943 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0056a.smt2 : 1800208 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 407022 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0056c.smt2 : 1800174 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 408872 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0056e.smt2 : 1800334 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 410799 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0057a.smt2 : 1800055 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 412263 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0057c.smt2 : 1800108 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 413923 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0057e.smt2 : 1800102 ms.
+--------------------------------------------------
+sat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0061a.smt2 : 390 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 415711 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0061c.smt2 : 1801278 ms.
+--------------------------------------------------
+sat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0061e.smt2 : 98 ms.
+--------------------------------------------------
+sat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0062a.smt2 : 2874 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0062c.smt2 : 5422 ms.
+--------------------------------------------------
+sat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0062e.smt2 : 1301 ms.
+--------------------------------------------------
+sat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0063a.smt2 : 74 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0063c.smt2 : 73 ms.
+--------------------------------------------------
+sat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0063e.smt2 : 65 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 417355 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0064a.smt2 : 1800958 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 418814 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0064c.smt2 : 1800864 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 420533 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0064e.smt2 : 1800615 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 421902 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0065a.smt2 : 1800042 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 422968 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0065c.smt2 : 1800053 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 424322 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0065e.smt2 : 1800317 ms.
+--------------------------------------------------
+sat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0066a.smt2 : 32 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0066c.smt2 : 24 ms.
+--------------------------------------------------
+sat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0066e.smt2 : 24 ms.
+--------------------------------------------------
+sat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0067a.smt2 : 1153287 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 426856 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0067c.smt2 : 1801957 ms.
+--------------------------------------------------
+sat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0067e.smt2 : 193821 ms.
+--------------------------------------------------
+sat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0074a.smt2 : 385 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0074c.smt2 : 347 ms.
+--------------------------------------------------
+sat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0074e.smt2 : 348 ms.
+--------------------------------------------------
+sat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0076a.smt2 : 366 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 427987 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0076c.smt2 : 1801830 ms.
+--------------------------------------------------
+sat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0076e.smt2 : 45 ms.
+--------------------------------------------------
+sat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0077a.smt2 : 46 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 429270 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0077c.smt2 : 1801251 ms.
+--------------------------------------------------
+sat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0077e.smt2 : 231 ms.
+--------------------------------------------------
+sat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0078a.smt2 : 223 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0078c.smt2 : 231 ms.
+--------------------------------------------------
+sat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0078e.smt2 : 234 ms.
+--------------------------------------------------
+sat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0079a.smt2 : 257 ms.
+--------------------------------------------------
+sat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0079c.smt2 : 203 ms.
+--------------------------------------------------
+sat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0079e.smt2 : 197 ms.
+--------------------------------------------------
+sat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0080a.smt2 : 224 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0080c.smt2 : 212 ms.
+--------------------------------------------------
+sat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0080e.smt2 : 230 ms.
+--------------------------------------------------
+sat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0082a.smt2 : 218 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0082c.smt2 : 216 ms.
+--------------------------------------------------
+sat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0082e.smt2 : 220 ms.
+--------------------------------------------------
+sat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0083a.smt2 : 227 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0083c.smt2 : 225 ms.
+--------------------------------------------------
+sat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0083e.smt2 : 232 ms.
+--------------------------------------------------
+sat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0084a.smt2 : 301 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0084c.smt2 : 235 ms.
+--------------------------------------------------
+sat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0084e.smt2 : 262 ms.
+--------------------------------------------------
+sat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0085a.smt2 : 261 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0085c.smt2 : 239 ms.
+--------------------------------------------------
+sat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0085e.smt2 : 264 ms.
+--------------------------------------------------
+sat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0086a.smt2 : 900 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0086c.smt2 : 333 ms.
+--------------------------------------------------
+sat
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel0086e.smt2 : 872 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 430493 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel1001a.smt2 : 1801305 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 431798 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel1001c.smt2 : 1800710 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 432932 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20180501-Economics-Mulligan/MulliganEconomicsModel1001e.smt2 : 1800053 ms.

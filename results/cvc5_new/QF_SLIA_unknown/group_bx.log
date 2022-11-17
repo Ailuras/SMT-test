@@ -1,0 +1,33 @@
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230327-stringfuzz-lu/generated/manyregexes/many-regexes-00031-12.smt2 : 1200035 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230327-stringfuzz-lu/generated/manyregexes/many-regexes-00031-15.smt2 : 1200022 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230327-stringfuzz-lu/generated/manyregexes/many-regexes-00037-19.smt2 : 1200011 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230327-stringfuzz-lu/generated/manyregexes/many-regexes-00040-11.smt2 : 1200011 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230327-stringfuzz-lu/generated/manyregexes/many-regexes-00043-3.smt2 : 1200015 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/generated/manyregexes/many-regexes-00055-11.smt2 : 103514 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/generated/regexbig/regex-big-00022-18.smt2 : 79 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/generated/regexbig/regex-big-00022-5.smt2 : 51 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/generated/regexbig/regex-big-00022-8.smt2 : 50 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/generated/regexbig/regex-big-00029-16.smt2 : 80 ms.
+--------------------------------------------------
+sat
+QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/974.smt2 : 2202 ms.

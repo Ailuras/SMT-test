@@ -1,0 +1,33 @@
+--------------------------------------------------
+timeout
+OMT_LIA/pb2010/normalized-j1201_5-sat.smt2 : 1200822 ms.
+--------------------------------------------------
+sat
+(objectives
+ (AT0_PROC3_X oo)
+)
+OMT_LIA/mathsat/FISCHER8-13-fair.smt2 : 1253 ms.
+--------------------------------------------------
+sat
+(objectives
+ (AT9_PROC1_X (* (- 1) oo))
+)
+OMT_LIA/mathsat/FISCHER7-12-fair.smt2 : 7437 ms.
+--------------------------------------------------
+sat
+(objectives
+ (AT11_PROC8_X oo)
+)
+OMT_LIA/mathsat/FISCHER9-14-fair.smt2 : 650 ms.
+--------------------------------------------------
+sat
+(objectives
+ (AT4_PROC8_X (* (- 1) oo))
+)
+OMT_LIA/mathsat/FISCHER10-15-fair.smt2 : 1785 ms.
+--------------------------------------------------
+sat
+(objectives
+ (AT0_Z oo)
+)
+OMT_LIA/mathsat/FISCHER11-16-fair.smt2 : 4828 ms.

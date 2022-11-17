@@ -1,0 +1,84 @@
+--------------------------------------------------
+sat
+QF_SLIA/20180523-Reynolds/kaluza/unsat/big/3384.corecstrs.readable.smt2 : 5250 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20180523-Reynolds/kaluza/unsat/big/3402.corecstrs.readable.smt2 : 3520 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20180523-Reynolds/kaluza/unsat/big/3425.corecstrs.readable.smt2 : 4649 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20180523-Reynolds/kaluza/unsat/big/3450.corecstrs.readable.smt2 : 5325 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20180523-Reynolds/kaluza/unsat/big/3754.corecstrs.readable.smt2 : 5228 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20180523-Reynolds/kaluza/unsat/big/7914.corecstrs.readable.smt2 : 862 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20180523-Reynolds/pyex/peterc-pyex-doc-cav17-td/pymongo/pymongo-mongoclient/0753f8fbdebbcc3b1f0fe7c13e6cdbacdf2ac01886bd9f1db83e5f2b.smt2 : 45979 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20180523-Reynolds/pyex/peterc-pyex-doc-cav17-td/pymongo/pymongo-mongoclient/1017b579181bf16ca7acbf0f9e51358af6287e992b14d176a0d0d85b.smt2 : 279 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20180523-Reynolds/pyex/peterc-pyex-doc-cav17-td/pymongo/pymongo-mongoclient/438d1b25ca36942f3019337e495572e27c8b23ed8c106ab02d1833d1.smt2 : 77637 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20180523-Reynolds/pyex/peterc-pyex-doc-cav17-td/pymongo/pymongo-mongoclient/9f21e85d0a798d239aa14d721e1886c9016e4f1ff02d65a523d0e9d0.smt2 : 83938 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20180523-Reynolds/pyex/peterc-pyex-doc-cav17-td/pymongo/pymongo-mongoclient/a5cb68fb778b9b0c711d814f1930d0e0fe0fb48370bb8de33d2f6802.smt2 : 1200027 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20180523-Reynolds/pyex/peterc-pyex-doc-cav17-td/pymongo/pymongo-mongoclient/b133e8dbcca5b82808041b07dbc62aaad70cb35ead8623e1d232fd56.smt2 : 142 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20180523-Reynolds/pyex/peterc-pyex-doc-cav17-td/pymongo/pymongo-mongoclient/cb280bf45183994ec9cc1c6ac89d15dd4fcc2bf96cf767f1d9b73048.smt2 : 74433 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20180523-Reynolds/pyex/peterc-pyex-doc-cav17-td/pymongo/pymongo-mongoclient/cc647bd246e485aa31a4dc8978e5211a7c1336911d1bfc78b45ee679.smt2 : 325286 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20190311-str-small-rw-Noetzli/str-pred-small-rw/str-pred-small-rw_142.smt2 : 1200028 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20190311-str-small-rw-Noetzli/str-pred-small-rw/str-pred-small-rw_144.smt2 : 1200030 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20190311-str-small-rw-Noetzli/str-pred-small-rw/str-pred-small-rw_186.smt2 : 1200037 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20190311-str-small-rw-Noetzli/str-pred-small-rw/str-pred-small-rw_187.smt2 : 1200033 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-016-fuzz-multiply-fuzz.smt2 : 1200036 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-017-graft-fuzz-graft.smt2 : 1200336 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-017-graft-fuzz-multiply.smt2 : 1200072 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-017-graft-fuzz-reverse.smt2 : 1200078 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-017-graft-fuzz-rotate.smt2 : 1200075 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-017-graft-fuzz-translate.smt2 : 1200074 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-017-reverse-fuzz-multiply.smt2 : 1200051 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-017-reverse-fuzz-reverse.smt2 : 1200057 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-017-reverse-fuzz-rotate.smt2 : 1200058 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-017-reverse-fuzz-translate.smt2 : 1200073 ms.

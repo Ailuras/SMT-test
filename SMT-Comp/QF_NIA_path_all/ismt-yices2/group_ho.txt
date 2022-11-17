@@ -1,0 +1,34 @@
+ismt: rewriters/poly_rewriter.cpp:60: void ismt::poly_rewriter::toPolynomial(ismt::dagc*, poly::Polynomial&): Assertion `false' failed.
+timeout: the monitored command dumped core
+./solvers/ismt-yices2/run.sh: line 4: 327209 Aborted                 timeout $2 ./ismt $1
+ismt: rewriters/poly_rewriter.cpp:60: void ismt::poly_rewriter::toPolynomial(ismt::dagc*, poly::Polynomial&): Assertion `false' failed.
+timeout: the monitored command dumped core
+./solvers/ismt-yices2/run.sh: line 4: 332113 Aborted                 timeout $2 ./ismt $1
+timeout: the monitored command dumped core
+ismt: rewriters/poly_rewriter.cpp:60: void ismt::poly_rewriter::toPolynomial(ismt::dagc*, poly::Polynomial&): Assertion `false' failed.
+timeout: the monitored command dumped core
+./solvers/ismt-yices2/run.sh: line 4: 342457 Aborted                 timeout $2 ./ismt $1
+ismt: rewriters/poly_rewriter.cpp:60: void ismt::poly_rewriter::toPolynomial(ismt::dagc*, poly::Polynomial&): Assertion `false' failed.
+timeout: the monitored command dumped core
+./solvers/ismt-yices2/run.sh: line 4: 344224 Aborted                 timeout $2 ./ismt $1
+ismt: rewriters/poly_rewriter.cpp:60: void ismt::poly_rewriter::toPolynomial(ismt::dagc*, poly::Polynomial&): Assertion `false' failed.
+timeout: the monitored command dumped core
+./solvers/ismt-yices2/run.sh: line 4: 373193 Aborted                 timeout $2 ./ismt $1
+ismt: rewriters/poly_rewriter.cpp:60: void ismt::poly_rewriter::toPolynomial(ismt::dagc*, poly::Polynomial&): Assertion `false' failed.
+timeout: the monitored command dumped core
+./solvers/ismt-yices2/run.sh: line 4: 378066 Aborted                 timeout $2 ./ismt $1
+ismt: rewriters/poly_rewriter.cpp:60: void ismt::poly_rewriter::toPolynomial(ismt::dagc*, poly::Polynomial&): Assertion `false' failed.
+timeout: the monitored command dumped core
+./solvers/ismt-yices2/run.sh: line 4: 380331 Aborted                 timeout $2 ./ismt $1
+ismt: rewriters/poly_rewriter.cpp:60: void ismt::poly_rewriter::toPolynomial(ismt::dagc*, poly::Polynomial&): Assertion `false' failed.
+timeout: the monitored command dumped core
+./solvers/ismt-yices2/run.sh: line 4: 383561 Aborted                 timeout $2 ./ismt $1
+ismt: rewriters/poly_rewriter.cpp:60: void ismt::poly_rewriter::toPolynomial(ismt::dagc*, poly::Polynomial&): Assertion `false' failed.
+timeout: the monitored command dumped core
+./solvers/ismt-yices2/run.sh: line 4: 392671 Aborted                 timeout $2 ./ismt $1
+ismt: rewriters/poly_rewriter.cpp:60: void ismt::poly_rewriter::toPolynomial(ismt::dagc*, poly::Polynomial&): Assertion `false' failed.
+timeout: the monitored command dumped core
+./solvers/ismt-yices2/run.sh: line 4: 417691 Aborted                 timeout $2 ./ismt $1
+ismt: rewriters/poly_rewriter.cpp:60: void ismt::poly_rewriter::toPolynomial(ismt::dagc*, poly::Polynomial&): Assertion `false' failed.
+timeout: the monitored command dumped core
+./solvers/ismt-yices2/run.sh: line 4: 458399 Aborted                 timeout $2 ./ismt $1

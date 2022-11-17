@@ -1,0 +1,36 @@
+--------------------------------------------------
+sat
+(objectives
+ (a2240 1)
+)
+OMT_LIA/20220307-SMPT/BART-PT-020/RC-04.smt2 : 6851 ms.
+--------------------------------------------------
+sat
+(objectives
+ (TrainState_13_2_30 0)
+)
+OMT_LIA/20220307-SMPT/BART-PT-020/RF-14.smt2 : 3477 ms.
+--------------------------------------------------
+sat
+(objectives
+ (a2371 0)
+)
+OMT_LIA/20220307-SMPT/BART-PT-020/RF-10.smt2 : 3369 ms.
+--------------------------------------------------
+sat
+(objectives
+ (TrainState_9_1_38 0)
+)
+OMT_LIA/20220307-SMPT/BART-PT-020/RC-09.smt2 : 2331 ms.
+--------------------------------------------------
+sat
+(objectives
+ (TrainState_12_3_30 0)
+)
+OMT_LIA/20220307-SMPT/BART-PT-020/RF-12.smt2 : 5052 ms.
+--------------------------------------------------
+sat
+(objectives
+ (TrainState_11_2_8 0)
+)
+OMT_LIA/20220307-SMPT/BART-PT-020/RF-05.smt2 : 5899 ms.

@@ -1,0 +1,27 @@
+--------------------------------------------------
+sat
+(objectives
+ (x9468 0)
+)
+OMT_LIA/pb2010/normalized-j9027_5-sat.smt2 : 58866 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/pb2010/normalized-j605_7-sat.smt2 : 1200260 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/pb2010/normalized-j309_9-sat.smt2 : 1200167 ms.
+--------------------------------------------------
+sat
+(objectives
+ (x10021 0)
+)
+OMT_LIA/pb2010/normalized-j6040_1-sat.smt2 : 9146 ms.
+--------------------------------------------------
+sat
+(objectives
+ (x1864 0)
+)
+OMT_LIA/pb2010/normalized-j3031_7-sat.smt2 : 6019 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/pb2010/normalized-j3025_1-sat.smt2 : 1200108 ms.

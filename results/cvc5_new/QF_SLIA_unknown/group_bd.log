@@ -1,0 +1,84 @@
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-017-translate-reverse-fuzz.smt2 : 1200165 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-018-reverse-translate-fuzz.smt2 : 1200266 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-018-translate-translate-fuzz.smt2 : 1200104 ms.
+--------------------------------------------------
+sat
+QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/249.smt2 : 4335 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20180523-Reynolds/kaluza/sat/big/187.corecstrs.readable.smt2 : 146 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20180523-Reynolds/kaluza/sat/big/78.corecstrs.readable.smt2 : 586 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20180523-Reynolds/kaluza/sat/big/90.corecstrs.readable.smt2 : 264 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20180523-Reynolds/kaluza/sat/big/new.10001.corecstrs.readable.smt2 : 121 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20180523-Reynolds/kaluza/sat/big/new.4987.corecstrs.readable.smt2 : 148 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20180523-Reynolds/kaluza/sat/big/new.6446.corecstrs.readable.smt2 : 141 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20180523-Reynolds/kaluza/sat/big/new.8361.corecstrs.readable.smt2 : 92 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20180523-Reynolds/kaluza/sat/big/new.8567.corecstrs.readable.smt2 : 146 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20180523-Reynolds/kaluza/sat/big/new.8592.corecstrs.readable.smt2 : 105 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20180523-Reynolds/kaluza/sat/big/new.8611.corecstrs.readable.smt2 : 151 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20180523-Reynolds/kaluza/sat/big/new.8630.corecstrs.readable.smt2 : 119 ms.
+--------------------------------------------------
+sat
+QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-restoreIpAddresses/170.smt2 : 1001 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-add_binary/220.smt2 : 1860 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-add_binary/226.smt2 : 1267 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-add_binary/304.smt2 : 4570 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-034-reverse-translate-fuzz.smt2 : 1200328 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20180523-Reynolds/kaluza/unsat/big/10926.corecstrs.readable.smt2 : 601 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20180523-Reynolds/kaluza/unsat/big/11131.corecstrs.readable.smt2 : 57 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-027-translate-reverse-fuzz.smt2 : 1200014 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/generated/regexdeep/regex-deep-00011-14.smt2 : 131 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/generated/regexdeep/regex-deep-00011-15.smt2 : 60 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/generated/regexdeep/regex-deep-00011-16.smt2 : 128 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/generated/regexdeep/regex-deep-00011-17.smt2 : 132 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/generated/regexdeep/regex-deep-00011-18.smt2 : 75 ms.

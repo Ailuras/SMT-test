@@ -1,0 +1,24 @@
+--------------------------------------------------
+timeout
+OMT_LIA/convert/convert-jpg2gif-query-1605.smt2 : 1200282 ms.
+--------------------------------------------------
+sat
+(objectives
+ (z946_15_0_ 65535)
+)
+OMT_LIA/convert/convert-jpg2gif-query-1502.smt2 : 19498 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/convert/convert-jpg2gif-query-1604.smt2 : 1200163 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/convert/convert-jpg2gif-query-1541.smt2 : 1200051 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/convert/convert-jpg2gif-query-1578.smt2 : 1200098 ms.
+--------------------------------------------------
+sat
+(objectives
+ (last_val_at_memory_2 0)
+)
+OMT_LIA/20210219-Dartagnan/ConcurrencySafety-Main/race-1_3-join-O0.smt2 : 1043 ms.

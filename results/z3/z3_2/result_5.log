@@ -1,0 +1,207 @@
+--------------------------------------------------
+timeout
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/afnp2014.c.i_3_5_3.bpl_5.smt2 : 1800026 ms.
+--------------------------------------------------
+timeout
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/array1.i_3_2_2.bpl_9.smt2 : 1800021 ms.
+--------------------------------------------------
+timeout
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/array_monotonic.i_3_2_2.bpl_9.smt2 : 1800024 ms.
+--------------------------------------------------
+timeout
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/array_ptr_single_elem_init.i_4_2_2.bpl_5.smt2 : 1800027 ms.
+--------------------------------------------------
+timeout
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/array_single_elem_init.i_4_2_2.bpl_5.smt2 : 1800042 ms.
+--------------------------------------------------
+timeout
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/avg60.i_5_5_4.bpl_3.smt2 : 1800037 ms.
+--------------------------------------------------
+sat
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/cggmp2005_variant.c.i_3_3_2.bpl_5.smt2 : 1186479 ms.
+--------------------------------------------------
+timeout
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/check_removal_from_set_after_insertion.i_8_6_6.bpl_3.smt2 : 1800067 ms.
+--------------------------------------------------
+timeout
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/const1.i_3_6_2.bpl_5.smt2 : 1800030 ms.
+--------------------------------------------------
+timeout
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/count_by_2.i_3_2_2.bpl_11.smt2 : 1800032 ms.
+--------------------------------------------------
+timeout
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/count_by_k.i_3_3_2.bpl_5.smt2 : 1800011 ms.
+--------------------------------------------------
+timeout
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/count_up_down.i_3_11_2.bpl_9.smt2 : 1800015 ms.
+--------------------------------------------------
+timeout
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/ddlm2013.i_3_4_2.bpl_3.smt2 : 1800057 ms.
+--------------------------------------------------
+sat
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/ddlm2013.i_3_6_2.bpl_3.smt2 : 551023 ms.
+--------------------------------------------------
+sat
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/down.i_4_5_5.bpl_3.smt2 : 379516 ms.
+--------------------------------------------------
+timeout
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/fragtest_simple.i_4_5_4.bpl_3.smt2 : 1800033 ms.
+--------------------------------------------------
+timeout
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/functions1.i_3_5_2.bpl_9.smt2 : 1800032 ms.
+--------------------------------------------------
+timeout
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/gj2007.c.i_4_3_3.bpl_5.smt2 : 1800026 ms.
+--------------------------------------------------
+timeout
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/gr2006.c.i_4_4_3.bpl_5.smt2 : 1800026 ms.
+--------------------------------------------------
+timeout
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/half_2.i_3_6_2.bpl_3.smt2 : 1800024 ms.
+--------------------------------------------------
+sat
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/hhk2008.c.i_3_3_2.bpl_5.smt2 : 165866 ms.
+--------------------------------------------------
+timeout
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/jain_4.i_2_3_3.bpl_3.smt2 : 1800028 ms.
+--------------------------------------------------
+timeout
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/jain_5.i_2_4_3.bpl_3.smt2 : 1800023 ms.
+--------------------------------------------------
+timeout
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/linear_search.i_6_21_3.bpl_3.smt2 : 1800037 ms.
+--------------------------------------------------
+timeout
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/linear_search.i_6_24_3.bpl_3.smt2 : 1800040 ms.
+--------------------------------------------------
+timeout
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/linear_search.i_7_19_3.bpl_3.smt2 : 1800051 ms.
+--------------------------------------------------
+timeout
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/linear_search.i_7_23_3.bpl_3.smt2 : 1800044 ms.
+--------------------------------------------------
+sat
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/MADWiFi-encode_ie_ok.i_3_4_3.bpl_3.smt2 : 1291563 ms.
+--------------------------------------------------
+timeout
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/nested9.i_5_6_6.bpl_3.smt2 : 1800015 ms.
+--------------------------------------------------
+sat
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/nested.c_4_2_2.bpl_3.smt2 : 74456 ms.
+--------------------------------------------------
+timeout
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/nested.i_4_5_3.bpl_3.smt2 : 1800010 ms.
+--------------------------------------------------
+timeout
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/overflow1.i_3_8_2.bpl_9.smt2 : 1800027 ms.
+--------------------------------------------------
+timeout
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/relax.i_11_7_4.bpl_3.smt2 : 1800043 ms.
+--------------------------------------------------
+timeout
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/sanfoundry_10_ground.i_6_3_3.bpl_5.smt2 : 1800027 ms.
+--------------------------------------------------
+timeout
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/seq.i_4_5_4.bpl_3.smt2 : 1800033 ms.
+--------------------------------------------------
+timeout
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/seq.i_5_5_5.bpl_3.smt2 : 1800023 ms.
+--------------------------------------------------
+timeout
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/simple1.i_3_6_2.bpl_9.smt2 : 1800028 ms.
+--------------------------------------------------
+timeout
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/simple4.i_3_4_2.bpl_9.smt2 : 1800012 ms.
+--------------------------------------------------
+timeout
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/sorting_bubblesort_ground.i_4_3_3.bpl_5.smt2 : 1800015 ms.
+--------------------------------------------------
+timeout
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_allDiff2_ground.i_4_4_3.bpl_3.smt2 : 1800025 ms.
+--------------------------------------------------
+timeout
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_compareModified_ground.i_4_2_2.bpl_5.smt2 : 1800016 ms.
+--------------------------------------------------
+timeout
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_copy1_ground.i_3_2_2.bpl_9.smt2 : 1800023 ms.
+--------------------------------------------------
+timeout
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_copy3_ground.i_3_2_2.bpl_5.smt2 : 1800030 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_copy4_ground.i_3_2_2.bpl_3.smt2 : 14639 ms.
+--------------------------------------------------
+timeout
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_copy4_ground.i_3_2_2.bpl_5.smt2 : 1800027 ms.
+--------------------------------------------------
+timeout
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_copy5_ground.i_3_2_2.bpl_3.smt2 : 1800030 ms.
+--------------------------------------------------
+timeout
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_copy7_ground.i_3_2_2.bpl_3.smt2 : 1800035 ms.
+--------------------------------------------------
+timeout
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_copyInit_ground.i_3_2_2.bpl_9.smt2 : 1800040 ms.
+--------------------------------------------------
+timeout
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_copyInitSum2_ground.i_3_2_2.bpl_5.smt2 : 1800034 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_copyInitSum3_ground.i_3_2_2.bpl_3.smt2 : 14459 ms.
+--------------------------------------------------
+timeout
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_copyInitSum3_ground.i_3_2_2.bpl_5.smt2 : 1800031 ms.
+--------------------------------------------------
+timeout
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_init1_ground.i_3_2_2.bpl_9.smt2 : 1800018 ms.
+--------------------------------------------------
+timeout
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_init5_ground.i_3_2_2.bpl_3.smt2 : 1800028 ms.
+--------------------------------------------------
+timeout
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_init6_ground.i_3_2_2.bpl_3.smt2 : 1800021 ms.
+--------------------------------------------------
+timeout
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_init7_ground.i_3_2_2.bpl_3.smt2 : 1800025 ms.
+--------------------------------------------------
+timeout
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_init9_ground.i_3_2_2.bpl_1.smt2 : 1800026 ms.
+--------------------------------------------------
+timeout
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_init9_ground.i_3_2_2.bpl_3.smt2 : 1800031 ms.
+--------------------------------------------------
+timeout
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_maxInArray_ground.i_3_2_2.bpl_5.smt2 : 1800603 ms.
+--------------------------------------------------
+timeout
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_partial_init_ground.i_3_2_2.bpl_5.smt2 : 1800017 ms.
+--------------------------------------------------
+timeout
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_password_ground.i_4_2_2.bpl_5.smt2 : 1800021 ms.
+--------------------------------------------------
+timeout
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_running.i_4_2_2.bpl_5.smt2 : 1800026 ms.
+--------------------------------------------------
+timeout
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_strcmp_ground.i_4_2_2.bpl_5.smt2 : 1800035 ms.
+--------------------------------------------------
+timeout
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_strcpy_original.i_3_3_2.bpl_9.smt2 : 1800027 ms.
+--------------------------------------------------
+timeout
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_two_index_01.i_3_2_2.bpl_5.smt2 : 1800015 ms.
+--------------------------------------------------
+timeout
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_two_index_04.i_3_2_2.bpl_5.smt2 : 1800012 ms.
+--------------------------------------------------
+timeout
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_two_index_05.i_3_2_2.bpl_5.smt2 : 1800015 ms.
+--------------------------------------------------
+timeout
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/standard_two_index_06.i_3_2_2.bpl_5.smt2 : 1800020 ms.
+--------------------------------------------------
+timeout
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/sum60.i_5_6_5.bpl_3.smt2 : 1800036 ms.
+--------------------------------------------------
+timeout
+QF_NRA/20170501-Heizmann-UltimateInvariantSynthesis/up.i_4_4_5.bpl_3.smt2 : 1800025 ms.

@@ -1,0 +1,84 @@
+--------------------------------------------------
+unsat
+QF_SLIA/2019-full_str_int/py-conbyte_z3seq/leetcode_int-add_binary/702.smt2 : 2518 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/2019-full_str_int/py-conbyte_z3seq/leetcode_int-add_binary/850.smt2 : 8125 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/2019-full_str_int/py-conbyte_z3seq/leetcode_int-add_binary/856.smt2 : 3921 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/2019-full_str_int/py-conbyte_z3seq/leetcode_int-add_binary/862.smt2 : 2820 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/2019-full_str_int/py-conbyte_z3seq/leetcode_int-add_binary/872.smt2 : 5875 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/2019-full_str_int/py-conbyte_z3seq/leetcode_int-add_binary/878.smt2 : 6836 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/2019-full_str_int/py-conbyte_z3seq/leetcode_int-add_binary/884.smt2 : 6967 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/2019-full_str_int/py-conbyte_z3seq/leetcode_int-add_binary/890.smt2 : 4976 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/2019-full_str_int/py-conbyte_z3seq/leetcode_int-add_binary/896.smt2 : 5195 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/2019-full_str_int/py-conbyte_z3seq/leetcode_int-add_binary/902.smt2 : 4398 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/2019-full_str_int/py-conbyte_z3seq/leetcode_int-add_binary/908.smt2 : 4930 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/2019-full_str_int/py-conbyte_z3seq/leetcode_int-add_binary/914.smt2 : 11403 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/2019-full_str_int/py-conbyte_z3seq/leetcode_int-add_binary/942.smt2 : 3959 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/2019-full_str_int/py-conbyte_z3seq/leetcode_int-add_binary/948.smt2 : 2217 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/2019-full_str_int/py-conbyte_z3seq/leetcode_int-add_binary/958.smt2 : 4555 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/2019-full_str_int/py-conbyte_z3seq/leetcode_int-add_binary/964.smt2 : 2738 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/2019-full_str_int/py-conbyte_z3seq/leetcode_int-add_binary/974.smt2 : 2550 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/2019-full_str_int/py-conbyte_z3seq/leetcode_int-add_binary/980.smt2 : 2553 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20180523-Reynolds/pyex/peterc-pyex-doc-cav17-z3/pymongo/pymongo-mongoclient/c4a1ee2f080c7d2f946c21d4d1eed19bdde0557a27edfd879f9517c7.smt2 : 276 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20180523-Reynolds/pyex/peterc-pyex-doc-cav17-z3/pymongo/pymongo-mongoclient/c6b15bc82296fbf74739d2389550283d52ebb4dcf008339bfd872942.smt2 : 264 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20180523-Reynolds/pyex/peterc-pyex-doc-cav17-z3/pymongo/pymongo-mongoclient/cc12227c51a0d551fb53a722ee777cf89cbc4e5e7594924fc7568697.smt2 : 3541 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20180523-Reynolds/pyex/peterc-pyex-doc-cav17-z3/pymongo/pymongo-mongoclient/cd25ddf3e22002fee4ae86cf54c8284a33f5fb71ed10b3d28d1f44a9.smt2 : 270 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20180523-Reynolds/pyex/peterc-pyex-doc-cav17-z3/pymongo/pymongo-mongoclient/cf0f4c7e73eec2869a0952b2dd315fc4296bc71be0d4edd0ba8e7b4c.smt2 : 371 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20180523-Reynolds/pyex/peterc-pyex-doc-cav17-z3/pymongo/pymongo-mongoclient/cfb64a212fc2b9f94a23c0f301941598cb64dd3729f7a7b72dd5d1e2.smt2 : 730 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20180523-Reynolds/pyex/peterc-pyex-doc-cav17-z3/pymongo/pymongo-mongoclient/d2e530cf54442d205d75350b85ce9e70730c5fe329b4bea50439b3dc.smt2 : 3472 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20180523-Reynolds/pyex/peterc-pyex-doc-cav17-z3/pymongo/pymongo-mongoclient/d430a76a3e646c811558984aa60d6b7d0a89f0e9f5c8a9b79efa6978.smt2 : 291 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20180523-Reynolds/pyex/peterc-pyex-doc-cav17-z3/pymongo/pymongo-mongoclient/d4bd7c483272b2feadc05a13cb37a2c4fcdc9454bd1fe18250ae6d72.smt2 : 262 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20180523-Reynolds/pyex/peterc-pyex-doc-cav17-z3/pymongo/pymongo-mongoclient/d57f7a9f8fc8910cacea4d057d0daae765e845068629748e87ef6400.smt2 : 237 ms.

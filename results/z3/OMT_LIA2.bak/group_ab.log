@@ -1,0 +1,87 @@
+--------------------------------------------------
+timeout
+OMT_LIA/pb2010/normalized-j1209_4-sat.smt2 : 1200161 ms.
+--------------------------------------------------
+sat
+OMT_LIA/pb2010/normalized-j3031_7-sat.smt2 : 4074 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/pb2010/normalized-j3025_1-sat.smt2 : 1200046 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/pb2010/normalized-j12016_4-sat.smt2 : 1200217 ms.
+--------------------------------------------------
+sat
+OMT_LIA/pb2010/normalized-j308_6-sat.smt2 : 843 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/pb2010/normalized-j12010_10-sat.smt2 : 1200194 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/pb2010/normalized-j9042_5-sat.smt2 : 1200175 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/pb2010/normalized-j12034_4-sat.smt2 : 1200119 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/pb2010/normalized-j12036_4-sat.smt2 : 1200145 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/pb2010/normalized-j605_7-sat.smt2 : 1200118 ms.
+--------------------------------------------------
+sat
+OMT_LIA/pb2010/normalized-j6015_4-sat.smt2 : 177512 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/20210219-Dartagnan/ConcurrencySafety-Main/qrcu-2-O0.smt2 : 1200040 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20210219-Dartagnan/ConcurrencySafety-Main/race-1_3-join-O0.smt2 : 140 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20210219-Dartagnan/ConcurrencySafety-Main/stack-2-O0.smt2 : 586 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20210219-Dartagnan/ConcurrencySafety-Main/race-1_2-join-O0.smt2 : 148 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20210219-Dartagnan/ReachSafety-Loops/sum01_bug02_sum01_bug02_base.case-O0.smt2 : 145 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20210219-Dartagnan/ReachSafety-Loops/underapprox_1-1-O0.smt2 : 53 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/20210219-Dartagnan/ReachSafety-Loops/underapprox_2-1-O0.smt2 : 1200022 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20210219-Dartagnan/ReachSafety-Loops/terminator_03-1-O0.smt2 : 387 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20210219-Dartagnan/ReachSafety-Loops/trex02-2-O0.smt2 : 1298 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20210219-Dartagnan/ReachSafety-Loops/for_bounded_loop1-O0.smt2 : 210 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20210219-Dartagnan/ReachSafety-Loops/sum01_bug02-O0.smt2 : 132 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/20210219-Dartagnan/ReachSafety-Loops/terminator_02-1-O0.smt2 : 1200024 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/20210219-Dartagnan/ReachSafety-Loops/gcnr2008-O0.smt2 : 1200024 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20210219-Dartagnan/ReachSafety-Loops/nested_1b-O0.smt2 : 54 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/20210219-Dartagnan/ReachSafety-Loops/trex01-1-O0.smt2 : 1200028 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/BART-PT-040/RF-14.smt2 : 1025 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/BART-PT-040/RF-09.smt2 : 832 ms.
+--------------------------------------------------
+sat
+OMT_LIA/20220307-SMPT/BART-PT-040/RC-15.smt2 : 829 ms.

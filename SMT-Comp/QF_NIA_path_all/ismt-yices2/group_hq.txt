@@ -1,0 +1,6 @@
+ismt: rewriters/poly_rewriter.cpp:60: void ismt::poly_rewriter::toPolynomial(ismt::dagc*, poly::Polynomial&): Assertion `false' failed.
+timeout: the monitored command dumped core
+./solvers/ismt-yices2/run.sh: line 4: 328174 Aborted                 timeout $2 ./ismt $1
+ismt: rewriters/poly_rewriter.cpp:60: void ismt::poly_rewriter::toPolynomial(ismt::dagc*, poly::Polynomial&): Assertion `false' failed.
+timeout: the monitored command dumped core
+./solvers/ismt-yices2/run.sh: line 4: 331036 Aborted                 timeout $2 ./ismt $1

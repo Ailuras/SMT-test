@@ -1,0 +1,26 @@
+ismt: rewriters/eq_rewriter.cpp:136: ismt::dagc* ismt::eq_rewriter::rewrite(ismt::dagc*, bool): Assertion `false' failed.
+timeout: the monitored command dumped core
+./solvers/ismt-yices2/run.sh: line 4: 341003 Aborted                 timeout $2 ./ismt $1
+timeout: the monitored command dumped core
+./solvers/ismt-yices2/run.sh: line 4: 419526 Segmentation fault      timeout $2 ./ismt $1
+timeout: the monitored command dumped core
+./solvers/ismt-yices2/run.sh: line 4: 430947 Segmentation fault      timeout $2 ./ismt $1
+timeout: the monitored command dumped core
+./solvers/ismt-yices2/run.sh: line 4: 452040 Segmentation fault      timeout $2 ./ismt $1
+ismt: rewriters/eq_rewriter.cpp:136: ismt::dagc* ismt::eq_rewriter::rewrite(ismt::dagc*, bool): Assertion `false' failed.
+timeout: the monitored command dumped core
+./solvers/ismt-yices2/run.sh: line 4: 16600 Aborted                 timeout $2 ./ismt $1
+ismt: rewriters/eq_rewriter.cpp:136: ismt::dagc* ismt::eq_rewriter::rewrite(ismt::dagc*, bool): Assertion `false' failed.
+timeout: the monitored command dumped core
+./solvers/ismt-yices2/run.sh: line 4: 17194 Aborted                 timeout $2 ./ismt $1
+timeout: the monitored command dumped core
+./solvers/ismt-yices2/run.sh: line 4: 340696 Segmentation fault      timeout $2 ./ismt $1
+timeout: the monitored command dumped core
+./solvers/ismt-yices2/run.sh: line 4: 424383 Segmentation fault      timeout $2 ./ismt $1
+timeout: the monitored command dumped core
+./solvers/ismt-yices2/run.sh: line 4: 424800 Segmentation fault      timeout $2 ./ismt $1
+ismt: rewriters/eq_rewriter.cpp:136: ismt::dagc* ismt::eq_rewriter::rewrite(ismt::dagc*, bool): Assertion `false' failed.
+timeout: the monitored command dumped core
+./solvers/ismt-yices2/run.sh: line 4: 435290 Aborted                 timeout $2 ./ismt $1
+timeout: the monitored command dumped core
+./solvers/ismt-yices2/run.sh: line 4: 435559 Segmentation fault      timeout $2 ./ismt $1

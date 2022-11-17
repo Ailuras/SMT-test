@@ -1,0 +1,3 @@
+ismt: solvers/blaster/blaster_transformer.cpp:111: void ismt::blaster_transformer::_declare(ismt::dagc*, ismt::Integer, bool, ismt::Integer, bool, int): Assertion `false' failed.
+timeout: the monitored command dumped core
+./solvers/ismt-yices2/run.sh: line 4: 445307 Aborted                 timeout $2 ./ismt $1

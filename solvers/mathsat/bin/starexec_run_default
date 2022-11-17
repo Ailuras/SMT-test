@@ -1,0 +1,8 @@
+#!/bin/sh
+
+if [ "$#" -eq 0 ]; then
+	# incremental track
+	./mathsat
+else
+	./mathsat "$1" 2>"$2"/error.log
+fi

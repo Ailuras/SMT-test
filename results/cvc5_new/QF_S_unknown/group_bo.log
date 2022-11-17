@@ -1,0 +1,15 @@
+--------------------------------------------------
+sat
+QF_S/20230329-automatark-lu/instance11808.smt2 : 69 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_S/20230329-automatark-lu/instance11812.smt2 : 1200010 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_S/20230329-automatark-lu/instance11892.smt2 : 1200009 ms.
+--------------------------------------------------
+sat
+QF_S/20230329-automatark-lu/instance13509.smt2 : 918 ms.
+--------------------------------------------------
+unsat
+QF_S/20230329-automatark-lu/instance13518.smt2 : 3063 ms.

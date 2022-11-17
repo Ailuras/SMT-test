@@ -1,0 +1,27 @@
+--------------------------------------------------
+timeout
+OMT_LIA/20210219-Dartagnan/ConcurrencySafety-Main/qrcu-2-O0.smt2 : 1200082 ms.
+--------------------------------------------------
+sat
+(objectives
+ (|co(E252)| 0)
+)
+OMT_LIA/20210219-Dartagnan/ConcurrencySafety-Main/race-1_2-join-O0.smt2 : 939 ms.
+--------------------------------------------------
+sat
+(objectives
+ (|10:$i1(E197)| 0)
+)
+OMT_LIA/20210219-Dartagnan/ConcurrencySafety-Main/stack-2-O0.smt2 : 4270 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/20210219-Dartagnan/ReachSafety-Loops/underapprox_2-1-O0.smt2 : 1201567 ms.
+--------------------------------------------------
+sat
+(objectives
+ (last_val_at_memory_100 0)
+)
+OMT_LIA/20210219-Dartagnan/ReachSafety-Loops/sum01_bug02-O0.smt2 : 945 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/20210219-Dartagnan/ReachSafety-Loops/gcnr2008-O0.smt2 : 1200098 ms.

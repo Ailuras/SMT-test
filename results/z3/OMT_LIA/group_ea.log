@@ -1,0 +1,36 @@
+--------------------------------------------------
+sat
+(objectives
+ (cAMP__18_3_ 0)
+)
+OMT_LIA/20220307-SMPT/Diffusion2D-PT-D50N050/RC-10.smt2 : 3641 ms.
+--------------------------------------------------
+sat
+(objectives
+ (a744 49)
+)
+OMT_LIA/20220307-SMPT/Diffusion2D-PT-D50N050/RF-06.smt2 : 2463 ms.
+--------------------------------------------------
+sat
+(objectives
+ (a2300 49)
+)
+OMT_LIA/20220307-SMPT/Diffusion2D-PT-D50N050/RF-01.smt2 : 2876 ms.
+--------------------------------------------------
+sat
+(objectives
+ (a1772 0)
+)
+OMT_LIA/20220307-SMPT/Diffusion2D-PT-D50N050/RC-05.smt2 : 5489 ms.
+--------------------------------------------------
+sat
+(objectives
+ (a220 0)
+)
+OMT_LIA/20220307-SMPT/Diffusion2D-PT-D50N050/RC-04.smt2 : 8766 ms.
+--------------------------------------------------
+sat
+(objectives
+ (cAMP__23_29_ 0)
+)
+OMT_LIA/20220307-SMPT/Diffusion2D-PT-D50N050/RF-14.smt2 : 4489 ms.

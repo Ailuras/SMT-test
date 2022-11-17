@@ -1,0 +1,603 @@
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/coef-size/smt/size-40/problem__003.smt2 : 50 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/coef-size/smt/size-40/problem__004.smt2 : 72 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/coef-size/smt/size-40/problem__006.smt2 : 62 ms.
+--------------------------------------------------
+(error "non-integer model value")
+OMT_LIA/CAV_2009_benchmarks/coef-size/smt/size-40/problem__005.smt2 : 191 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/coef-size/smt/size-100/problem__003.smt2 : 70 ms.
+--------------------------------------------------
+(error "non-integer model value")
+OMT_LIA/CAV_2009_benchmarks/coef-size/smt/size-100/problem__004.smt2 : 339 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/coef-size/smt/size-100/problem__002.smt2 : 76 ms.
+--------------------------------------------------
+(error "non-integer model value")
+OMT_LIA/CAV_2009_benchmarks/coef-size/smt/size-100/problem__005.smt2 : 1776 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/coef-size/smt/size-10/problem__004.smt2 : 39 ms.
+--------------------------------------------------
+(error "non-integer model value")
+OMT_LIA/CAV_2009_benchmarks/coef-size/smt/size-10/problem__006.smt2 : 7198 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/coef-size/smt/size-10/problem__001.smt2 : 24 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/coef-size/smt/size-10/problem__005.smt2 : 69 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/45-vars/problem_2__012.smt2 : 127 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/45-vars/problem_2__027.smt2 : 748 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/45-vars/problem_2__020.smt2 : 107 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/45-vars/problem_2__032.smt2 : 374 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/45-vars/problem__024.smt2 : 334 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/45-vars/problem_2__001.smt2 : 61 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/45-vars/problem__031.smt2 : 786 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/45-vars/problem__017.smt2 : 224 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/45-vars/problem_2__035.smt2 : 673 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/45-vars/problem_2__003.smt2 : 51 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/45-vars/problem__025.smt2 : 110 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/45-vars/problem__023.smt2 : 291 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/45-vars/problem_2__031.smt2 : 757 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/45-vars/problem_2__017.smt2 : 230 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/45-vars/problem__026.smt2 : 557 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/45-vars/problem__021.smt2 : 262 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/45-vars/problem__007.smt2 : 81 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/45-vars/problem_2__026.smt2 : 557 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/45-vars/problem__018.smt2 : 196 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/45-vars/problem__035.smt2 : 702 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/45-vars/problem__008.smt2 : 69 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/45-vars/problem__029.smt2 : 335 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/45-vars/problem_2__024.smt2 : 157 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/45-vars/problem_2__030.smt2 : 690 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/45-vars/problem__011.smt2 : 78 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/45-vars/problem_2__015.smt2 : 77 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/45-vars/problem_2__005.smt2 : 52 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/45-vars/problem__019.smt2 : 156 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/45-vars/problem_2__034.smt2 : 677 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/45-vars/problem_2__021.smt2 : 291 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/45-vars/problem__003.smt2 : 47 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/45-vars/problem_2__011.smt2 : 79 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/45-vars/problem__010.smt2 : 91 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/45-vars/problem__004.smt2 : 48 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/45-vars/problem__022.smt2 : 350 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/45-vars/problem__030.smt2 : 428 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/45-vars/problem__015.smt2 : 124 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/45-vars/problem__006.smt2 : 94 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/45-vars/problem__020.smt2 : 191 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/45-vars/problem__001.smt2 : 50 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/45-vars/problem_2__009.smt2 : 56 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/45-vars/problem_2__008.smt2 : 55 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/45-vars/problem_2__007.smt2 : 54 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/45-vars/problem__013.smt2 : 116 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/45-vars/problem_2__022.smt2 : 188 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/45-vars/problem_2__013.smt2 : 61 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/45-vars/problem__009.smt2 : 55 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/45-vars/problem__016.smt2 : 78 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/45-vars/problem__032.smt2 : 986 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/45-vars/problem__027.smt2 : 553 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/45-vars/problem__002.smt2 : 48 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/45-vars/problem__028.smt2 : 403 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/45-vars/problem_2__023.smt2 : 296 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/45-vars/problem__005.smt2 : 48 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/45-vars/problem__014.smt2 : 77 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/45-vars/problem_2__025.smt2 : 317 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/45-vars/problem_2__010.smt2 : 84 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/45-vars/problem_2__014.smt2 : 94 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/45-vars/problem__034.smt2 : 791 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/45-vars/problem_2__029.smt2 : 346 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/45-vars/problem_2__016.smt2 : 187 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/45-vars/problem__012.smt2 : 73 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/45-vars/problem__033.smt2 : 680 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/45-vars/problem_2__002.smt2 : 58 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/45-vars/problem_2__006.smt2 : 56 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/45-vars/problem_2__019.smt2 : 229 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/45-vars/problem_2__004.smt2 : 47 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/45-vars/problem_2__018.smt2 : 138 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/45-vars/problem_2__028.smt2 : 420 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/45-vars/problem_2__033.smt2 : 601 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/20-vars/problem_2__012.smt2 : 58 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/20-vars/problem_2__020.smt2 : 102 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/20-vars/problem__024.smt2 : 185 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/20-vars/problem_2__001.smt2 : 38 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/20-vars/problem__017.smt2 : 95 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/20-vars/problem_2__035.smt2 : 357 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/20-vars/problem_2__003.smt2 : 35 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/20-vars/problem_2__017.smt2 : 160 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/20-vars/problem__026.smt2 : 398 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/20-vars/problem__021.smt2 : 231 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/20-vars/problem__008.smt2 : 40 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/20-vars/problem_2__024.smt2 : 182 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/20-vars/problem__011.smt2 : 85 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/20-vars/problem_2__015.smt2 : 79 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/20-vars/problem_2__005.smt2 : 46 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/20-vars/problem__019.smt2 : 114 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/20-vars/problem_2__021.smt2 : 81 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/20-vars/problem__003.smt2 : 46 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/20-vars/problem_2__011.smt2 : 53 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/20-vars/problem__010.smt2 : 45 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/20-vars/problem__004.smt2 : 49 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/20-vars/problem__022.smt2 : 123 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/20-vars/problem__030.smt2 : 181 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/20-vars/problem__015.smt2 : 60 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/20-vars/problem__006.smt2 : 55 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/20-vars/problem__020.smt2 : 104 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/20-vars/problem__001.smt2 : 39 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/20-vars/problem_2__009.smt2 : 60 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/20-vars/problem_2__008.smt2 : 63 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/20-vars/problem_2__007.smt2 : 58 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/20-vars/problem__013.smt2 : 73 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/20-vars/problem_2__022.smt2 : 159 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/20-vars/problem_2__013.smt2 : 72 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/20-vars/problem__009.smt2 : 52 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/20-vars/problem__002.smt2 : 29 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/20-vars/problem__028.smt2 : 291 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/20-vars/problem__005.smt2 : 36 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/20-vars/problem_2__025.smt2 : 248 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/20-vars/problem_2__010.smt2 : 55 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/20-vars/problem_2__014.smt2 : 83 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/20-vars/problem_2__029.smt2 : 252 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/20-vars/problem_2__016.smt2 : 125 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/20-vars/problem__012.smt2 : 68 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/20-vars/problem_2__002.smt2 : 34 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/20-vars/problem_2__006.smt2 : 50 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/20-vars/problem_2__019.smt2 : 161 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/20-vars/problem_2__004.smt2 : 37 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/20-vars/problem_2__018.smt2 : 118 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/20-vars/problem_2__028.smt2 : 285 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/40-vars/problem_2__012.smt2 : 134 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/40-vars/problem_2__027.smt2 : 357 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/40-vars/problem_2__020.smt2 : 68 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/40-vars/problem_2__032.smt2 : 451 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/40-vars/problem__024.smt2 : 210 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/40-vars/problem_2__001.smt2 : 50 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/40-vars/problem__031.smt2 : 712 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/40-vars/problem__017.smt2 : 163 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/40-vars/problem_2__035.smt2 : 946 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/40-vars/problem_2__003.smt2 : 46 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/40-vars/problem__025.smt2 : 154 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/40-vars/problem__023.smt2 : 269 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/40-vars/problem_2__031.smt2 : 391 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/40-vars/problem_2__017.smt2 : 160 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/40-vars/problem__026.smt2 : 443 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/40-vars/problem__021.smt2 : 242 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/40-vars/problem__007.smt2 : 66 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/40-vars/problem_2__026.smt2 : 428 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/40-vars/problem__018.smt2 : 176 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/40-vars/problem__035.smt2 : 517 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/40-vars/problem__008.smt2 : 52 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/40-vars/problem__029.smt2 : 517 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/40-vars/problem_2__024.smt2 : 274 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/40-vars/problem_2__030.smt2 : 637 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/40-vars/problem__011.smt2 : 94 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/40-vars/problem_2__015.smt2 : 122 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/40-vars/problem_2__005.smt2 : 46 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/40-vars/problem__019.smt2 : 151 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/40-vars/problem_2__034.smt2 : 872 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/40-vars/problem_2__021.smt2 : 284 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/40-vars/problem__003.smt2 : 45 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/40-vars/problem_2__011.smt2 : 74 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/40-vars/problem__010.smt2 : 52 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/40-vars/problem__004.smt2 : 47 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/40-vars/problem__022.smt2 : 220 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/40-vars/problem__030.smt2 : 468 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/40-vars/problem__015.smt2 : 149 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/40-vars/problem__006.smt2 : 57 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/40-vars/problem__020.smt2 : 174 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/40-vars/problem__001.smt2 : 48 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/40-vars/problem_2__008.smt2 : 53 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/40-vars/problem_2__007.smt2 : 56 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/40-vars/problem__013.smt2 : 133 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/40-vars/problem_2__022.smt2 : 147 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/40-vars/problem_2__013.smt2 : 118 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/40-vars/problem__009.smt2 : 89 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/40-vars/problem__016.smt2 : 170 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/40-vars/problem__032.smt2 : 788 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/40-vars/problem__027.smt2 : 273 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/40-vars/problem__002.smt2 : 59 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/40-vars/problem__028.smt2 : 320 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/40-vars/problem_2__023.smt2 : 263 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/40-vars/problem__005.smt2 : 50 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/40-vars/problem__014.smt2 : 89 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/40-vars/problem_2__025.smt2 : 347 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/40-vars/problem_2__010.smt2 : 75 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/40-vars/problem_2__014.smt2 : 111 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/40-vars/problem__034.smt2 : 587 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/40-vars/problem_2__029.smt2 : 432 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/40-vars/problem_2__016.smt2 : 209 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/40-vars/problem__012.smt2 : 142 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/40-vars/problem__033.smt2 : 732 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/40-vars/problem_2__002.smt2 : 46 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/40-vars/problem_2__006.smt2 : 73 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/40-vars/problem_2__019.smt2 : 177 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/40-vars/problem_2__004.smt2 : 46 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/40-vars/problem_2__018.smt2 : 162 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/40-vars/problem_2__028.smt2 : 393 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/40-vars/problem_2__033.smt2 : 569 ms.
+--------------------------------------------------
+sat
+OMT_LIA/CAV_2009_benchmarks/smt/35-vars/problem_2__012.smt2 : 95 ms.

@@ -1,0 +1,36 @@
+--------------------------------------------------
+sat
+(objectives
+ (Ext_Mem_Acc_41_54 0)
+)
+OMT_LIA/20220307-SMPT/SharedMemory-PT-000100/RF-00.smt2 : 69249 ms.
+--------------------------------------------------
+sat
+(objectives
+ (a17656 1)
+)
+OMT_LIA/20220307-SMPT/SharedMemory-PT-000100/RC-11.smt2 : 85231 ms.
+--------------------------------------------------
+sat
+(objectives
+ (a150 1)
+)
+OMT_LIA/20220307-SMPT/SharedMemory-PT-000100/RC-13.smt2 : 93583 ms.
+--------------------------------------------------
+sat
+(objectives
+ (TrainState_6_4_19 0)
+)
+OMT_LIA/20220307-SMPT/BART-PT-010/RF-03.smt2 : 581 ms.
+--------------------------------------------------
+sat
+(objectives
+ (a244 0)
+)
+OMT_LIA/20220307-SMPT/BART-PT-010/RF-09.smt2 : 371 ms.
+--------------------------------------------------
+sat
+(objectives
+ (NewDistTable_34_5_29 1)
+)
+OMT_LIA/20220307-SMPT/BART-PT-010/RC-00.smt2 : 591 ms.

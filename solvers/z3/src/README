@@ -1,0 +1,7 @@
+z3 for StarExec
+===============
+
+This directory contains docker images to build the current version
+of z3 for StarExec.  You can run it with:
+
+    ./build-z3-starexec.sh

@@ -1,0 +1,7 @@
+cadical: fatal error: invalid API usage of 'void CaDiCaL::Solver::add(int)' in '../src/solver.cpp': invalid literal '-2147483648'
+timeout: the monitored command dumped core
+./solvers/ismt-yices2/run.sh: line 4: 35204 Aborted                 timeout $2 ./ismt $1
+timeout: the monitored command dumped core
+./solvers/ismt-yices2/run.sh: line 4: 55154 Segmentation fault      timeout $2 ./ismt $1
+timeout: the monitored command dumped core
+./solvers/ismt-yices2/run.sh: line 4: 69156 Segmentation fault      timeout $2 ./ismt $1

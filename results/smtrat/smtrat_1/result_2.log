@@ -1,0 +1,600 @@
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E23E27.smt2 : 42 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E23E28.smt2 : 86 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E23.smt2 : 58 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E24E25.smt2 : 1330 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E24E26.smt2 : 461 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E24E27.smt2 : 94 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E24E28.smt2 : 401 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E24.smt2 : 58 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E25E26.smt2 : 51 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E25E27.smt2 : 84 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E25E28.smt2 : 270 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E25.smt2 : 37 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E26E27.smt2 : 28 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E26E28.smt2 : 26 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E26.smt2 : 18 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E27E28.smt2 : 25 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E27.smt2 : 19 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E28.smt2 : 26 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 219924 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20161105-Sturm-MBO/mbo_E2E10.smt2 : 1800732 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E2E11.smt2 : 25798 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E2E12.smt2 : 1582466 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 286796 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20161105-Sturm-MBO/mbo_E2E13.smt2 : 1800372 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 291896 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20161105-Sturm-MBO/mbo_E2E14.smt2 : 1800266 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E2E15.smt2 : 190086 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 295968 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20161105-Sturm-MBO/mbo_E2E16.smt2 : 1804698 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 298760 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20161105-Sturm-MBO/mbo_E2E17.smt2 : 1802406 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E2E18.smt2 : 162964 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E2E19.smt2 : 901052 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 302787 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20161105-Sturm-MBO/mbo_E2E20.smt2 : 1801160 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 327579 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20161105-Sturm-MBO/mbo_E2E21.smt2 : 1800732 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E2E22.smt2 : 749926 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E2E23.smt2 : 122838 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E2E24.smt2 : 188151 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E2E25.smt2 : 869371 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E2E26.smt2 : 102515 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E2E27.smt2 : 6702 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E2E28.smt2 : 142731 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E2E3.smt2 : 969198 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E2E4.smt2 : 723645 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E2E5.smt2 : 288373 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E2E6.smt2 : 1270651 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E2E7.smt2 : 117528 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E2E8.smt2 : 246971 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 342735 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20161105-Sturm-MBO/mbo_E2E9.smt2 : 1801823 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E2.smt2 : 2310 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 345324 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20161105-Sturm-MBO/mbo_E3E10.smt2 : 1801041 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E3E11.smt2 : 212132 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E3E12.smt2 : 476887 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E3E13.smt2 : 207422 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 349369 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20161105-Sturm-MBO/mbo_E3E14.smt2 : 1802183 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E3E15.smt2 : 198511 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 352159 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20161105-Sturm-MBO/mbo_E3E16.smt2 : 1802322 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 354440 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20161105-Sturm-MBO/mbo_E3E17.smt2 : 1802227 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E3E18.smt2 : 1620831 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E3E19.smt2 : 180893 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E3E20.smt2 : 84021 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E3E21.smt2 : 58991 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E3E22.smt2 : 196128 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E3E23.smt2 : 230591 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E3E24.smt2 : 126235 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E3E25.smt2 : 102879 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E3E26.smt2 : 85649 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E3E27.smt2 : 6252 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E3E28.smt2 : 128091 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E3E4.smt2 : 586797 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E3E5.smt2 : 221880 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E3E6.smt2 : 476736 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E3E7.smt2 : 217619 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 362329 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20161105-Sturm-MBO/mbo_E3E8.smt2 : 1800147 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 363965 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20161105-Sturm-MBO/mbo_E3E9.smt2 : 1802415 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E3.smt2 : 1524 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 387610 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20161105-Sturm-MBO/mbo_E4E10.smt2 : 1800784 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 392360 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20161105-Sturm-MBO/mbo_E4E11.smt2 : 1800545 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 395212 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20161105-Sturm-MBO/mbo_E4E12.smt2 : 1800978 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 397889 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20161105-Sturm-MBO/mbo_E4E13.smt2 : 1801513 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 400146 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20161105-Sturm-MBO/mbo_E4E14.smt2 : 1800875 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 402617 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20161105-Sturm-MBO/mbo_E4E15.smt2 : 1801090 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 404521 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20161105-Sturm-MBO/mbo_E4E16.smt2 : 1801572 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 406714 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20161105-Sturm-MBO/mbo_E4E17.smt2 : 1801254 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 408465 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20161105-Sturm-MBO/mbo_E4E18.smt2 : 1800648 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 410345 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20161105-Sturm-MBO/mbo_E4E19.smt2 : 1800924 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 411795 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20161105-Sturm-MBO/mbo_E4E20.smt2 : 1800818 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 413524 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20161105-Sturm-MBO/mbo_E4E21.smt2 : 1800746 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 415166 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20161105-Sturm-MBO/mbo_E4E22.smt2 : 1800766 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E4E23.smt2 : 68447 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E4E24.smt2 : 209820 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 417230 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20161105-Sturm-MBO/mbo_E4E25.smt2 : 1801188 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E4E26.smt2 : 79317 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E4E27.smt2 : 3352 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E4E28.smt2 : 107630 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E4E5.smt2 : 221426 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E4E6.smt2 : 243933 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E4E7.smt2 : 103371 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 419438 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20161105-Sturm-MBO/mbo_E4E8.smt2 : 1800158 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 421029 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20161105-Sturm-MBO/mbo_E4E9.smt2 : 1801572 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E4.smt2 : 1063 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 422203 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20161105-Sturm-MBO/mbo_E5E10.smt2 : 1801476 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E5E11.smt2 : 151 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 423450 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20161105-Sturm-MBO/mbo_E5E12.smt2 : 1800116 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 425064 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20161105-Sturm-MBO/mbo_E5E13.smt2 : 1800289 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 426533 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20161105-Sturm-MBO/mbo_E5E15.smt2 : 1800076 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E5E16.smt2 : 494 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E5E17.smt2 : 1299 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 427574 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20161105-Sturm-MBO/mbo_E5E18.smt2 : 1800392 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E5E19.smt2 : 1790074 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E5E20.smt2 : 413131 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E5E21.smt2 : 305 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E5E22.smt2 : 694432 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E5E23.smt2 : 463 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E5E24.smt2 : 540765 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E5E25.smt2 : 933365 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E5E26.smt2 : 192 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E5E27.smt2 : 148 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E5E28.smt2 : 456 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E5E6.smt2 : 496 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E5E7.smt2 : 328 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 431931 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20161105-Sturm-MBO/mbo_E5E8.smt2 : 1800149 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E5E9.smt2 : 382 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E5.smt2 : 39 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 433013 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20161105-Sturm-MBO/mbo_E6E10.smt2 : 1801407 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E6E11.smt2 : 142 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E6E12.smt2 : 224493 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E6E13.smt2 : 216841 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 434432 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20161105-Sturm-MBO/mbo_E6E14.smt2 : 1801811 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E6E15.smt2 : 196934 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E6E16.smt2 : 1485 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E6E17.smt2 : 428 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 435651 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20161105-Sturm-MBO/mbo_E6E18.smt2 : 1800413 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 436366 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20161105-Sturm-MBO/mbo_E6E19.smt2 : 1801980 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 437441 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20161105-Sturm-MBO/mbo_E6E20.smt2 : 1801020 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 438482 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20161105-Sturm-MBO/mbo_E6E21.smt2 : 1802889 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 439265 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20161105-Sturm-MBO/mbo_E6E22.smt2 : 1801372 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E6E23.smt2 : 564 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E6E24.smt2 : 255361 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 440181 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20161105-Sturm-MBO/mbo_E6E25.smt2 : 1801204 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E6E26.smt2 : 240 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E6E27.smt2 : 56 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E6E28.smt2 : 363 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E6E7.smt2 : 315 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E6E8.smt2 : 228707 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E6E9.smt2 : 1185 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E6.smt2 : 233 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 441382 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20161105-Sturm-MBO/mbo_E7E10.smt2 : 1801194 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E7E11.smt2 : 359 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E7E12.smt2 : 342934 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E7E13.smt2 : 65388 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 442210 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20161105-Sturm-MBO/mbo_E7E14.smt2 : 1800494 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E7E15.smt2 : 59033 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E7E16.smt2 : 1086 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E7E17.smt2 : 954 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 443255 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20161105-Sturm-MBO/mbo_E7E18.smt2 : 1801072 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E7E19.smt2 : 50880 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E7E20.smt2 : 15766 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E7E21.smt2 : 139 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E7E22.smt2 : 47458 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E7E23.smt2 : 323 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E7E24.smt2 : 61810 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E7E25.smt2 : 26603 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E7E26.smt2 : 499 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E7E27.smt2 : 16 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E7E28.smt2 : 156 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E7E8.smt2 : 74024 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E7E9.smt2 : 589 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E7.smt2 : 13 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 444268 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20161105-Sturm-MBO/mbo_E8E10.smt2 : 1800656 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E8E11.smt2 : 19087 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E8E12.smt2 : 149234 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E8E13.smt2 : 1682077 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 445619 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20161105-Sturm-MBO/mbo_E8E14.smt2 : 1801133 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E8E15.smt2 : 145683 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 446685 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20161105-Sturm-MBO/mbo_E8E16.smt2 : 1802362 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 447216 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20161105-Sturm-MBO/mbo_E8E17.smt2 : 1801139 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E8E18.smt2 : 148632 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E8E19.smt2 : 133452 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 448066 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20161105-Sturm-MBO/mbo_E8E20.smt2 : 1800705 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 448603 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20161105-Sturm-MBO/mbo_E8E21.smt2 : 1800735 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E8E22.smt2 : 81517 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E8E23.smt2 : 62463 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E8E24.smt2 : 315184 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E8E25.smt2 : 589555 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E8E26.smt2 : 78774 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E8E27.smt2 : 5511 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E8E28.smt2 : 83831 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 449951 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20161105-Sturm-MBO/mbo_E8E9.smt2 : 1801518 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E8.smt2 : 1698 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E9E10.smt2 : 14071 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E9E11.smt2 : 35 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E9E12.smt2 : 828568 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E9E13.smt2 : 1383989 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 451292 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20161105-Sturm-MBO/mbo_E9E14.smt2 : 1800123 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E9E15.smt2 : 911694 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E9E16.smt2 : 1274 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E9E17.smt2 : 816 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 452044 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20161105-Sturm-MBO/mbo_E9E18.smt2 : 1802668 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 452434 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20161105-Sturm-MBO/mbo_E9E19.smt2 : 1801136 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E9E20.smt2 : 1307 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E9E21.smt2 : 29 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 452959 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20161105-Sturm-MBO/mbo_E9E22.smt2 : 1800892 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E9E23.smt2 : 185 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 453521 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/20161105-Sturm-MBO/mbo_E9E24.smt2 : 1801006 ms.

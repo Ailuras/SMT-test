@@ -1,0 +1,84 @@
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/generated/regexpair/regex-pair-00081-24.smt2 : 306 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/generated/regexpair/regex-pair-00081-6.smt2 : 337 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/generated/regexpair/regex-pair-00086-10.smt2 : 330 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/generated/regexpair/regex-pair-00086-13.smt2 : 410 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/generated/regexpair/regex-pair-00086-23.smt2 : 428 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/generated/regexpair/regex-pair-00086-26.smt2 : 422 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/generated/regexpair/regex-pair-00086-9.smt2 : 494 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/generated/regexpair/regex-pair-00091-16.smt2 : 430 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/generated/regexpair/regex-pair-00091-19.smt2 : 311 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/generated/regexpair/regex-pair-00091-2.smt2 : 324 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/generated/regexpair/regex-pair-00091-21.smt2 : 391 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/generated/regexpair/regex-pair-00091-29.smt2 : 394 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/generated/regexpair/regex-pair-00091-3.smt2 : 417 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/generated/regexpair/regex-pair-00091-8.smt2 : 477 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20190311-str-small-rw-Noetzli/str-pred-small-rw/str-pred-small-rw_664.smt2 : 113 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20190311-str-small-rw-Noetzli/str-pred-small-rw/str-pred-small-rw_725.smt2 : 1200014 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20190311-str-small-rw-Noetzli/str-pred-small-rw/str-pred-small-rw_732.smt2 : 1200015 ms.
+--------------------------------------------------
+unknown
+QF_SLIA/20190311-str-small-rw-Noetzli/str-term-small-rw/str-term-small-rw_102.smt2 : 3356 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230327-stringfuzz-lu/generated/variants/bcc92db5.smt2 : 1200022 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230327-stringfuzz-lu/generated/variants/bd6334c4.smt2 : 1200023 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/generated/variants/bf723fb2.smt2 : 484 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230327-stringfuzz-lu/generated/variants/c00a6982.smt2 : 1200015 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230327-stringfuzz-lu/generated/variants/c01ba451.smt2 : 1200021 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230327-stringfuzz-lu/generated/variants/c06e357e.smt2 : 1200021 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230327-stringfuzz-lu/generated/variants/c109f9bf.smt2 : 1200020 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/generated/variants/c184c8d0.smt2 : 55682 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230327-stringfuzz-lu/generated/variants/c271a253.smt2 : 1200020 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230327-stringfuzz-lu/generated/variants/c352323c.smt2 : 1200019 ms.

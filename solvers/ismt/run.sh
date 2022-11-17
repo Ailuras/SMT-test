@@ -1,0 +1,1 @@
+timeout $2 solvers/ismt/bin/ismt $1

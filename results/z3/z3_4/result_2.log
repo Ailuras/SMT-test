@@ -1,0 +1,600 @@
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E23E27.smt2 : 22 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E23E28.smt2 : 22 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E23.smt2 : 20 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E24E25.smt2 : 24929 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E24E26.smt2 : 24400 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E24E27.smt2 : 56 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E24E28.smt2 : 56 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E24.smt2 : 42 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E25E26.smt2 : 15913 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E25E27.smt2 : 17103 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E25E28.smt2 : 23597 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E25.smt2 : 15653 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E26E27.smt2 : 33 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E26E28.smt2 : 80 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E26.smt2 : 24 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E27E28.smt2 : 21 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E27.smt2 : 19 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E28.smt2 : 24 ms.
+--------------------------------------------------
+run.sh: line 19: 167675 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E2E10.smt2 : 1264964 ms.
+--------------------------------------------------
+unknown
+QF_NRA/20161105-Sturm-MBO/mbo_E2E11.smt2 : 1519766 ms.
+--------------------------------------------------
+run.sh: line 19: 228556 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E2E12.smt2 : 1066259 ms.
+--------------------------------------------------
+run.sh: line 19: 237303 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E2E13.smt2 : 1088709 ms.
+--------------------------------------------------
+run.sh: line 19: 240757 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E2E14.smt2 : 1126381 ms.
+--------------------------------------------------
+run.sh: line 19: 242909 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E2E15.smt2 : 1031212 ms.
+--------------------------------------------------
+run.sh: line 19: 245522 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E2E16.smt2 : 1279822 ms.
+--------------------------------------------------
+run.sh: line 19: 250781 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E2E17.smt2 : 1180286 ms.
+--------------------------------------------------
+run.sh: line 19: 253773 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E2E18.smt2 : 994887 ms.
+--------------------------------------------------
+run.sh: line 19: 255589 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E2E19.smt2 : 994162 ms.
+--------------------------------------------------
+run.sh: line 19: 256709 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E2E20.smt2 : 804942 ms.
+--------------------------------------------------
+run.sh: line 19: 256957 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E2E21.smt2 : 800709 ms.
+--------------------------------------------------
+run.sh: line 19: 259104 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E2E22.smt2 : 847305 ms.
+--------------------------------------------------
+run.sh: line 19: 259511 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E2E23.smt2 : 820349 ms.
+--------------------------------------------------
+run.sh: line 19: 260888 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E2E24.smt2 : 824618 ms.
+--------------------------------------------------
+run.sh: line 19: 261870 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E2E25.smt2 : 832779 ms.
+--------------------------------------------------
+run.sh: line 19: 262988 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E2E26.smt2 : 871012 ms.
+--------------------------------------------------
+unknown
+QF_NRA/20161105-Sturm-MBO/mbo_E2E27.smt2 : 557090 ms.
+--------------------------------------------------
+run.sh: line 19: 263761 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E2E28.smt2 : 895233 ms.
+--------------------------------------------------
+run.sh: line 19: 264908 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E2E3.smt2 : 1045411 ms.
+--------------------------------------------------
+run.sh: line 19: 266229 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E2E4.smt2 : 974537 ms.
+--------------------------------------------------
+run.sh: line 19: 266991 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E2E5.smt2 : 1282840 ms.
+--------------------------------------------------
+run.sh: line 19: 268939 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E2E6.smt2 : 1195331 ms.
+--------------------------------------------------
+run.sh: line 19: 270033 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E2E7.smt2 : 622043 ms.
+--------------------------------------------------
+run.sh: line 19: 270703 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E2E8.smt2 : 1055038 ms.
+--------------------------------------------------
+run.sh: line 19: 271045 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E2E9.smt2 : 1093214 ms.
+--------------------------------------------------
+timeout
+QF_NRA/20161105-Sturm-MBO/mbo_E2.smt2 : 1800162 ms.
+--------------------------------------------------
+run.sh: line 19: 276056 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E3E10.smt2 : 1011785 ms.
+--------------------------------------------------
+unknown
+QF_NRA/20161105-Sturm-MBO/mbo_E3E11.smt2 : 1086861 ms.
+--------------------------------------------------
+run.sh: line 19: 354314 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E3E12.smt2 : 966486 ms.
+--------------------------------------------------
+run.sh: line 19: 55839 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E3E13.smt2 : 956875 ms.
+--------------------------------------------------
+run.sh: line 19: 58951 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E3E14.smt2 : 1026263 ms.
+--------------------------------------------------
+run.sh: line 19: 59878 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E3E15.smt2 : 948515 ms.
+--------------------------------------------------
+run.sh: line 19: 60305 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E3E16.smt2 : 1205088 ms.
+--------------------------------------------------
+run.sh: line 19: 61354 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E3E17.smt2 : 1054287 ms.
+--------------------------------------------------
+run.sh: line 19: 62226 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E3E18.smt2 : 968070 ms.
+--------------------------------------------------
+run.sh: line 19: 62802 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E3E19.smt2 : 927757 ms.
+--------------------------------------------------
+run.sh: line 19: 63366 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E3E20.smt2 : 756580 ms.
+--------------------------------------------------
+run.sh: line 19: 63758 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E3E21.smt2 : 804332 ms.
+--------------------------------------------------
+run.sh: line 19: 64179 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E3E22.smt2 : 770337 ms.
+--------------------------------------------------
+run.sh: line 19: 64640 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E3E23.smt2 : 816440 ms.
+--------------------------------------------------
+run.sh: line 19: 64986 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E3E24.smt2 : 830258 ms.
+--------------------------------------------------
+run.sh: line 19: 65961 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E3E25.smt2 : 913907 ms.
+--------------------------------------------------
+run.sh: line 19: 66296 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E3E26.smt2 : 858918 ms.
+--------------------------------------------------
+unknown
+QF_NRA/20161105-Sturm-MBO/mbo_E3E27.smt2 : 422958 ms.
+--------------------------------------------------
+run.sh: line 19: 67035 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E3E28.smt2 : 832568 ms.
+--------------------------------------------------
+run.sh: line 19: 67564 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E3E4.smt2 : 982870 ms.
+--------------------------------------------------
+run.sh: line 19: 68435 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E3E5.smt2 : 1286069 ms.
+--------------------------------------------------
+run.sh: line 19: 69125 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E3E6.smt2 : 1255740 ms.
+--------------------------------------------------
+run.sh: line 19: 70033 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E3E7.smt2 : 620761 ms.
+--------------------------------------------------
+run.sh: line 19: 70855 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E3E8.smt2 : 1022012 ms.
+--------------------------------------------------
+run.sh: line 19: 71298 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E3E9.smt2 : 1103223 ms.
+--------------------------------------------------
+timeout
+QF_NRA/20161105-Sturm-MBO/mbo_E3.smt2 : 1800151 ms.
+--------------------------------------------------
+run.sh: line 19: 73123 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E4E10.smt2 : 828082 ms.
+--------------------------------------------------
+unknown
+QF_NRA/20161105-Sturm-MBO/mbo_E4E11.smt2 : 801119 ms.
+--------------------------------------------------
+run.sh: line 19: 76067 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E4E12.smt2 : 905090 ms.
+--------------------------------------------------
+run.sh: line 19: 76455 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E4E13.smt2 : 972030 ms.
+--------------------------------------------------
+run.sh: line 19: 78138 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E4E14.smt2 : 926967 ms.
+--------------------------------------------------
+run.sh: line 19: 78543 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E4E15.smt2 : 932716 ms.
+--------------------------------------------------
+run.sh: line 19: 89003 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E4E16.smt2 : 1050613 ms.
+--------------------------------------------------
+run.sh: line 19: 157706 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E4E17.smt2 : 970347 ms.
+--------------------------------------------------
+run.sh: line 19: 158165 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E4E18.smt2 : 847541 ms.
+--------------------------------------------------
+run.sh: line 19: 158569 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E4E19.smt2 : 899440 ms.
+--------------------------------------------------
+run.sh: line 19: 159025 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E4E20.smt2 : 777864 ms.
+--------------------------------------------------
+run.sh: line 19: 201160 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E4E21.smt2 : 741179 ms.
+--------------------------------------------------
+run.sh: line 19: 201707 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E4E22.smt2 : 783585 ms.
+--------------------------------------------------
+run.sh: line 19: 208785 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E4E23.smt2 : 848837 ms.
+--------------------------------------------------
+run.sh: line 19: 209256 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E4E24.smt2 : 818122 ms.
+--------------------------------------------------
+run.sh: line 19: 209620 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E4E25.smt2 : 846109 ms.
+--------------------------------------------------
+run.sh: line 19: 210279 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E4E26.smt2 : 823245 ms.
+--------------------------------------------------
+unknown
+QF_NRA/20161105-Sturm-MBO/mbo_E4E27.smt2 : 228348 ms.
+--------------------------------------------------
+run.sh: line 19: 210696 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E4E28.smt2 : 847138 ms.
+--------------------------------------------------
+run.sh: line 19: 211424 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E4E5.smt2 : 1189979 ms.
+--------------------------------------------------
+run.sh: line 19: 211955 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E4E6.smt2 : 1028274 ms.
+--------------------------------------------------
+timeout
+QF_NRA/20161105-Sturm-MBO/mbo_E4E7.smt2 : 1801794 ms.
+--------------------------------------------------
+run.sh: line 19: 213531 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E4E8.smt2 : 1024347 ms.
+--------------------------------------------------
+run.sh: line 19: 213956 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E4E9.smt2 : 949980 ms.
+--------------------------------------------------
+timeout
+QF_NRA/20161105-Sturm-MBO/mbo_E4.smt2 : 1800207 ms.
+--------------------------------------------------
+run.sh: line 19: 215219 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E5E10.smt2 : 1064102 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E5E11.smt2 : 20397 ms.
+--------------------------------------------------
+run.sh: line 19: 215748 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E5E12.smt2 : 1102834 ms.
+--------------------------------------------------
+run.sh: line 19: 216218 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E5E13.smt2 : 1204901 ms.
+--------------------------------------------------
+run.sh: line 19: 216749 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E5E15.smt2 : 1149961 ms.
+--------------------------------------------------
+timeout
+QF_NRA/20161105-Sturm-MBO/mbo_E5E16.smt2 : 1800147 ms.
+--------------------------------------------------
+timeout
+QF_NRA/20161105-Sturm-MBO/mbo_E5E17.smt2 : 1800082 ms.
+--------------------------------------------------
+run.sh: line 19: 337612 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E5E18.smt2 : 1370600 ms.
+--------------------------------------------------
+run.sh: line 19: 347180 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E5E19.smt2 : 1193021 ms.
+--------------------------------------------------
+run.sh: line 19: 354475 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E5E20.smt2 : 987843 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E5E21.smt2 : 256 ms.
+--------------------------------------------------
+run.sh: line 19: 356567 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E5E22.smt2 : 962470 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E5E23.smt2 : 125 ms.
+--------------------------------------------------
+run.sh: line 19: 358394 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E5E24.smt2 : 1000010 ms.
+--------------------------------------------------
+run.sh: line 19: 360225 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E5E25.smt2 : 1066190 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E5E26.smt2 : 44 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E5E27.smt2 : 40 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E5E28.smt2 : 22951 ms.
+--------------------------------------------------
+timeout
+QF_NRA/20161105-Sturm-MBO/mbo_E5E6.smt2 : 1800302 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E5E7.smt2 : 52 ms.
+--------------------------------------------------
+run.sh: line 19: 367468 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E5E8.smt2 : 1445194 ms.
+--------------------------------------------------
+timeout
+QF_NRA/20161105-Sturm-MBO/mbo_E5E9.smt2 : 1800138 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E5.smt2 : 31 ms.
+--------------------------------------------------
+run.sh: line 19: 371299 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E6E10.smt2 : 989429 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E6E11.smt2 : 18754 ms.
+--------------------------------------------------
+run.sh: line 19: 371997 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E6E12.smt2 : 1261296 ms.
+--------------------------------------------------
+run.sh: line 19: 374130 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E6E13.smt2 : 1189343 ms.
+--------------------------------------------------
+run.sh: line 19: 375269 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E6E14.smt2 : 1394481 ms.
+--------------------------------------------------
+run.sh: line 19: 455215 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E6E15.smt2 : 1511691 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E6E16.smt2 : 24805 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E6E17.smt2 : 23327 ms.
+--------------------------------------------------
+run.sh: line 19:  7940 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E6E18.smt2 : 1325771 ms.
+--------------------------------------------------
+run.sh: line 19: 12643 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E6E19.smt2 : 1292478 ms.
+--------------------------------------------------
+run.sh: line 19: 15725 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E6E20.smt2 : 907719 ms.
+--------------------------------------------------
+timeout
+QF_NRA/20161105-Sturm-MBO/mbo_E6E21.smt2 : 1800097 ms.
+--------------------------------------------------
+run.sh: line 19: 22693 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E6E22.smt2 : 1017183 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E6E23.smt2 : 24461 ms.
+--------------------------------------------------
+run.sh: line 19: 23895 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E6E24.smt2 : 1051991 ms.
+--------------------------------------------------
+run.sh: line 19: 25683 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E6E25.smt2 : 1001803 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E6E26.smt2 : 23081 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E6E27.smt2 : 5165 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E6E28.smt2 : 61 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E6E7.smt2 : 10022 ms.
+--------------------------------------------------
+run.sh: line 19: 27485 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E6E8.smt2 : 1347271 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E6E9.smt2 : 23211 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E6.smt2 : 5103 ms.
+--------------------------------------------------
+timeout
+QF_NRA/20161105-Sturm-MBO/mbo_E7E10.smt2 : 1801879 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E7E11.smt2 : 22 ms.
+--------------------------------------------------
+timeout
+QF_NRA/20161105-Sturm-MBO/mbo_E7E12.smt2 : 1804395 ms.
+--------------------------------------------------
+run.sh: line 19: 32520 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E7E13.smt2 : 660459 ms.
+--------------------------------------------------
+run.sh: line 19: 33257 Segmentation fault      z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E7E14.smt2 : 661045 ms.
+--------------------------------------------------
+timeout
+QF_NRA/20161105-Sturm-MBO/mbo_E7E15.smt2 : 1802364 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E7E16.smt2 : 22434 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E7E17.smt2 : 20870 ms.
+--------------------------------------------------
+timeout
+QF_NRA/20161105-Sturm-MBO/mbo_E7E18.smt2 : 1802773 ms.
+--------------------------------------------------
+timeout
+QF_NRA/20161105-Sturm-MBO/mbo_E7E19.smt2 : 1802813 ms.
+--------------------------------------------------
+timeout
+QF_NRA/20161105-Sturm-MBO/mbo_E7E20.smt2 : 1801130 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E7E21.smt2 : 35 ms.
+--------------------------------------------------
+timeout
+QF_NRA/20161105-Sturm-MBO/mbo_E7E22.smt2 : 1801055 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E7E23.smt2 : 36 ms.
+--------------------------------------------------
+timeout
+QF_NRA/20161105-Sturm-MBO/mbo_E7E24.smt2 : 1801843 ms.
+--------------------------------------------------
+timeout
+QF_NRA/20161105-Sturm-MBO/mbo_E7E25.smt2 : 1801188 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E7E26.smt2 : 47 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E7E27.smt2 : 24 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E7E28.smt2 : 37 ms.
+--------------------------------------------------
+run.sh: line 19: 46768 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E7E8.smt2 : 647236 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E7E9.smt2 : 21860 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E7.smt2 : 23 ms.
+--------------------------------------------------
+run.sh: line 19: 47501 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E8E10.smt2 : 914026 ms.
+--------------------------------------------------
+unknown
+QF_NRA/20161105-Sturm-MBO/mbo_E8E11.smt2 : 1341625 ms.
+--------------------------------------------------
+run.sh: line 19: 49859 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E8E12.smt2 : 953072 ms.
+--------------------------------------------------
+run.sh: line 19: 50732 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E8E13.smt2 : 1026538 ms.
+--------------------------------------------------
+run.sh: line 19: 51498 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E8E14.smt2 : 1055999 ms.
+--------------------------------------------------
+run.sh: line 19: 52546 Segmentation fault      z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E8E15.smt2 : 957712 ms.
+--------------------------------------------------
+run.sh: line 19: 53278 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E8E16.smt2 : 1321113 ms.
+--------------------------------------------------
+run.sh: line 19: 54314 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E8E17.smt2 : 1136821 ms.
+--------------------------------------------------
+run.sh: line 19: 55095 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E8E18.smt2 : 950275 ms.
+--------------------------------------------------
+run.sh: line 19: 55602 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E8E19.smt2 : 969557 ms.
+--------------------------------------------------
+run.sh: line 19: 56241 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E8E20.smt2 : 776343 ms.
+--------------------------------------------------
+run.sh: line 19: 56921 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E8E21.smt2 : 858588 ms.
+--------------------------------------------------
+run.sh: line 19: 57512 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E8E22.smt2 : 841728 ms.
+--------------------------------------------------
+run.sh: line 19: 58001 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E8E23.smt2 : 855313 ms.
+--------------------------------------------------
+run.sh: line 19: 58679 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E8E24.smt2 : 977297 ms.
+--------------------------------------------------
+run.sh: line 19: 59423 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E8E25.smt2 : 844231 ms.
+--------------------------------------------------
+run.sh: line 19: 59983 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E8E26.smt2 : 847308 ms.
+--------------------------------------------------
+unknown
+QF_NRA/20161105-Sturm-MBO/mbo_E8E27.smt2 : 472238 ms.
+--------------------------------------------------
+run.sh: line 19: 60869 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E8E28.smt2 : 880796 ms.
+--------------------------------------------------
+run.sh: line 19: 61569 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E8E9.smt2 : 1109070 ms.
+--------------------------------------------------
+timeout
+QF_NRA/20161105-Sturm-MBO/mbo_E8.smt2 : 1800195 ms.
+--------------------------------------------------
+unknown
+QF_NRA/20161105-Sturm-MBO/mbo_E9E10.smt2 : 166073 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E9E11.smt2 : 16875 ms.
+--------------------------------------------------
+run.sh: line 19: 112035 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E9E12.smt2 : 852127 ms.
+--------------------------------------------------
+run.sh: line 19: 114570 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E9E13.smt2 : 994063 ms.
+--------------------------------------------------
+run.sh: line 19: 117252 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E9E14.smt2 : 1070829 ms.
+--------------------------------------------------
+run.sh: line 19: 118571 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E9E15.smt2 : 864979 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E9E16.smt2 : 26782 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E9E17.smt2 : 23998 ms.
+--------------------------------------------------
+run.sh: line 19: 122017 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E9E18.smt2 : 1096222 ms.
+--------------------------------------------------
+run.sh: line 19: 123671 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E9E19.smt2 : 1067948 ms.
+--------------------------------------------------
+unknown
+QF_NRA/20161105-Sturm-MBO/mbo_E9E20.smt2 : 192717 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E9E21.smt2 : 18888 ms.
+--------------------------------------------------
+run.sh: line 19: 125362 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E9E22.smt2 : 855386 ms.
+--------------------------------------------------
+unsat
+QF_NRA/20161105-Sturm-MBO/mbo_E9E23.smt2 : 20370 ms.
+--------------------------------------------------
+run.sh: line 19: 126772 Segmentation fault      (core dumped) z3 $file -T:$time_t
+QF_NRA/20161105-Sturm-MBO/mbo_E9E24.smt2 : 981054 ms.

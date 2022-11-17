@@ -1,0 +1,150 @@
+--------------------------------------------------
+sat
+QF_NRA/2019-ezsmt/reverseFolding/01-reverse_folding-0-0.smt2 : 532 ms.
+--------------------------------------------------
+sat
+QF_NRA/2019-ezsmt/reverseFolding/02-reverse_folding-0-0.smt2 : 1100 ms.
+--------------------------------------------------
+timeout
+QF_NRA/2019-ezsmt/reverseFolding/03-reverse_folding-0-0.smt2 : 1800046 ms.
+--------------------------------------------------
+unknown
+QF_NRA/2019-ezsmt/reverseFolding/04-reverse_folding-0-0.smt2 : 666008 ms.
+--------------------------------------------------
+sat
+QF_NRA/2019-ezsmt/reverseFolding/05-reverse_folding-0-0.smt2 : 29 ms.
+--------------------------------------------------
+unsat
+QF_NRA/2019-ezsmt/reverseFolding/06-reverse_folding-0-0.smt2 : 97 ms.
+--------------------------------------------------
+unsat
+QF_NRA/2019-ezsmt/reverseFolding/07-reverse_folding-0-0.smt2 : 350 ms.
+--------------------------------------------------
+sat
+QF_NRA/2019-ezsmt/reverseFolding/08-reverse_folding-0-0.smt2 : 825 ms.
+--------------------------------------------------
+sat
+QF_NRA/2019-ezsmt/reverseFolding/09-reverse_folding-0-0.smt2 : 1329 ms.
+--------------------------------------------------
+sat
+QF_NRA/2019-ezsmt/reverseFolding/10-reverse_folding-0-0.smt2 : 2685 ms.
+--------------------------------------------------
+sat
+QF_NRA/2019-ezsmt/reverseFolding/11-reverse_folding-0-0.smt2 : 322 ms.
+--------------------------------------------------
+sat
+QF_NRA/2019-ezsmt/reverseFolding/12-reverse_folding-0-0.smt2 : 255 ms.
+--------------------------------------------------
+sat
+QF_NRA/2019-ezsmt/reverseFolding/13-reverse_folding-0-0.smt2 : 406 ms.
+--------------------------------------------------
+sat
+QF_NRA/2019-ezsmt/reverseFolding/14-reverse_folding-0-0.smt2 : 369 ms.
+--------------------------------------------------
+sat
+QF_NRA/2019-ezsmt/reverseFolding/15-reverse_folding-0-0.smt2 : 381 ms.
+--------------------------------------------------
+sat
+QF_NRA/2019-ezsmt/reverseFolding/16-reverse_folding-0-0.smt2 : 854 ms.
+--------------------------------------------------
+sat
+QF_NRA/2019-ezsmt/reverseFolding/17-reverse_folding-0-0.smt2 : 1019 ms.
+--------------------------------------------------
+sat
+QF_NRA/2019-ezsmt/reverseFolding/18-reverse_folding-0-0.smt2 : 520 ms.
+--------------------------------------------------
+sat
+QF_NRA/2019-ezsmt/reverseFolding/19-reverse_folding-0-0.smt2 : 534 ms.
+--------------------------------------------------
+sat
+QF_NRA/2019-ezsmt/reverseFolding/20-reverse_folding-0-0.smt2 : 1530 ms.
+--------------------------------------------------
+sat
+QF_NRA/2019-ezsmt/reverseFolding/21-reverse_folding-0-0.smt2 : 1959 ms.
+--------------------------------------------------
+sat
+QF_NRA/2019-ezsmt/reverseFolding/22-reverse_folding-0-0.smt2 : 2118 ms.
+--------------------------------------------------
+sat
+QF_NRA/2019-ezsmt/reverseFolding/23-reverse_folding-0-0.smt2 : 1481 ms.
+--------------------------------------------------
+sat
+QF_NRA/2019-ezsmt/reverseFolding/24-reverse_folding-0-0.smt2 : 2848 ms.
+--------------------------------------------------
+sat
+QF_NRA/2019-ezsmt/reverseFolding/25-reverse_folding-0-0.smt2 : 3873 ms.
+--------------------------------------------------
+sat
+QF_NRA/2019-ezsmt/reverseFolding/26-reverse_folding-0-0.smt2 : 2268 ms.
+--------------------------------------------------
+sat
+QF_NRA/2019-ezsmt/reverseFolding/27-reverse_folding-0-0.smt2 : 2889 ms.
+--------------------------------------------------
+sat
+QF_NRA/2019-ezsmt/reverseFolding/28-reverse_folding-0-0.smt2 : 2149 ms.
+--------------------------------------------------
+sat
+QF_NRA/2019-ezsmt/reverseFolding/29-reverse_folding-0-0.smt2 : 3408 ms.
+--------------------------------------------------
+sat
+QF_NRA/2019-ezsmt/reverseFolding/30-reverse_folding-0-0.smt2 : 3007 ms.
+--------------------------------------------------
+sat
+QF_NRA/2019-ezsmt/reverseFolding/31-reverse_folding-0-0.smt2 : 12541 ms.
+--------------------------------------------------
+sat
+QF_NRA/2019-ezsmt/reverseFolding/32-reverse_folding-0-0.smt2 : 3900 ms.
+--------------------------------------------------
+sat
+QF_NRA/2019-ezsmt/reverseFolding/33-reverse_folding-0-0.smt2 : 2816 ms.
+--------------------------------------------------
+sat
+QF_NRA/2019-ezsmt/reverseFolding/34-reverse_folding-0-0.smt2 : 5433 ms.
+--------------------------------------------------
+sat
+QF_NRA/2019-ezsmt/reverseFolding/35-reverse_folding-0-0.smt2 : 8358 ms.
+--------------------------------------------------
+sat
+QF_NRA/2019-ezsmt/reverseFolding/36-reverse_folding-0-0.smt2 : 13915 ms.
+--------------------------------------------------
+sat
+QF_NRA/2019-ezsmt/reverseFolding/37-reverse_folding-0-0.smt2 : 7841 ms.
+--------------------------------------------------
+sat
+QF_NRA/2019-ezsmt/reverseFolding/38-reverse_folding-0-0.smt2 : 15709 ms.
+--------------------------------------------------
+sat
+QF_NRA/2019-ezsmt/reverseFolding/39-reverse_folding-0-0.smt2 : 7022 ms.
+--------------------------------------------------
+sat
+QF_NRA/2019-ezsmt/reverseFolding/40-reverse_folding-0-0.smt2 : 15840 ms.
+--------------------------------------------------
+sat
+QF_NRA/2019-ezsmt/reverseFolding/41-reverse_folding-0-0.smt2 : 61945 ms.
+--------------------------------------------------
+sat
+QF_NRA/2019-ezsmt/reverseFolding/42-reverse_folding-0-0.smt2 : 8076 ms.
+--------------------------------------------------
+sat
+QF_NRA/2019-ezsmt/reverseFolding/43-reverse_folding-0-0.smt2 : 17816 ms.
+--------------------------------------------------
+sat
+QF_NRA/2019-ezsmt/reverseFolding/44-reverse_folding-0-0.smt2 : 17402 ms.
+--------------------------------------------------
+sat
+QF_NRA/2019-ezsmt/reverseFolding/45-reverse_folding-0-0.smt2 : 17965 ms.
+--------------------------------------------------
+sat
+QF_NRA/2019-ezsmt/reverseFolding/46-reverse_folding-0-0.smt2 : 19770 ms.
+--------------------------------------------------
+sat
+QF_NRA/2019-ezsmt/reverseFolding/47-reverse_folding-0-0.smt2 : 1338 ms.
+--------------------------------------------------
+sat
+QF_NRA/2019-ezsmt/reverseFolding/48-reverse_folding-0-0.smt2 : 1412 ms.
+--------------------------------------------------
+sat
+QF_NRA/2019-ezsmt/reverseFolding/49-reverse_folding-0-0.smt2 : 1570 ms.
+--------------------------------------------------
+sat
+QF_NRA/2019-ezsmt/reverseFolding/50-reverse_folding-0-0.smt2 : 740 ms.

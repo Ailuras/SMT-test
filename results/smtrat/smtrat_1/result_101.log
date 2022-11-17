@@ -1,0 +1,48 @@
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sin/344/4/sin-344-4-chunk-0021.smt2 : 58 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sin/344/4/sin-344-4-chunk-0022.smt2 : 58 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sin/344/4/sin-344-4-chunk-0024.smt2 : 58 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sin/344/4/sin-344-4-chunk-0031.smt2 : 77 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sin/344/4/sin-344-4-chunk-0032.smt2 : 55 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sin/344/4/sin-344-4-chunk-0034.smt2 : 56 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/sin/344/4/sin-344-4-chunk-0035.smt2 : 30 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sin/344/4/sin-344-4-chunk-0040.smt2 : 70 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sin/344/4/sin-344-4-chunk-0044.smt2 : 51 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/sin/344/4/sin-344-4-chunk-0045.smt2 : 24 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 217959 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/meti-tarski/sin/344/4/sin-344-4-chunk-0046.smt2 : 1800035 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sin/344/4/sin-344-4-chunk-0047.smt2 : 67 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sin/344/4/sin-344-4-chunk-0048.smt2 : 42 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sin/344/4/sin-344-4-chunk-0049.smt2 : 663 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sin/344/4/sin-344-4-chunk-0050.smt2 : 716 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sin/344/4/sin-344-4-chunk-0052.smt2 : 60 ms.

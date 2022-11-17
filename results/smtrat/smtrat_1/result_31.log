@@ -1,0 +1,135 @@
+--------------------------------------------------
+sat
+QF_NRA/kissing/kissing_2_1.smt2 : 94 ms.
+--------------------------------------------------
+sat
+QF_NRA/kissing/kissing_2_2.smt2 : 344 ms.
+--------------------------------------------------
+sat
+QF_NRA/kissing/kissing_2_3.smt2 : 515 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 213031 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/kissing/kissing_2_4.smt2 : 1800288 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 279277 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/kissing/kissing_2_5.smt2 : 1800111 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 286950 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/kissing/kissing_2_6.smt2 : 1800798 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 291989 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/kissing/kissing_2_7.smt2 : 1800766 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 296010 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/kissing/kissing_3_10.smt2 : 1800576 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 298668 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/kissing/kissing_3_11.smt2 : 1800350 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 300649 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/kissing/kissing_3_12.smt2 : 1800502 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 325190 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/kissing/kissing_3_13.smt2 : 1800412 ms.
+--------------------------------------------------
+sat
+QF_NRA/kissing/kissing_3_1.smt2 : 31 ms.
+--------------------------------------------------
+sat
+QF_NRA/kissing/kissing_3_2.smt2 : 100 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 330603 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/kissing/kissing_3_3.smt2 : 1800103 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 334710 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/kissing/kissing_3_4.smt2 : 1801548 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 337643 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/kissing/kissing_3_5.smt2 : 1802306 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 340416 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/kissing/kissing_3_6.smt2 : 1800992 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 343081 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/kissing/kissing_3_7.smt2 : 1800244 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 345850 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/kissing/kissing_3_8.smt2 : 1801089 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 348103 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/kissing/kissing_3_9.smt2 : 1800380 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 350888 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/kissing/kissing_4_10.smt2 : 1800145 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 353366 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/kissing/kissing_4_11.smt2 : 1800143 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 355230 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/kissing/kissing_4_12.smt2 : 1800222 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 357160 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/kissing/kissing_4_13.smt2 : 1800195 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 359117 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/kissing/kissing_4_14.smt2 : 1800199 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 362517 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/kissing/kissing_4_15.smt2 : 1800207 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 364286 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/kissing/kissing_4_16.smt2 : 1800160 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 387974 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/kissing/kissing_4_17.smt2 : 1800133 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 392577 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/kissing/kissing_4_18.smt2 : 1800189 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 395367 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/kissing/kissing_4_19.smt2 : 1800126 ms.
+--------------------------------------------------
+sat
+QF_NRA/kissing/kissing_4_1.smt2 : 67 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 398082 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/kissing/kissing_4_20.smt2 : 1800102 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 400388 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/kissing/kissing_4_21.smt2 : 1800095 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 402791 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/kissing/kissing_4_22.smt2 : 1800111 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 404875 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/kissing/kissing_4_23.smt2 : 1800111 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 406955 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/kissing/kissing_4_24.smt2 : 1800095 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 408820 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/kissing/kissing_4_25.smt2 : 1800100 ms.
+--------------------------------------------------
+sat
+QF_NRA/kissing/kissing_4_2.smt2 : 1202 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 410740 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/kissing/kissing_4_3.smt2 : 1800070 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 412230 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/kissing/kissing_4_4.smt2 : 1800373 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 413876 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/kissing/kissing_4_5.smt2 : 1800254 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 415659 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/kissing/kissing_4_6.smt2 : 1800283 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 417274 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/kissing/kissing_4_7.smt2 : 1800056 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 418735 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/kissing/kissing_4_8.smt2 : 1800125 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 420486 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/kissing/kissing_4_9.smt2 : 1803803 ms.

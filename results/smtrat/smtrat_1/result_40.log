@@ -1,0 +1,18 @@
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/Arthan/KM2/ArthanKM2-chunk-0002.smt2 : 41 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/Arthan/KM2/ArthanKM2-chunk-0003.smt2 : 25 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/Arthan/KM2/ArthanKM2-chunk-0004.smt2 : 20 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/Arthan/KM2/ArthanKM2-chunk-0005.smt2 : 21 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/Arthan/KM2/ArthanKM2-chunk-0007.smt2 : 28 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 212775 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/meti-tarski/Arthan/KM2/ArthanKM2-chunk-0008.smt2 : 1800227 ms.

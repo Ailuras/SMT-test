@@ -1,0 +1,84 @@
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230331-transducer-plus/Equivalence/htmlEscape-toLower.smt2 : 1200035 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230331-transducer-plus/Equivalence/htmlUnescape-toLower.smt2 : 1200015 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230331-transducer-plus/Idempotence/escapeString.smt2 : 1200111 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230331-transducer-plus/Idempotence/htmlUnescape.smt2 : 1200018 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230331-transducer-plus/Idempotence/toLower.smt2 : 1200015 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230331-transducer-plus/Idempotence/toUpper.smt2 : 1200016 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230331-transducer-plus/Idempotence/trim.smt2 : 1200021 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all102.smt2 : 1200019 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all30.smt2 : 1200009 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all31.smt2 : 1200010 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all47.smt2 : 1200079 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all63.smt2 : 70315 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all69.smt2 : 1200086 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all71.smt2 : 1200084 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all76.smt2 : 1200017 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all87.smt2 : 16018 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all88.smt2 : 1200046 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230403-webapp/lan-rep-all/lan_replace_all9.smt2 : 1200008 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230403-webapp/lan-rep/lan_replace30.smt2 : 1200009 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230403-webapp/lan-rep/lan_replace31.smt2 : 1200009 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230403-webapp/lan-rep/lan_replace47.smt2 : 1200082 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230403-webapp/lan-rep/lan_replace69.smt2 : 1200014 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230403-webapp/lan-rep/lan_replace71.smt2 : 1200013 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230403-webapp/lan-rep/lan_replace87.smt2 : 1200019 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230403-webapp/lan-rep/lan_replace88.smt2 : 1200046 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all106.smt2 : 522914 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all130.smt2 : 1200014 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230403-webapp/str-rep-all/str_replace_all131.smt2 : 1200041 ms.

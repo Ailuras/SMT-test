@@ -1,0 +1,33 @@
+--------------------------------------------------
+sat
+(objectives
+ (x11252 0)
+)
+OMT_LIA/miplib2003/mzzv42z.sat.smt2 : 5466 ms.
+--------------------------------------------------
+sat
+(objectives
+ (x65804 0)
+)
+OMT_LIA/miplib2003/nw04.sat.smt2 : 371134 ms.
+--------------------------------------------------
+sat
+(objectives
+ (x1117 1)
+)
+OMT_LIA/miplib2003/harp2.sat.smt2 : 64073 ms.
+--------------------------------------------------
+sat
+(objectives
+ (x2052 1)
+)
+OMT_LIA/miplib2003/cap6000.sat.smt2 : 2689 ms.
+--------------------------------------------------
+sat
+(objectives
+ (x9652 0)
+)
+OMT_LIA/miplib2003/sp97ar.sat.smt2 : 13110 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/tropical-matrix/constraint-368069.smt2 : 1200556 ms.

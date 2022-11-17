@@ -1,0 +1,81 @@
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/2015-Norn/HammingDistance/norn-benchmark-840.smt2 : 1200144 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/2015-Norn/HammingDistance/norn-benchmark-867.smt2 : 1200013 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/2015-Norn/HammingDistance/norn-benchmark-930.smt2 : 1200017 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-add_binary/433.smt2 : 2612 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-add_binary/437.smt2 : 1905 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-add_binary/445.smt2 : 1870 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-add_binary/455.smt2 : 1483 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-add_binary/461.smt2 : 1489 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-add_binary/519.smt2 : 2082 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-add_binary/525.smt2 : 2131 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-add_binary/537.smt2 : 2156 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/2019-full_str_int/py-conbyte_cvc4/leetcode_int-add_binary/592.smt2 : 1311 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20190311-str-small-rw-Noetzli/str-term-small-rw/str-term-small-rw_288.smt2 : 26 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20190311-str-small-rw-Noetzli/str-term-small-rw/str-term-small-rw_724.smt2 : 32 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-049-multiply-fuzz-multiply.smt2 : 3586 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-049-multiply-fuzz-reverse.smt2 : 802 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-049-multiply-fuzz-rotate.smt2 : 832 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-049-multiply-fuzz-translate.smt2 : 806 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-049-reverse-fuzz-multiply.smt2 : 405 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-049-rotate-fuzz-fuzz.smt2 : 414 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-049-rotate-fuzz.smt2 : 285 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-050-fuzz.smt2 : 1200029 ms.
+--------------------------------------------------
+(error "Too many input files specified.")
+QF_SLIA/home/hanrui/(error "expecting a single constant string term in regexp range") : 9 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-050-multiply-graft-fuzz.smt2 : 43 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230329-denghang/instance1309.smt2 : 24 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230329-denghang/instance18816.smt2 : 20 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230329-denghang/instance23794.smt2 : 167 ms.

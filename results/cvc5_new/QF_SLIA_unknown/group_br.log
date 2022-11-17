@@ -1,0 +1,84 @@
+--------------------------------------------------
+unsat
+QF_SLIA/20230329-denghang/instance46641.smt2 : 18 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230329-denghang/instance46671.smt2 : 671 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230329-denghang/instance46684.smt2 : 18 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230329-denghang/instance46726.smt2 : 22 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230329-denghang/instance46749.smt2 : 17 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20180523-Reynolds/kaluza/unsat/big/12501.corecstrs.readable.smt2 : 94 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-021-fuzz-graft.smt2 : 1200017 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-021-fuzz-reverse.smt2 : 1200013 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-021-fuzz-translate-multiply.smt2 : 1200014 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-021-fuzz-translate-rotate.smt2 : 1200361 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230327-stringfuzz-lu/transformed/z3str2/regex-021-multiply-rotate-fuzz.smt2 : 1200014 ms.
+--------------------------------------------------
+sat
+QF_SLIA/2019-Jiang/slent/slent_stranger_str_rep_15962_sink.smt2 : 55 ms.
+--------------------------------------------------
+sat
+QF_SLIA/2019-Jiang/slent/slent_stranger_str_rep_17327_sink.smt2 : 164 ms.
+--------------------------------------------------
+sat
+QF_SLIA/2019-Jiang/slent/slent_stranger_str_rep_17621_sink.smt2 : 135 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/2019-Jiang/slent/slent_stranger_str_rep_18974_sink.smt2 : 1200029 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/2019-Jiang/slent/slent_stranger_str_rep_18998_sink.smt2 : 1200029 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/2019-Jiang/slent/slent_stranger_str_rep_19041_sink.smt2 : 1200029 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/2019-Jiang/slent/slent_stranger_str_rep_19302_sink.smt2 : 1200019 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/2019-Jiang/slent/slent_stranger_str_rep_19488_sink.smt2 : 1200022 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/2019-Jiang/slent/slent_stranger_str_rep_19630_sink.smt2 : 1200030 ms.
+--------------------------------------------------
+sat
+QF_SLIA/2019-Jiang/slent/slent_stranger_str_rep_20652_sink.smt2 : 43978 ms.
+--------------------------------------------------
+sat
+QF_SLIA/2019-Jiang/slent/slent_stranger_str_rep_20690_sink.smt2 : 13280 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/2019-Jiang/slent/slent_stranger_str_rep_21602_sink.smt2 : 1200021 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/2019-Jiang/slent/slent_stranger_str_rep_2164_sink.smt2 : 1200012 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/2019-Jiang/slent/slent_stranger_str_rep_29589_sink.smt2 : 2225 ms.
+--------------------------------------------------
+sat
+QF_SLIA/2019-Jiang/slent/slent_stranger_str_rep_29656_sink.smt2 : 28976 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/2019-Jiang/slent/slent_stranger_str_rep_29796_sink.smt2 : 1200017 ms.
+--------------------------------------------------
+sat
+QF_SLIA/2019-Jiang/slent/slent_stranger_str_rep_4418_sink.smt2 : 86 ms.

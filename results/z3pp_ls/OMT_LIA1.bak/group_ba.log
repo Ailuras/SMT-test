@@ -1,0 +1,603 @@
+--------------------------------------------------
+timeout
+OMT_LIA/nec-smt/large/getoption_directories/prp-8-48.smt2 : 1200023 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/nec-smt/large/getoption_directories/prp-8-50.smt2 : 1200020 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/nec-smt/large/getoption_directories/prp-0-112.smt2 : 1200051 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/nec-smt/large/getoption_directories/prp-9-48.smt2 : 1200020 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/getoption_directories/prp-4-113.smt2 : 78520 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/getoption_directories/prp-0-110.smt2 : 70445 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/getoption_directories/prp-0-111.smt2 : 172559 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/nec-smt/large/getoption_directories/prp-8-49.smt2 : 1200022 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/nec-smt/large/getoption_directories/prp-8-47.smt2 : 1200021 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/nec-smt/large/getoption_directories/prp-9-46.smt2 : 1200019 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/nec-smt/large/getoption_directories/prp-0-113.smt2 : 1200048 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/nec-smt/large/getoption_directories/prp-4-111.smt2 : 1200040 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/nec-smt/large/getoption_directories/prp-9-49.smt2 : 1200024 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/nec-smt/large/getoption_directories/prp-1-111.smt2 : 1200038 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/nec-smt/large/getoption_directories/prp-1-112.smt2 : 1200047 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/nec-smt/large/getoption_directories/prp-1-110.smt2 : 1200041 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/getoption_directories/prp-4-112.smt2 : 133156 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/int_from_list/prp-46-46.smt2 : 980730 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/int_from_list/prp-12-49.smt2 : 3577 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/int_from_list/prp-49-46.smt2 : 2686 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/int_from_list/prp-49-47.smt2 : 2651 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/nec-smt/large/int_from_list/prp-46-50.smt2 : 1200021 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/int_from_list/prp-0-50.smt2 : 3672 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/int_from_list/prp-0-48.smt2 : 3390 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/int_from_list/prp-8-46.smt2 : 2384 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/int_from_list/prp-46-48.smt2 : 3482 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/int_from_list/prp-43-50.smt2 : 883414 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/int_from_list/prp-1-48.smt2 : 3838 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/int_from_list/prp-0-46.smt2 : 3072 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/nec-smt/large/int_from_list/prp-40-50.smt2 : 1200015 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/int_from_list/prp-8-48.smt2 : 3241 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/int_from_list/prp-8-50.smt2 : 3908 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/int_from_list/prp-1-50.smt2 : 4084 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/int_from_list/prp-51-48.smt2 : 3411 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/nec-smt/large/int_from_list/prp-37-46.smt2 : 1200017 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/int_from_list/prp-1-46.smt2 : 2392 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/int_from_list/prp-40-46.smt2 : 2332 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/nec-smt/large/int_from_list/prp-40-49.smt2 : 1200018 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/int_from_list/prp-12-47.smt2 : 2558 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/int_from_list/prp-43-49.smt2 : 3384 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/int_from_list/prp-8-49.smt2 : 3596 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/int_from_list/prp-45-44.smt2 : 2153 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/int_from_list/prp-12-50.smt2 : 4365 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/int_from_list/prp-8-47.smt2 : 3077 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/nec-smt/large/int_from_list/prp-37-48.smt2 : 1200019 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/int_from_list/prp-43-48.smt2 : 2518 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/nec-smt/large/int_from_list/prp-43-47.smt2 : 1200018 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/nec-smt/large/int_from_list/prp-40-48.smt2 : 1200018 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/nec-smt/large/int_from_list/prp-12-46.smt2 : 1200021 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/int_from_list/prp-51-49.smt2 : 3541 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/int_from_list/prp-49-50.smt2 : 4148 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/int_from_list/prp-1-47.smt2 : 3357 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/nec-smt/large/int_from_list/prp-49-48.smt2 : 1200022 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/int_from_list/prp-51-47.smt2 : 2820 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/int_from_list/prp-46-49.smt2 : 2926 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/int_from_list/prp-0-49.smt2 : 4073 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/int_from_list/prp-43-46.smt2 : 2362 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/int_from_list/prp-51-46.smt2 : 2862 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/int_from_list/prp-1-49.smt2 : 4193 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/nec-smt/large/int_from_list/prp-49-49.smt2 : 1200021 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/int_from_list/prp-40-47.smt2 : 2604 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/int_from_list/prp-12-48.smt2 : 3144 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/int_from_list/prp-37-50.smt2 : 3770 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/int_from_list/prp-0-47.smt2 : 3339 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/int_from_list/prp-51-50.smt2 : 4057 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/int_from_list/prp-37-49.smt2 : 2813 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-33-46.smt2 : 675517 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-46-46.smt2 : 76640 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-41-50.smt2 : 83689 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-28-46.smt2 : 1136424 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-25-38.smt2 : 427015 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-33-50.smt2 : 188747 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-19-49.smt2 : 1200035 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-7-34.smt2 : 1200019 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-7-43.smt2 : 1200029 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-28-49.smt2 : 42642 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-17-48.smt2 : 1200034 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-23-40.smt2 : 1200021 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-20-34.smt2 : 6447 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-7-46.smt2 : 1200031 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-45-45.smt2 : 31764 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-48-47.smt2 : 35238 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-27-47.smt2 : 32244 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-30-40.smt2 : 16551 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-22-44.smt2 : 1200029 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-38-49.smt2 : 51344 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-22-34.smt2 : 5837 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-18-36.smt2 : 6685 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-54-49.smt2 : 88990 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-7-39.smt2 : 1200023 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-16-37.smt2 : 1200023 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-24-49.smt2 : 145539 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-16-48.smt2 : 1200035 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-27-35.smt2 : 5895 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-30-39.smt2 : 841968 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-20-38.smt2 : 1200023 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-22-38.smt2 : 414093 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-18-40.smt2 : 13045 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-28-37.smt2 : 8177 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-8-37.smt2 : 8975 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-36-40.smt2 : 15890 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-22-50.smt2 : 1200041 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-25-47.smt2 : 34576 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-32-45.smt2 : 35894 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-14-43.smt2 : 21615 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-46-45.smt2 : 98502 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-13-50.smt2 : 44009 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-36-48.smt2 : 51697 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-50-47.smt2 : 44784 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-49-47.smt2 : 67682 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-33-40.smt2 : 14861 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-17-36.smt2 : 7598 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-25-44.smt2 : 20600 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-46-42.smt2 : 16705 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-46-44.smt2 : 542746 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-46-50.smt2 : 50499 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-39-43.smt2 : 832786 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-42-48.smt2 : 43743 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-4-49.smt2 : 1200036 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-16-40.smt2 : 12060 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-50-50.smt2 : 1200040 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-27-44.smt2 : 24739 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-43-45.smt2 : 21402 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-33-47.smt2 : 1200031 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-33-41.smt2 : 1200025 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-47-45.smt2 : 54658 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-4-37.smt2 : 1200024 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-16-43.smt2 : 1200029 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-24-39.smt2 : 13889 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-14-36.smt2 : 7199 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-39-47.smt2 : 1200033 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-28-45.smt2 : 1200031 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-25-42.smt2 : 1200026 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-38-45.smt2 : 29491 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-33-45.smt2 : 1200035 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-8-46.smt2 : 51009 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-19-50.smt2 : 37331 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-19-34.smt2 : 30371 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-8-35.smt2 : 1200024 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-45-48.smt2 : 1200034 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-46-48.smt2 : 1028249 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-4-38.smt2 : 7950 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-43-50.smt2 : 1200041 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-32-50.smt2 : 45346 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-13-45.smt2 : 1200030 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-18-44.smt2 : 1200030 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-18-47.smt2 : 1200032 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-8-44.smt2 : 18064 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-30-50.smt2 : 1200049 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-39-46.smt2 : 1200032 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-30-45.smt2 : 20454 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-29-39.smt2 : 1200023 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-24-46.smt2 : 26621 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-46-43.smt2 : 561348 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-38-47.smt2 : 1200033 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-20-45.smt2 : 1200030 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-34-46.smt2 : 32504 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-36-47.smt2 : 32205 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-27-36.smt2 : 6687 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-30-34.smt2 : 1200020 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-5-35.smt2 : 5337 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-8-38.smt2 : 1200023 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-13-43.smt2 : 1200028 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-14-39.smt2 : 172094 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-29-46.smt2 : 23603 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-32-42.smt2 : 29135 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-22-41.smt2 : 1200026 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-5-43.smt2 : 1200027 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-39-50.smt2 : 51773 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-27-37.smt2 : 9843 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-40-44.smt2 : 64477 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-54-50.smt2 : 760459 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-32-35.smt2 : 6355 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-43-43.smt2 : 19346 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-20-44.smt2 : 1200028 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-40-50.smt2 : 1200045 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-24-42.smt2 : 281611 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-32-43.smt2 : 23257 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-24-50.smt2 : 1200040 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-28-50.smt2 : 1025028 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-8-42.smt2 : 1200026 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-8-43.smt2 : 16301 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-8-48.smt2 : 183154 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-21-37.smt2 : 1200022 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-16-36.smt2 : 1200023 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-40-41.smt2 : 16269 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-17-47.smt2 : 30729 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-32-38.smt2 : 448103 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-8-50.smt2 : 1200039 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-30-36.smt2 : 7994 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-18-46.smt2 : 1200031 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-13-41.smt2 : 12697 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-28-42.smt2 : 18685 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-18-41.smt2 : 1200025 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-25-39.smt2 : 1200024 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-24-35.smt2 : 7137 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-4-43.smt2 : 1200026 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-44-49.smt2 : 87861 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-8-39.smt2 : 1200024 ms.
+--------------------------------------------------
+timeout
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-35-38.smt2 : 1200021 ms.
+--------------------------------------------------
+sat
+OMT_LIA/nec-smt/large/checkpass_pwd/prp-17-40.smt2 : 10299 ms.

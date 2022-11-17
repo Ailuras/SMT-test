@@ -1,0 +1,57 @@
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/circles/3/sqrt-circles-3-chunk-0005.smt2 : 46 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/circles/3/sqrt-circles-3-chunk-0007.smt2 : 48 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/circles/3/sqrt-circles-3-chunk-0008.smt2 : 40 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/circles/3/sqrt-circles-3-chunk-0009.smt2 : 53 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/circles/3/sqrt-circles-3-chunk-0010.smt2 : 46 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/sqrt/circles/3/sqrt-circles-3-chunk-0011.smt2 : 48 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/circles/3/sqrt-circles-3-chunk-0013.smt2 : 32 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/circles/3/sqrt-circles-3-chunk-0014.smt2 : 30 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/circles/3/sqrt-circles-3-chunk-0015.smt2 : 30 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/circles/3/sqrt-circles-3-chunk-0016.smt2 : 33 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/circles/3/sqrt-circles-3-chunk-0017.smt2 : 36 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/sqrt/circles/3/sqrt-circles-3-chunk-0018.smt2 : 504 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/circles/3/sqrt-circles-3-chunk-0019.smt2 : 25 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/circles/3/sqrt-circles-3-chunk-0020.smt2 : 26 ms.
+--------------------------------------------------
+./solvers/smtrat/run.sh: line 3: 221525 Killed                  LD_PRELOAD=libmimalloc.so ./smtrat ../$1 2> /dev/null
+QF_NRA/meti-tarski/sqrt/circles/3/sqrt-circles-3-chunk-0021.smt2 : 1800143 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/circles/3/sqrt-circles-3-chunk-0022.smt2 : 36 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/sqrt/circles/3/sqrt-circles-3-chunk-0023.smt2 : 279 ms.
+--------------------------------------------------
+sat
+QF_NRA/meti-tarski/sqrt/circles/3/sqrt-circles-3-chunk-0024.smt2 : 21 ms.
+--------------------------------------------------
+unsat
+QF_NRA/meti-tarski/sqrt/circles/3/sqrt-circles-3-chunk-0025.smt2 : 16 ms.

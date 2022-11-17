@@ -1,0 +1,84 @@
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230327-stringfuzz-lu/generated/variants/fbad8678.smt2 : 1200051 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230327-stringfuzz-lu/generated/variants/fc4809af.smt2 : 1200021 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230327-stringfuzz-lu/generated/variants/fd2277fd.smt2 : 1200022 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230327-stringfuzz-lu/generated/variants/fdba15fe.smt2 : 1200020 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230327-stringfuzz-lu/generated/variants/fdca6d58.smt2 : 1200020 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230327-stringfuzz-lu/generated/variants/fe044f01.smt2 : 1200015 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230327-stringfuzz-lu/generated/variants/ff8789d9.smt2 : 1200019 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/generated/variants/ffa172bd.smt2 : 674193 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230329-denghang/instance50137.smt2 : 45 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230329-denghang/instance50182.smt2 : 17 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230329-denghang/instance50186.smt2 : 22 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230329-denghang/instance50188.smt2 : 17 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230329-denghang/instance50245.smt2 : 19 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230329-denghang/instance50267.smt2 : 19 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230329-denghang/instance50277.smt2 : 19 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230329-denghang/instance50286.smt2 : 332 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230329-denghang/instance50304.smt2 : 18 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/20230329-denghang/instance50324.smt2 : 1200099 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230329-denghang/instance50344.smt2 : 34 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230329-denghang/instance50348.smt2 : 15 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230329-denghang/instance50391.smt2 : 21 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230329-denghang/instance50466.smt2 : 18 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230329-denghang/instance50470.smt2 : 18 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230329-denghang/instance50521.smt2 : 17 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230329-denghang/instance50525.smt2 : 21 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230329-denghang/instance50535.smt2 : 19 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230329-denghang/instance50565.smt2 : 22 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/20230329-denghang/instance50586.smt2 : 20 ms.

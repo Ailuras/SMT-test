@@ -1,0 +1,36 @@
+--------------------------------------------------
+sat
+(objectives
+ (voted_yes_383 1)
+)
+OMT_LIA/20220307-SMPT/Referendum-PT-0500/RC-05.smt2 : 6337 ms.
+--------------------------------------------------
+sat
+(objectives
+ (voted_yes_105 1)
+)
+OMT_LIA/20220307-SMPT/Referendum-PT-0500/RC-04.smt2 : 4751 ms.
+--------------------------------------------------
+sat
+(objectives
+ (a203 0)
+)
+OMT_LIA/20220307-SMPT/Referendum-PT-0500/RF-14.smt2 : 10266 ms.
+--------------------------------------------------
+sat
+(objectives
+ (voting_86 1)
+)
+OMT_LIA/20220307-SMPT/Referendum-PT-0500/RF-10.smt2 : 885 ms.
+--------------------------------------------------
+sat
+(objectives
+ (a678 1)
+)
+OMT_LIA/20220307-SMPT/Referendum-PT-0500/RF-12.smt2 : 6016 ms.
+--------------------------------------------------
+sat
+(objectives
+ (voting_462 0)
+)
+OMT_LIA/20220307-SMPT/Referendum-PT-0500/RF-05.smt2 : 10364 ms.

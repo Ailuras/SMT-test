@@ -1,0 +1,1 @@
+timeout $2 solvers/optimathsat/bin/optimathsat -optimization=true -model_generation=true $1

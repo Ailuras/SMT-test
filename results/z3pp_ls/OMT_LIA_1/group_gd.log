@@ -1,0 +1,30 @@
+--------------------------------------------------
+sat
+(objectives
+ (x4585 0)
+)
+OMT_LIA/pb2010/normalized-j9035_5-sat.smt2 : 42254 ms.
+--------------------------------------------------
+sat
+(objectives
+ (x7574 0)
+)
+OMT_LIA/pb2010/normalized-j6018_3-sat.smt2 : 10467 ms.
+--------------------------------------------------
+sat
+(objectives
+ (x9468 0)
+)
+OMT_LIA/pb2010/normalized-j9027_5-sat.smt2 : 47044 ms.
+--------------------------------------------------
+sat
+(objectives
+ (x10021 0)
+)
+OMT_LIA/pb2010/normalized-j6040_1-sat.smt2 : 9267 ms.
+--------------------------------------------------
+sat
+(objectives
+ (x1864 0)
+)
+OMT_LIA/pb2010/normalized-j3031_7-sat.smt2 : 4485 ms.

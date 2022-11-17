@@ -1,0 +1,36 @@
+--------------------------------------------------
+sat
+(objectives
+ (Ext_Mem_Acc_7_12 0)
+)
+OMT_LIA/20220307-SMPT/SharedMemory-PT-000020/RC-00.smt2 : 3333 ms.
+--------------------------------------------------
+sat
+(objectives
+ (a1095 0)
+)
+OMT_LIA/20220307-SMPT/SharedMemory-PT-000020/RF-06.smt2 : 2667 ms.
+--------------------------------------------------
+sat
+(objectives
+ (Ext_Mem_Acc_12_2 0)
+)
+OMT_LIA/20220307-SMPT/SharedMemory-PT-000020/RF-01.smt2 : 2067 ms.
+--------------------------------------------------
+sat
+(objectives
+ (Ext_Mem_Acc_11_16 1)
+)
+OMT_LIA/20220307-SMPT/SharedMemory-PT-000020/RC-01.smt2 : 4824 ms.
+--------------------------------------------------
+sat
+(objectives
+ (Ext_Mem_Acc_10_6 0)
+)
+OMT_LIA/20220307-SMPT/SharedMemory-PT-000020/RC-03.smt2 : 7207 ms.
+--------------------------------------------------
+sat
+(objectives
+ (a447 0)
+)
+OMT_LIA/20220307-SMPT/SharedMemory-PT-000020/RF-04.smt2 : 4097 ms.

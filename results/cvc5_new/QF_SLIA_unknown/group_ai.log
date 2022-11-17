@@ -1,0 +1,81 @@
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/2018-Kepler/quad-length-089-4-4-sat.smt2 : 1200058 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/2018-Kepler/quad-length-090-4-4-unsat.smt2 : 53 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/2018-Kepler/quad-length-091-4-0-sat.smt2 : 1200038 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/2018-Kepler/quad-length-093-4-1-sat.smt2 : 1200041 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/2018-Kepler/quad-length-095-4-1-sat.smt2 : 1200032 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/2018-Kepler/quad-length-097-4-1-sat.smt2 : 1200029 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/2018-Kepler/quad-length-099-4-2-sat.smt2 : 1200032 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/2018-Kepler/quad-length-101-4-2-sat.smt2 : 1200028 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/2018-Kepler/quad-length-102-4-2-unsat.smt2 : 20 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/2018-Kepler/quad-length-103-4-2-sat.smt2 : 1200030 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/2018-Kepler/quad-length-104-4-2-unsat.smt2 : 29 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/2018-Kepler/quad-length-105-4-2-sat.smt2 : 1200030 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/2018-Kepler/quad-length-106-4-2-unsat.smt2 : 24 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/2018-Kepler/quad-length-107-4-3-sat.smt2 : 1200032 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/2018-Kepler/quad-length-108-4-3-unsat.smt2 : 38 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/2018-Kepler/quad-length-109-4-3-sat.smt2 : 1200047 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/2018-Kepler/quad-length-110-4-3-unsat.smt2 : 20 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/2018-Kepler/quad-length-112-4-3-unsat.smt2 : 25 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/2018-Kepler/quad-length-113-4-3-sat.smt2 : 1200031 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/2018-Kepler/quad-length-115-4-3-sat.smt2 : 1200030 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/2018-Kepler/quad-length-116-4-3-unsat.smt2 : 38 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/2018-Kepler/quad-length-117-4-4-sat.smt2 : 1200031 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/2018-Kepler/quad-length-118-4-4-unsat.smt2 : 31 ms.
+--------------------------------------------------
+cvc5 interrupted by SIGTERM.
+QF_SLIA/2018-Kepler/quad-length-119-4-4-sat.smt2 : 1200031 ms.
+--------------------------------------------------
+unsat
+QF_SLIA/2018-Kepler/quad-length-120-4-4-unsat.smt2 : 25 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/generated/regexpair/regex-pair-00016-21.smt2 : 100 ms.
+--------------------------------------------------
+sat
+QF_SLIA/20230327-stringfuzz-lu/generated/regexpair/regex-pair-00021-12.smt2 : 128 ms.
