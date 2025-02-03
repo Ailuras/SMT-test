@@ -1,56 +1,38 @@
 #!/bin/bash
 
 input_file="$1"
-input_dir="$2"
-solver="$3"
-time_t="$4"
+timeout="$2"
 
-while read -r file_path; do
-    # 在这里处理每个文件，例如：
-    folder=$(basename $input_dir)
-    relative_path=${file_path#$input_dir}
-    new_file_path="${folder}${relative_path}"
+while read -r smt2_file; do
+    file_name=$(basename "$smt2_file")
+    parent_dir=$(basename "$(dirname "$(dirname "$smt2_file")")")
 
-    # 在这里执行你需要的文件处理操作
-    echo --------------------------------------------------
+    echo "--------------------------------------------------"
+    
+    if [[ ! -f "$smt2_file" ]]; then
+        echo "Error: .smt2 file not found: $smt2_file"
+        continue
+    fi
+    
+    if [[ "$parent_dir" == "QF_LIA" ]]; then
+        solver_command="timeout $timeout ./solvers/yices2/yices_smt2 --incremental $smt2_file"
+    elif [[ "$parent_dir" == "QF_LRA" ]]; then
+        solver_command="timeout $timeout ./solvers/opensmt/opensmt $smt2_file"
+    elif [[ "$parent_dir" == "QF_NIA" ]]; then
+        solver_command="timeout $timeout ./solvers/smtinterpol/smtinterpol $smt2_file"
+    else
+        echo "Unknown theory: $parent_dir"
+        continue
+    fi
+    
     start=$[$(date +%s%N)/1000000]
-    if [ "$solver"x = "z3"x ]; then
-        ./solvers/z3/run.sh $file_path $time_t
-    fi
-    if [ "$solver"x = "cvc5"x ]; then
-        ./solvers/cvc5/run.sh $file_path $time_t
-    fi
-    if [ "$solver"x = "cvc5_new"x ]; then
-        timeout $time_t /home/hanrui/cvc5/build/bin/cvc5 $file_path
-    fi
-    if [ "$solver"x = "yices2"x ]; then
-        ./solvers/yices2/run.sh $file_path $time_t
-    fi
-    if [ "$solver"x = "mathsat5"x ]; then
-        ./solvers/mathsat/run.sh $file_path $time_t
-    fi
-    if [ "$solver"x = "smtrat"x ]; then
-        ./solvers/smtrat/run.sh $file_path $time_t
-    fi
-    if [ "$solver"x = "z3_UD"x ]; then
-        ./solvers/z3_UD/run.sh $file_path $time_t
-    fi
-    if [ "$solver"x = "ismt"x ]; then
-        ./solvers/ismt/run.sh $file_path $time_t
-    fi
-    if [ "$solver"x = "ismt-yices2"x ]; then
-        ./solvers/ismt-yices2/run.sh $file_path $time_t
-    fi
-    if [ "$solver"x = "optimathsat"x ]; then
-        ./solvers/optimathsat/run.sh $file_path $time_t
-    fi
-    if [ "$solver"x = "z3pp"x ]; then
-        ./solvers/z3pp/run.sh $file_path $time_t
-    fi
-    if [ "$solver"x = "z3pp_ls"x ]; then
-        ./solvers/z3pp_ls/run.sh $file_path $time_t
-    fi
+
+    # echo "$solver_command"
+    $solver_command
+    
     end=$[$(date +%s%N)/1000000]
-    take=$(( end - start ))
-    echo $new_file_path : ${take} ms.
+    duration=$(( end - start ))
+    
+    echo "$smt2_file : ${duration} ms."
+    
 done < "$input_file"

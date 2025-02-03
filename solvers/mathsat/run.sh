@@ -1,0 +1,1 @@
+timeout $2 solvers/mathsat/bin/mathsat -optimization=true -model_generation=true $1
