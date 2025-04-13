@@ -1,0 +1,11 @@
+Log file created: /home/hanrui/SMT-test/results/logs/kill.log
+Searching for processes to terminate...
+Terminating processes in order...
+No batch processing processes found
+No CVC5 solver processes found
+No Z3 solver processes found
+No Z3-Noodler solver processes found
+No solver runner processes found
+No Python analysis processes found
+No Python preprocessing processes found
+Process termination complete.

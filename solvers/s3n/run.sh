@@ -1,1 +1,0 @@
-timeout $2 solvers/s3n/bin/S3N $1

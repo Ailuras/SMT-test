@@ -1,0 +1,68 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Analyze Benchmarks",
+            "type": "shell",
+            "command": "bash scripts/bench_preprocess.sh --input-dir /home/hanrui/SMTLIB/QF_SLIA --excel-dir charts --excel-file QF_SLIA.xlsx",
+            "presentation": {
+                "reveal": "always",
+                "panel": "shared"
+            }
+        },
+        {
+            "label": "Run CVC5 Tests",
+            "type": "shell",
+            "command": "nohup bash scripts/bench_solve.sh --input-dir /home/hanrui/SMTLIB/QF_SLIA --output-dir results --task cvc5 --solver cvc5 --timeout 10 --parallel 20 --excel-dir charts --excel-file QF_SLIA.xlsx --log-dir results/logs --log-file cvc5_solve.log &",
+            "presentation": {
+                "reveal": "always",
+                "panel": "shared"
+            }
+        },
+        {
+            "label": "Run Z3 Tests",
+            "type": "shell",
+            "command": "nohup bash scripts/bench_solve.sh --input-dir /home/hanrui/SMTLIB/QF_SLIA --output-dir results --task z3 --solver z3 --timeout 10 --parallel 20 --excel-dir charts --excel-file QF_SLIA.xlsx --log-dir results/logs --log-file z3_solve.log &",
+            "presentation": {
+                "reveal": "always",
+                "panel": "shared"
+            }
+        },
+        {
+            "label": "Run Z3-Noodler Tests",
+            "type": "shell",
+            "command": "nohup bash scripts/bench_solve.sh --input-dir /home/hanrui/SMTLIB/QF_SLIA --output-dir results --task z3-noodler --solver z3-noodler --timeout 10 --parallel 20 --excel-dir charts --excel-file QF_SLIA.xlsx --log-dir results/logs --log-file z3_noodler_solve.log &",
+            "presentation": {
+                "reveal": "always",
+                "panel": "shared"
+            }
+        },
+        {
+            "label": "Process All Results",
+            "type": "shell",
+            "command": "python scripts/analysis_solve.py --input-excel charts/QF_SLIA.xlsx --log-dir results/cvc5 results/z3 results/z3-noodler --output-file charts/QF_SLIA_updated.xlsx",
+            "presentation": {
+                "reveal": "always",
+                "panel": "shared"
+            }
+        },
+        {
+            "label": "Kill All Processes",
+            "type": "shell",
+            "command": "bash scripts/kill.sh --log-dir results/logs --log-file kill.log",
+            "presentation": {
+                "reveal": "always",
+                "panel": "shared"
+            }
+        },
+        {
+            "label": "Git Commit and Push force",
+            "type": "shell",
+            "command": "git add . && git commit --no-edit --amend && git push origin String-SMT-2024 --force",
+            "presentation": {
+                "reveal": "always",
+                "panel": "shared"
+            }
+        }
+    ]
+} 

@@ -1,0 +1,32 @@
+Log file created: /home/hanrui/SMT-test/results/logs/z3_noodler_solve.log
+Processing configuration:
+  Input directory: /home/hanrui/SMTLIB/QF_SLIA
+  Output directory: /home/hanrui/SMT-test/results/z3-noodler
+  Task: z3-noodler
+  Solver: z3-noodler
+  Timeout: 10s
+  Parallel processes: 20
+  Total files: 81108
+  Files per batch: 4056
+Starting parallel processing with 20 processes...
+Started batch 0 with PID 4141231
+Started batch 1 with PID 4141235
+Started batch 2 with PID 4141238
+Started batch 3 with PID 4141263
+Started batch 4 with PID 4141274
+Started batch 5 with PID 4141299
+Started batch 6 with PID 4141340
+Started batch 7 with PID 4141361
+Started batch 8 with PID 4141429
+Started batch 9 with PID 4141507
+Started batch 10 with PID 4141527
+Started batch 11 with PID 4141566
+Started batch 12 with PID 4141576
+Started batch 13 with PID 4141605
+Started batch 14 with PID 4141786
+Started batch 15 with PID 4141975
+Started batch 16 with PID 4142152
+Started batch 17 with PID 4142307
+Started batch 18 with PID 4142437
+Started batch 19 with PID 4142600
+Waiting for all processes to complete...
