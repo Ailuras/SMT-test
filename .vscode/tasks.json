@@ -4,7 +4,7 @@
         {
             "label": "Analyze Benchmarks",
             "type": "shell",
-            "command": "bash scripts/bench_preprocess.sh --input-dir /home/hanrui/SMTLIB/QF_SLIA --excel-dir charts --excel-file QF_SLIA.xlsx",
+            "command": "bash scripts/bench_preprocess.sh --input-dir /home/hanrui/SMTLIB/QF_S --excel-dir charts --excel-file QF_S.xlsx",
             "presentation": {
                 "reveal": "always",
                 "panel": "shared"
@@ -13,7 +13,8 @@
         {
             "label": "Run CVC5 Tests",
             "type": "shell",
-            "command": "nohup bash scripts/bench_solve.sh --input-dir /home/hanrui/SMTLIB/QF_SLIA --output-dir results --task cvc5 --solver cvc5 --timeout 10 --parallel 20 --excel-dir charts --excel-file QF_SLIA.xlsx --log-dir results/logs --log-file cvc5_solve.log &",
+            "command": "bash scripts/bench_solve.sh --input-dir /home/hanrui/SMTLIB/QF_S --output-dir results --task S-cvc5 --solver cvc5 --timeout 10 --parallel 25 --excel-dir charts --excel-file QF_S.xlsx --log-dir results/logs --log-file cvc5_solve.log",
+            "isBackground": true,
             "presentation": {
                 "reveal": "always",
                 "panel": "shared"
@@ -22,7 +23,8 @@
         {
             "label": "Run Z3 Tests",
             "type": "shell",
-            "command": "nohup bash scripts/bench_solve.sh --input-dir /home/hanrui/SMTLIB/QF_SLIA --output-dir results --task z3 --solver z3 --timeout 10 --parallel 20 --excel-dir charts --excel-file QF_SLIA.xlsx --log-dir results/logs --log-file z3_solve.log &",
+            "command": "bash scripts/bench_solve.sh --input-dir /home/hanrui/SMTLIB/QF_S --output-dir results --task S-z3 --solver z3 --timeout 10 --parallel 25 --excel-dir charts --excel-file QF_S.xlsx --log-dir results/logs --log-file z3_solve.log",
+            "isBackground": true,
             "presentation": {
                 "reveal": "always",
                 "panel": "shared"
@@ -31,7 +33,8 @@
         {
             "label": "Run Z3-Noodler Tests",
             "type": "shell",
-            "command": "nohup bash scripts/bench_solve.sh --input-dir /home/hanrui/SMTLIB/QF_SLIA --output-dir results --task z3-noodler --solver z3-noodler --timeout 10 --parallel 20 --excel-dir charts --excel-file QF_SLIA.xlsx --log-dir results/logs --log-file z3_noodler_solve.log &",
+            "command": "bash scripts/bench_solve.sh --input-dir /home/hanrui/SMTLIB/QF_S --output-dir results --task S-z3-noodler --solver z3-noodler --timeout 10 --parallel 25 --excel-dir charts --excel-file QF_S.xlsx --log-dir results/logs --log-file z3_noodler_solve.log",
+            "isBackground": true,
             "presentation": {
                 "reveal": "always",
                 "panel": "shared"
@@ -40,7 +43,7 @@
         {
             "label": "Process All Results",
             "type": "shell",
-            "command": "python scripts/analysis_solve.py --input-excel charts/QF_SLIA.xlsx --log-dir results/cvc5 results/z3 results/z3-noodler --output-file charts/QF_SLIA_updated.xlsx",
+            "command": "python scripts/analysis_solve.py --input-excel charts/QF_SLIA.xlsx --log-dir results/SLIA-cvc5 results/SLIA-z3 results/SLIA-z3-noodler --output-file charts/QF_SLIA_updated.xlsx",
             "presentation": {
                 "reveal": "always",
                 "panel": "shared"

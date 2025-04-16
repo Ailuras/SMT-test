@@ -1,32 +1,37 @@
 Log file created: /home/hanrui/SMT-test/results/logs/z3_noodler_solve.log
 Processing configuration:
-  Input directory: /home/hanrui/SMTLIB/QF_SLIA
-  Output directory: /home/hanrui/SMT-test/results/z3-noodler
-  Task: z3-noodler
+  Input directory: /home/hanrui/SMTLIB/QF_S
+  Output directory: /home/hanrui/SMT-test/results/S-z3-noodler
+  Task: S-z3-noodler
   Solver: z3-noodler
   Timeout: 10s
-  Parallel processes: 20
-  Total files: 81108
-  Files per batch: 4056
-Starting parallel processing with 20 processes...
-Started batch 0 with PID 4141231
-Started batch 1 with PID 4141235
-Started batch 2 with PID 4141238
-Started batch 3 with PID 4141263
-Started batch 4 with PID 4141274
-Started batch 5 with PID 4141299
-Started batch 6 with PID 4141340
-Started batch 7 with PID 4141361
-Started batch 8 with PID 4141429
-Started batch 9 with PID 4141507
-Started batch 10 with PID 4141527
-Started batch 11 with PID 4141566
-Started batch 12 with PID 4141576
-Started batch 13 with PID 4141605
-Started batch 14 with PID 4141786
-Started batch 15 with PID 4141975
-Started batch 16 with PID 4142152
-Started batch 17 with PID 4142307
-Started batch 18 with PID 4142437
-Started batch 19 with PID 4142600
+  Parallel processes: 25
+  Total files: 18940
+  Files per batch: 758
+Starting parallel processing with 25 processes...
+Started batch 0 with PID 2524803
+Started batch 1 with PID 2524804
+Started batch 2 with PID 2524805
+Started batch 3 with PID 2524811
+Started batch 4 with PID 2524825
+Started batch 5 with PID 2524841
+Started batch 6 with PID 2524862
+Started batch 7 with PID 2524890
+Started batch 8 with PID 2524925
+Started batch 9 with PID 2524959
+Started batch 10 with PID 2525005
+Started batch 11 with PID 2525042
+Started batch 12 with PID 2525089
+Started batch 13 with PID 2525144
+Started batch 14 with PID 2525199
+Started batch 15 with PID 2525242
+Started batch 16 with PID 2525316
+Started batch 17 with PID 2525378
+Started batch 18 with PID 2525438
+Started batch 19 with PID 2525502
+Started batch 20 with PID 2525562
+Started batch 21 with PID 2525627
+Started batch 22 with PID 2525699
+Started batch 23 with PID 2525789
+Started batch 24 with PID 2525857
 Waiting for all processes to complete...

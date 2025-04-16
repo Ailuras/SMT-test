@@ -1,0 +1,37 @@
+Log file created: /home/hanrui/SMT-test/results/logs/cvc5_solve.log
+Processing configuration:
+  Input directory: /home/hanrui/SMTLIB/QF_S
+  Output directory: /home/hanrui/SMT-test/results/S-cvc5
+  Task: S-cvc5
+  Solver: cvc5
+  Timeout: 10s
+  Parallel processes: 25
+  Total files: 18940
+  Files per batch: 758
+Starting parallel processing with 25 processes...
+Started batch 0 with PID 2829708
+Started batch 1 with PID 2829711
+Started batch 2 with PID 2829723
+Started batch 3 with PID 2829733
+Started batch 4 with PID 2829747
+Started batch 5 with PID 2829765
+Started batch 6 with PID 2829788
+Started batch 7 with PID 2829826
+Started batch 8 with PID 2829871
+Started batch 9 with PID 2829916
+Started batch 10 with PID 2829974
+Started batch 11 with PID 2830024
+Started batch 12 with PID 2830094
+Started batch 13 with PID 2830148
+Started batch 14 with PID 2830203
+Started batch 15 with PID 2830267
+Started batch 16 with PID 2830317
+Started batch 17 with PID 2830375
+Started batch 18 with PID 2830439
+Started batch 19 with PID 2830500
+Started batch 20 with PID 2830556
+Started batch 21 with PID 2830618
+Started batch 22 with PID 2830674
+Started batch 23 with PID 2830736
+Started batch 24 with PID 2830814
+Waiting for all processes to complete...

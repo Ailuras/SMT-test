@@ -3,36 +3,6 @@
 # This script processes files in parallel batches
 # Usage: bench_solve.sh --input-dir <input_dir> --output-dir <output_dir> --task <task_name> --solver <solver_name> --timeout <timeout> [--parallel <num_parallel>] [--excel-dir <excel_dir>] [--excel-file <excel_file>] [--log-dir <log_dir>] [--log-file <log_file>]
 
-# Function to handle cleanup on script termination
-cleanup() {
-    echo "Script interrupted. Cleaning up..."
-    # Kill all background processes
-    for pid in "${PIDS[@]}"; do
-        if ps -p "$pid" > /dev/null; then
-            kill "$pid" 2>/dev/null
-        fi
-    done
-    # Wait for all processes to finish
-    wait
-    # Generate Excel file if needed
-    if [ ! -z "$EXCEL_DIR" ] && [ ! -z "$EXCEL_FILE" ]; then
-        echo "Processing results for Excel report..."
-        EXCEL_PATH="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)/$EXCEL_DIR/$EXCEL_FILE"
-        OUTPUT_EXCEL="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)/$EXCEL_DIR/${EXCEL_FILE%.*}_${TASK_NAME}.xlsx"
-        if [ -f "$EXCEL_PATH" ]; then
-            python "$PARALLEL_SCRIPT_DIR/analysis_solve.py" \
-                --input-excel "$EXCEL_PATH" \
-                --log-dir "$TASK_OUTPUT_DIR" \
-                --output-file "$OUTPUT_EXCEL"
-            echo "Results processed and saved to: $OUTPUT_EXCEL"
-        fi
-    fi
-    exit 0
-}
-
-# Set up signal handlers
-trap cleanup SIGINT SIGTERM
-
 # Default values
 INPUT_DIR=""
 OUTPUT_DIR=""
